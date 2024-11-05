@@ -134,14 +134,14 @@ class TranscriptProcessor:
 
 
 # Example usage:
-candidate= "trump"
+candidate= "harris"
 
 # Go up two levels from current script location to reach Contenet directory
 script_dir = os.path.dirname(os.path.abspath(__file__))
 contenet_dir = os.path.dirname(os.path.dirname(script_dir))  # Go up to root directory
 
 # Construct paths relative to Contenet directory
-input_path = os.path.join(contenet_dir, "Content", "Raw Materials", f"{candidate}_transcripts_with_topics.csv")
+input_path = os.path.join(contenet_dir, "Content", "Raw Materials", f"{candidate}_transcripts_with_topics (v2).csv")
 output_dir = os.path.join(contenet_dir, "Content", "Processed Materials", f"{candidate}_speeches")
 
 print(contenet_dir)
