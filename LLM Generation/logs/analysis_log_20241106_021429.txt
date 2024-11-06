@@ -1,0 +1,1124 @@
+2024-11-06 02:14:29,372 - INFO - 
+Starting GPT processing...
+2024-11-06 02:14:30,479 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:30,484 - INFO - 
+                Successfully processed statement 004:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:30,504 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:30,505 - INFO - 
+                Successfully processed statement 002:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:30,524 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:30,524 - INFO - 
+                Successfully processed statement 003:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:30,534 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:30,535 - INFO - 
+                Successfully processed statement 000:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:30,734 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:30,735 - INFO - 
+                Successfully processed statement 001:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:30,930 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:30,933 - INFO - 
+                Successfully processed statement 007:
+                Topics: {'Healthcare'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:30,935 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:30,936 - INFO - 
+                Successfully processed statement 006:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:30,945 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:30,946 - INFO - 
+                Successfully processed statement 005:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:30,949 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:30,950 - INFO - 
+                Successfully processed statement 008:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 0
+                Ideology: -1
+            
+2024-11-06 02:14:31,192 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:31,194 - INFO - 
+                Successfully processed statement 009:
+                Topics: {'Government Policy'}
+                Importance: 1
+                Classification: 0
+                Ideology: 5
+            
+2024-11-06 02:14:33,855 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:33,856 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:33,858 - INFO - 
+                Successfully processed statement 011:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:33,859 - INFO - 
+                Successfully processed statement 013:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:34,074 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:34,075 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:34,077 - INFO - 
+                Successfully processed statement 012:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:34,077 - INFO - 
+                Successfully processed statement 010:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:34,083 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:34,084 - INFO - 
+                Successfully processed statement 014:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:34,360 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:34,362 - INFO - 
+                Successfully processed statement 015:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:34,568 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:34,569 - INFO - 
+                Successfully processed statement 018:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:34,577 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:34,578 - INFO - 
+                Successfully processed statement 019:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:34,629 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:34,630 - INFO - 
+                Successfully processed statement 016:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:34,638 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:34,639 - INFO - 
+                Successfully processed statement 017:
+                Topics: {'Economy', 'Foreign Policy', 'Technology'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:37,234 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:37,235 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:37,236 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:37,238 - INFO - 
+                Successfully processed statement 024:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:37,239 - INFO - 
+                Successfully processed statement 021:
+                Topics: {'Healthcare'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:37,241 - INFO - 
+                Successfully processed statement 022:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:37,263 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:37,263 - INFO - 
+                Successfully processed statement 020:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:37,608 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:37,610 - INFO - 
+                Successfully processed statement 023:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:38,077 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:38,079 - INFO - 
+                Successfully processed statement 027:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 0
+                Ideology: -1
+            
+2024-11-06 02:14:38,087 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:38,088 - INFO - 
+                Successfully processed statement 028:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:38,138 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:38,140 - INFO - 
+                Successfully processed statement 025:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:38,166 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:38,168 - INFO - 
+                Successfully processed statement 026:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:38,209 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:38,210 - INFO - 
+                Successfully processed statement 029:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:40,921 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:40,922 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:40,923 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:40,923 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:40,926 - INFO - 
+                Successfully processed statement 030:
+                Topics: {'Healthcare'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:40,926 - INFO - 
+                Successfully processed statement 032:
+                Topics: {'Gun Control', 'Immigration'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:40,927 - INFO - 
+                Successfully processed statement 031:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:40,928 - INFO - 
+                Successfully processed statement 033:
+                Topics: {'Immigration'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:41,117 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:41,118 - INFO - 
+                Successfully processed statement 034:
+                Topics: {'Immigration'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:41,536 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:41,537 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:41,538 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:41,538 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:41,540 - INFO - 
+                Successfully processed statement 037:
+                Topics: {'Immigration'}
+                Importance: 1
+                Classification: 1
+                Ideology: 10
+            
+2024-11-06 02:14:41,541 - INFO - 
+                Successfully processed statement 038:
+                Topics: {'Social Justice'}
+                Importance: 0
+                Classification: 0
+                Ideology: -1
+            
+2024-11-06 02:14:41,542 - INFO - 
+                Successfully processed statement 035:
+                Topics: {'Immigration'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:41,542 - INFO - 
+                Successfully processed statement 036:
+                Topics: {'Gun Control', 'Immigration'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:41,842 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:41,843 - INFO - 
+                Successfully processed statement 039:
+                Topics: {'Climate'}
+                Importance: 1
+                Classification: 1
+                Ideology: 10
+            
+2024-11-06 02:14:44,813 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:44,814 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:44,815 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:44,816 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:44,818 - INFO - 
+                Successfully processed statement 040:
+                Topics: {'Government Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:44,819 - INFO - 
+                Successfully processed statement 041:
+                Topics: {'Government Policy'}
+                Importance: 1
+                Classification: 0
+                Ideology: -1
+            
+2024-11-06 02:14:44,819 - INFO - 
+                Successfully processed statement 044:
+                Topics: {'Government Policy'}
+                Importance: 1
+                Classification: 0
+                Ideology: -1
+            
+2024-11-06 02:14:44,819 - INFO - 
+                Successfully processed statement 043:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 0
+                Ideology: -1
+            
+2024-11-06 02:14:44,850 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:44,851 - INFO - 
+                Successfully processed statement 042:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 0
+                Ideology: -1
+            
+2024-11-06 02:14:45,427 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:45,428 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:45,430 - INFO - 
+                Successfully processed statement 047:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:45,430 - INFO - 
+                Successfully processed statement 045:
+                Topics: {'Government Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:45,802 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:45,804 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:45,806 - INFO - 
+                Successfully processed statement 049:
+                Topics: {'Government Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:45,807 - INFO - 
+                Successfully processed statement 048:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:45,966 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:45,968 - INFO - 
+                Successfully processed statement 046:
+                Topics: set()
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:48,702 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:48,703 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:48,704 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:48,706 - INFO - 
+                Successfully processed statement 053:
+                Topics: {'Government Policy'}
+                Importance: 1
+                Classification: 0
+                Ideology: -1
+            
+2024-11-06 02:14:48,707 - INFO - 
+                Successfully processed statement 051:
+                Topics: {'Government Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:48,708 - INFO - 
+                Successfully processed statement 052:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:48,844 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:48,845 - INFO - 
+                Successfully processed statement 054:
+                Topics: {'Climate'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:49,063 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:49,065 - INFO - 
+                Successfully processed statement 050:
+                Topics: {'Government Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:49,272 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:49,274 - INFO - 
+                Successfully processed statement 056:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:49,467 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:49,469 - INFO - 
+                Successfully processed statement 057:
+                Topics: {'Climate'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:49,478 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:49,479 - INFO - 
+                Successfully processed statement 055:
+                Topics: {'Climate'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:49,831 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:49,832 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:49,834 - INFO - 
+                Successfully processed statement 059:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:49,834 - INFO - 
+                Successfully processed statement 058:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:52,798 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:52,799 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:52,799 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:52,800 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:52,801 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:52,803 - INFO - 
+                Successfully processed statement 063:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:52,804 - INFO - 
+                Successfully processed statement 064:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 0
+                Ideology: -1
+            
+2024-11-06 02:14:52,804 - INFO - 
+                Successfully processed statement 060:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:52,806 - INFO - 
+                Successfully processed statement 061:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: 0
+            
+2024-11-06 02:14:52,807 - INFO - 
+                Successfully processed statement 062:
+                Topics: {'Government Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:53,517 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:53,518 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:53,520 - INFO - 
+                Successfully processed statement 067:
+                Topics: {'Government Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:53,521 - INFO - 
+                Successfully processed statement 066:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 0
+                Ideology: -1
+            
+2024-11-06 02:14:53,721 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:53,723 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:53,724 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:53,726 - INFO - 
+                Successfully processed statement 068:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 0
+                Ideology: -1
+            
+2024-11-06 02:14:53,727 - INFO - 
+                Successfully processed statement 065:
+                Topics: {'Government Policy'}
+                Importance: 1
+                Classification: 0
+                Ideology: -1
+            
+2024-11-06 02:14:53,728 - INFO - 
+                Successfully processed statement 069:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 10
+            
+2024-11-06 02:14:56,383 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:56,386 - INFO - 
+                Successfully processed statement 070:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:56,478 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:56,479 - INFO - 
+                Successfully processed statement 073:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:56,635 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:56,636 - INFO - 
+                Successfully processed statement 072:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:56,642 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:56,643 - INFO - 
+                Successfully processed statement 071:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 0
+            
+2024-11-06 02:14:56,649 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:56,649 - INFO - 
+                Successfully processed statement 074:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:57,100 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:57,103 - INFO - 
+                Successfully processed statement 076:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 10
+            
+2024-11-06 02:14:57,202 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:57,203 - INFO - 
+                Successfully processed statement 075:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:57,337 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:57,339 - INFO - 
+                Successfully processed statement 079:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:14:57,344 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:57,347 - INFO - 
+                Successfully processed statement 077:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:14:57,467 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:14:57,469 - INFO - 
+                Successfully processed statement 078:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 0
+                Ideology: -1
+            
+2024-11-06 02:15:00,378 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:00,379 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:00,379 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:00,381 - INFO - 
+                Successfully processed statement 083:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:15:00,382 - INFO - 
+                Successfully processed statement 084:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:15:00,384 - INFO - 
+                Successfully processed statement 081:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 0
+                Ideology: -1
+            
+2024-11-06 02:15:00,387 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:00,388 - INFO - 
+                Successfully processed statement 082:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:15:00,399 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:00,399 - INFO - 
+                Successfully processed statement 080:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 10
+            
+2024-11-06 02:15:00,976 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:00,978 - INFO - 
+                Successfully processed statement 087:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:15:01,402 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:01,403 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:01,404 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:01,404 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:01,407 - INFO - 
+                Successfully processed statement 086:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:15:01,407 - INFO - 
+                Successfully processed statement 088:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:15:01,408 - INFO - 
+                Successfully processed statement 089:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 2
+                Ideology: 5
+            
+2024-11-06 02:15:01,409 - INFO - 
+                Successfully processed statement 085:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:15:04,166 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:04,167 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:04,168 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:04,170 - INFO - 
+                Successfully processed statement 094:
+                Topics: {'Veterans Affairs'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:15:04,171 - INFO - 
+                Successfully processed statement 093:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:15:04,172 - INFO - 
+                Successfully processed statement 092:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:15:04,173 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:04,174 - INFO - 
+                Successfully processed statement 091:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:15:04,298 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:04,299 - INFO - 
+                Successfully processed statement 090:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:15:04,781 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:04,783 - INFO - 
+                Successfully processed statement 099:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 0
+                Ideology: -1
+            
+2024-11-06 02:15:05,088 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:05,089 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:05,090 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:05,091 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:05,093 - INFO - 
+                Successfully processed statement 096:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:15:05,094 - INFO - 
+                Successfully processed statement 098:
+                Topics: set()
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:15:05,095 - INFO - 
+                Successfully processed statement 095:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:15:05,096 - INFO - 
+                Successfully processed statement 097:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:15:07,956 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:07,957 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:07,959 - INFO - 
+                Successfully processed statement 101:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:15:07,960 - INFO - 
+                Successfully processed statement 103:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:15:08,365 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:08,367 - INFO - 
+                Successfully processed statement 105:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 0
+                Ideology: -1
+            
+2024-11-06 02:15:08,740 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:08,742 - INFO - 
+                Successfully processed statement 107:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:15:08,757 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:08,758 - INFO - 
+                Successfully processed statement 106:
+                Topics: set()
+                Importance: 0
+                Classification: 0
+                Ideology: -1
+            
+2024-11-06 02:15:09,185 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:09,187 - INFO - 
+                Successfully processed statement 109:
+                Topics: set()
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:15:09,480 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:09,482 - INFO - 
+                Successfully processed statement 108:
+                Topics: {'Education'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:15:09,548 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:09,549 - INFO - 
+                Successfully processed statement 102:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:15:09,558 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:09,559 - INFO - 
+                Successfully processed statement 104:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 0
+                Ideology: -1
+            
+2024-11-06 02:15:09,615 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:09,616 - INFO - 
+                Successfully processed statement 100:
+                Topics: {'Social Justice'}
+                Importance: 0
+                Classification: 0
+                Ideology: -1
+            
+2024-11-06 02:15:12,154 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:12,154 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:12,156 - INFO - 
+                Successfully processed statement 112:
+                Topics: {'Gun Control'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:15:12,158 - INFO - 
+                Successfully processed statement 113:
+                Topics: {'Healthcare'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:15:12,561 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:12,563 - INFO - 
+                Successfully processed statement 111:
+                Topics: {'Healthcare'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:15:12,594 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:12,595 - INFO - 
+                Successfully processed statement 115:
+                Topics: {'Healthcare'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:15:12,650 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:12,651 - INFO - 
+                Successfully processed statement 114:
+                Topics: {'Healthcare'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:15:12,672 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:12,674 - INFO - 
+                Successfully processed statement 116:
+                Topics: {'Healthcare'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:15:13,075 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:13,079 - INFO - 
+                Successfully processed statement 117:
+                Topics: {'Healthcare'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:15:13,381 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:13,382 - INFO - 
+                Successfully processed statement 118:
+                Topics: {'Healthcare'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:15:13,792 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:13,793 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:13,794 - INFO - 
+                Successfully processed statement 110:
+                Topics: {'Healthcare'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:15:13,795 - INFO - 
+                Successfully processed statement 119:
+                Topics: {'Healthcare'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:15:16,352 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:16,354 - INFO - 
+                Successfully processed statement 120:
+                Topics: {'Healthcare'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:15:16,420 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:16,420 - INFO - 
+                Successfully processed statement 121:
+                Topics: {'Healthcare'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:15:16,430 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:16,430 - INFO - 
+                Successfully processed statement 123:
+                Topics: {'Climate'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:15:16,682 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:16,684 - INFO - 
+                Successfully processed statement 124:
+                Topics: {'Climate'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:15:16,769 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:16,770 - INFO - 
+                Successfully processed statement 122:
+                Topics: {'Healthcare'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:15:16,797 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:16,797 - INFO - 
+                Successfully processed statement 127:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:15:16,823 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:16,823 - INFO - 
+                Successfully processed statement 125:
+                Topics: {'Climate'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:15:17,330 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:17,333 - INFO - 
+                Successfully processed statement 126:
+                Topics: {'Economy', 'Climate'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:15:17,457 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:17,459 - INFO - 
+                Successfully processed statement 128:
+                Topics: {'Climate'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:15:17,602 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:17,603 - INFO - 
+                Successfully processed statement 129:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 2
+                Ideology: 10
+            
+2024-11-06 02:15:20,139 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:20,142 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:20,143 - INFO - 
+                Successfully processed statement 134:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:15:20,144 - INFO - 
+                Successfully processed statement 133:
+                Topics: {'Economy', 'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:15:20,220 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:20,221 - INFO - 
+                Successfully processed statement 132:
+                Topics: {'Social Justice'}
+                Importance: 0
+                Classification: 0
+                Ideology: -1
+            
+2024-11-06 02:15:20,536 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:20,537 - INFO - 
+                Successfully processed statement 130:
+                Topics: {'Economy', 'Climate'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:15:20,547 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:20,548 - INFO - 
+                Successfully processed statement 135:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:15:20,578 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:20,579 - INFO - 
+                Successfully processed statement 131:
+                Topics: {'Economy', 'Climate'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+            
+2024-11-06 02:15:21,026 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-06 02:15:21,027 - INFO - 
+                Successfully processed statement 136:
+                Topics: {'Government Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 02:15:23,040 - INFO - 
+Topic distribution for GPT:
+2024-11-06 02:15:23,040 - INFO - Economy: 26
+2024-11-06 02:15:23,040 - INFO - Healthcare: 15
+2024-11-06 02:15:23,040 - INFO - Immigration: 6
+2024-11-06 02:15:23,040 - INFO - Social Justice: 30
+2024-11-06 02:15:23,041 - INFO - Climate: 11
+2024-11-06 02:15:23,041 - INFO - Government Policy: 13
+2024-11-06 02:15:23,041 - INFO - Veterans Affairs: 1
+2024-11-06 02:15:23,041 - INFO - Education: 1
+2024-11-06 02:15:23,041 - INFO - Infrastructure: 0
+2024-11-06 02:15:23,041 - INFO - Gun Control: 3
+2024-11-06 02:15:23,041 - INFO - Foreign Policy: 34
+2024-11-06 02:15:23,041 - INFO - Technology: 1
+2024-11-06 02:15:23,041 - INFO - 
+                Completed GPT processing:
+                - Processing time: 53.67s
+                - Average time per statement: 53.67s
+                - Failed statements: 0
+                - Results saved to: /Users/nataliehu/Desktop/emory/Emory homework/2024/CS 371/CS371/Content/LLM outputs/Debate Statements/gpt_processed_harris_statements.json
+                
+2024-11-06 02:15:23,041 - INFO - 
+                Analysis completed:
+                - Total processing time: 53.67s
+                - Average time per statement: 26.83s
+                 

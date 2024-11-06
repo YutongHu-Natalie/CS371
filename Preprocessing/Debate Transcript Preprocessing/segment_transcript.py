@@ -16,7 +16,7 @@ def process_statements(input_file):
     # Process each statement
     for idx, statement in enumerate(statements, 1):
         statement_obj = {
-            "Statement ID": f"{str(idx).zfill(3)}",  # Creates IDs like HS001, HS002, etc.
+            "Statement ID": f"{str(idx-1).zfill(3)}",  # Creates IDs
             "Statement Topic": "",
             "Statement Content": statement,
             "Statement Importance": "",

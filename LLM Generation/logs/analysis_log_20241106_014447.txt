@@ -1,0 +1,1295 @@
+2024-11-06 01:44:47,809 - INFO - 
+Starting CLAUDE processing...
+2024-11-06 01:44:50,490 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:44:50,499 - ERROR - Attempt 1 failed for statement 003: too many values to unpack (expected 4)
+2024-11-06 01:44:50,682 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:44:50,684 - ERROR - Attempt 1 failed for statement 001: too many values to unpack (expected 4)
+2024-11-06 01:44:50,802 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:44:50,804 - INFO - 
+                Successfully processed statement 004:
+                Topics: {'Government Policy', 'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 0
+
+Explanation breakdown:
+- TOPICS: Economy (tax cut discussion) and Government Policy (deficit impact)
+- IMPORTANCE: 1 (contains meaningful political content about economic policy)
+- CLASSIFICATION: 1 (verifiable by fact-checking specific claims about tax cuts and deficit)
+- IDEOLOGY SCORE: 0 (strongly left-leaning critique of conservative economic policy)
+            
+2024-11-06 01:44:50,885 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:44:50,888 - ERROR - Attempt 1 failed for statement 005: too many values to unpack (expected 4)
+2024-11-06 01:44:51,204 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:44:51,206 - ERROR - Attempt 1 failed for statement 002: too many values to unpack (expected 4)
+2024-11-06 01:44:52,226 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:44:52,229 - INFO - 
+                Successfully processed statement 006:
+                Topics: {'Government Policy', 'Economy'}
+                Importance: 1
+                Classification: 3
+                Ideology: -1
+            
+2024-11-06 01:44:52,926 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:44:52,927 - INFO - 
+                Successfully processed statement 007:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 8
+            
+2024-11-06 01:44:53,559 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:44:53,564 - INFO - 
+                Successfully processed statement 008:
+                Topics: {'Healthcare', 'Government Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 7
+            
+2024-11-06 01:44:53,571 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:44:53,572 - INFO - 
+                Successfully processed statement 002:
+                Topics: {'Government Policy', 'Economy', 'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: 7
+            
+2024-11-06 01:44:54,634 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:44:54,636 - ERROR - Attempt 2 failed for statement 001: too many values to unpack (expected 4)
+2024-11-06 01:44:55,539 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:44:55,542 - ERROR - Attempt 1 failed for statement 009: too many values to unpack (expected 4)
+2024-11-06 01:44:55,940 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:44:55,942 - ERROR - Attempt 2 failed for statement 005: too many values to unpack (expected 4)
+2024-11-06 01:44:56,345 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:44:56,347 - ERROR - Attempt 1 failed for statement 010: too many values to unpack (expected 4)
+2024-11-06 01:44:57,021 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:44:57,027 - INFO - 
+                Successfully processed statement 009:
+                Topics: {'Government Policy', 'Social Justice'}
+                Importance: 1
+                Classification: 3
+                Ideology: -1
+            
+2024-11-06 01:44:57,455 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:44:57,456 - ERROR - Attempt 2 failed for statement 003: too many values to unpack (expected 4)
+2024-11-06 01:44:58,680 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:44:58,687 - INFO - 
+                Successfully processed statement 010:
+                Topics: {'Government Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 7
+            
+2024-11-06 01:44:59,203 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:44:59,205 - ERROR - Attempt 3 failed for statement 001: too many values to unpack (expected 4)
+2024-11-06 01:45:00,558 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:00,561 - ERROR - Attempt 3 failed for statement 005: too many values to unpack (expected 4)
+2024-11-06 01:45:02,264 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:02,266 - ERROR - Attempt 3 failed for statement 003: too many values to unpack (expected 4)
+2024-11-06 01:45:06,095 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:06,100 - INFO - 
+                Successfully processed statement 014:
+                Topics: {'Government Policy', 'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 8
+            
+2024-11-06 01:45:07,163 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:07,165 - ERROR - Attempt 1 failed for statement 013: too many values to unpack (expected 4)
+2024-11-06 01:45:07,201 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:07,203 - ERROR - Attempt 1 failed for statement 011: too many values to unpack (expected 4)
+2024-11-06 01:45:07,587 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:07,589 - INFO - 
+                Successfully processed statement 015:
+                Topics: {'Government Policy', 'Economy'}
+                Importance: 1
+                Classification: 3
+                Ideology: -1
+
+Breakdown explanation:
+- TOPICS: "Economy" and "Government Policy" are directly discussed
+- IMPORTANCE: 1 (contains meaningful political content about economic policy)
+- CLASSIFICATION: 3 (can be verified by both fact-checking economic projections and potential contradictions in policy claims)
+- IDEOLOGY SCORE: -1 (neutral criticism without strong ideological lean)
+            
+2024-11-06 01:45:07,821 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:07,822 - ERROR - Attempt 1 failed for statement 012: too many values to unpack (expected 4)
+2024-11-06 01:45:08,823 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:08,827 - ERROR - Attempt 1 failed for statement 016: too many values to unpack (expected 4)
+2024-11-06 01:45:08,972 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:08,973 - INFO - 
+                Successfully processed statement 017:
+                Topics: {'Foreign Policy', 'Economy'}
+                Importance: 1
+                Classification: 2
+                Ideology: 8
+            
+2024-11-06 01:45:09,450 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:09,451 - INFO - 
+                Successfully processed statement 011:
+                Topics: {'Economy', 'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: 0
+            
+2024-11-06 01:45:10,778 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:10,779 - ERROR - Attempt 2 failed for statement 013: too many values to unpack (expected 4)
+2024-11-06 01:45:11,705 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:11,706 - ERROR - Attempt 1 failed for statement 018: too many values to unpack (expected 4)
+2024-11-06 01:45:12,212 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:12,214 - INFO - 
+                Successfully processed statement 016:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+
+Explanation breakdown:
+- TOPICS: Economy (clear trade deficit discussion)
+- IMPORTANCE: 1 (meaningful political economic statement)
+- CLASSIFICATION: 1 (can be fact-checked with trade deficit data)
+- IDEOLOGY SCORE: 5 (neutral critique without strong partisan lean)
+            
+2024-11-06 01:45:12,389 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:12,390 - ERROR - Attempt 2 failed for statement 012: too many values to unpack (expected 4)
+2024-11-06 01:45:12,699 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:12,701 - INFO - 
+                Successfully processed statement 020:
+                Topics: {'Foreign Policy', 'Government Policy'}
+                Importance: 1
+                Classification: 2
+                Ideology: 10
+            
+2024-11-06 01:45:13,221 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:13,227 - ERROR - Attempt 1 failed for statement 019: too many values to unpack (expected 4)
+2024-11-06 01:45:16,292 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:16,294 - ERROR - Attempt 3 failed for statement 013: too many values to unpack (expected 4)
+2024-11-06 01:45:16,358 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:16,359 - ERROR - Attempt 2 failed for statement 018: too many values to unpack (expected 4)
+2024-11-06 01:45:17,745 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:17,747 - ERROR - Attempt 2 failed for statement 019: too many values to unpack (expected 4)
+2024-11-06 01:45:18,379 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:18,380 - ERROR - Attempt 3 failed for statement 012: too many values to unpack (expected 4)
+2024-11-06 01:45:19,910 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:19,916 - INFO - 
+                Successfully processed statement 018:
+                Topics: {'Foreign Policy', 'Technology', 'Economy', 'Government Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 7
+            
+2024-11-06 01:45:22,540 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:22,543 - INFO - 
+                Successfully processed statement 019:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 3
+                Ideology: 7
+            
+2024-11-06 01:45:25,917 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:25,921 - INFO - 
+                Successfully processed statement 025:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: 2
+            
+2024-11-06 01:45:26,224 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:26,228 - INFO - 
+                Successfully processed statement 022:
+                Topics: {'Healthcare', 'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: 0
+            
+2024-11-06 01:45:26,450 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:26,452 - ERROR - Attempt 1 failed for statement 023: too many values to unpack (expected 4)
+2024-11-06 01:45:27,157 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:27,159 - INFO - 
+                Successfully processed statement 026:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: 0
+            
+2024-11-06 01:45:27,421 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:27,422 - INFO - 
+                Successfully processed statement 024:
+                Topics: {'Healthcare', 'Social Justice'}
+                Importance: 1
+                Classification: 2
+                Ideology: 0
+
+Explanation breakdown:
+- TOPICS: Social Justice (core discussion of bodily autonomy) and Healthcare (related to reproductive rights)
+- IMPORTANCE: 1 (contains significant political content about personal rights)
+- CLASSIFICATION: 2 (can be verified by logical contradiction)
+- IDEOLOGY SCORE: 0 (extremely left-wing perspective supporting reproductive rights and bodily autonomy)
+            
+2024-11-06 01:45:27,460 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:27,463 - ERROR - Attempt 1 failed for statement 021: too many values to unpack (expected 4)
+2024-11-06 01:45:27,962 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:27,964 - INFO - 
+                Successfully processed statement 027:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: 0
+            
+2024-11-06 01:45:28,040 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:28,041 - INFO - 
+                Successfully processed statement 023:
+                Topics: {'Healthcare', 'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: 9
+            
+2024-11-06 01:45:28,558 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:28,559 - INFO - 
+                Successfully processed statement 028:
+                Topics: {'Healthcare', 'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: 0
+            
+2024-11-06 01:45:28,711 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:28,712 - INFO - 
+                Successfully processed statement 029:
+                Topics: {'Healthcare', 'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: 0
+            
+2024-11-06 01:45:30,435 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:30,437 - INFO - 
+                Successfully processed statement 030:
+                Topics: {'Healthcare', 'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: 0
+
+Explanation breakdown:
+- TOPICS: Social Justice (abortion rights) and Healthcare (IVF treatments)
+- IMPORTANCE: 1 (contains meaningful political content about reproductive rights)
+- CLASSIFICATION: 1 (verifiable through fact-checking of abortion policy impacts)
+- IDEOLOGY SCORE: 0 (strongly left-leaning perspective on reproductive rights and healthcare access)
+            
+2024-11-06 01:45:31,689 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:31,691 - ERROR - Attempt 2 failed for statement 021: too many values to unpack (expected 4)
+2024-11-06 01:45:36,467 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:36,473 - ERROR - Attempt 3 failed for statement 021: too many values to unpack (expected 4)
+2024-11-06 01:45:40,462 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:40,467 - INFO - 
+                Successfully processed statement 032:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 3
+                Ideology: 5
+            
+2024-11-06 01:45:40,778 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:40,782 - INFO - 
+                Successfully processed statement 033:
+                Topics: {'Foreign Policy', 'Immigration'}
+                Importance: 1
+                Classification: 1
+                Ideology: 7
+            
+2024-11-06 01:45:41,716 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:41,718 - INFO - 
+                Successfully processed statement 036:
+                Topics: {'Foreign Policy', 'Immigration'}
+                Importance: 1
+                Classification: 2
+                Ideology: 8
+            
+2024-11-06 01:45:41,802 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:41,802 - ERROR - Attempt 1 failed for statement 035: too many values to unpack (expected 4)
+2024-11-06 01:45:41,804 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:41,804 - ERROR - Attempt 1 failed for statement 034: too many values to unpack (expected 4)
+2024-11-06 01:45:41,996 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:41,997 - INFO - 
+                Successfully processed statement 037:
+                Topics: {'Foreign Policy', 'Immigration', 'Government Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 8
+            
+2024-11-06 01:45:42,406 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:42,412 - ERROR - Attempt 1 failed for statement 031: too many values to unpack (expected 4)
+2024-11-06 01:45:42,848 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:42,848 - INFO - 
+                Successfully processed statement 038:
+                Topics: {'Immigration'}
+                Importance: 1
+                Classification: 2
+                Ideology: 10
+            
+2024-11-06 01:45:43,428 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:43,432 - INFO - 
+                Successfully processed statement 039:
+                Topics: {'Government Policy', 'Social Justice'}
+                Importance: 1
+                Classification: 2
+                Ideology: 8
+            
+2024-11-06 01:45:44,043 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:44,045 - INFO - 
+                Successfully processed statement 034:
+                Topics: {'Immigration'}
+                Importance: 1
+                Classification: 1
+                Ideology: 8
+            
+2024-11-06 01:45:44,350 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:44,352 - INFO - 
+                Successfully processed statement 035:
+                Topics: {'Immigration'}
+                Importance: 1
+                Classification: 1
+                Ideology: 8
+            
+2024-11-06 01:45:44,586 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:44,588 - ERROR - Attempt 1 failed for statement 040: too many values to unpack (expected 4)
+2024-11-06 01:45:45,169 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:45,171 - INFO - 
+                Successfully processed statement 031:
+                Topics: {'Healthcare', 'Social Justice', 'Government Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 2
+            
+2024-11-06 01:45:46,398 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:46,399 - INFO - 
+                Successfully processed statement 040:
+                Topics: {'Climate'}
+                Importance: 1
+                Classification: 0
+                Ideology: -1
+            
+2024-11-06 01:45:49,368 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:49,374 - INFO - 
+                Successfully processed statement 043:
+                Topics: {'Foreign Policy', 'Veterans Affairs', 'Government Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 7
+            
+2024-11-06 01:45:50,053 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:50,061 - INFO - 
+                Successfully processed statement 045:
+                Topics: {'Government Policy', 'Social Justice'}
+                Importance: 1
+                Classification: 3
+                Ideology: -1
+            
+2024-11-06 01:45:50,782 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:50,784 - INFO - 
+                Successfully processed statement 044:
+                Topics: {'Foreign Policy', 'Government Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 7
+            
+2024-11-06 01:45:51,041 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:51,042 - ERROR - Attempt 1 failed for statement 041: too many values to unpack (expected 4)
+2024-11-06 01:45:51,535 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:51,537 - ERROR - Attempt 1 failed for statement 042: too many values to unpack (expected 4)
+2024-11-06 01:45:52,187 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:52,191 - ERROR - Attempt 1 failed for statement 046: too many values to unpack (expected 4)
+2024-11-06 01:45:52,875 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:52,877 - ERROR - Attempt 1 failed for statement 048: too many values to unpack (expected 4)
+2024-11-06 01:45:53,368 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:53,370 - ERROR - Attempt 1 failed for statement 047: too many values to unpack (expected 4)
+2024-11-06 01:45:54,417 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:54,419 - INFO - 
+                Successfully processed statement 048:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 0
+                Ideology: 5
+            
+2024-11-06 01:45:55,103 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:55,105 - INFO - 
+                Successfully processed statement 049:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 01:45:55,696 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:55,698 - ERROR - Attempt 2 failed for statement 042: too many values to unpack (expected 4)
+2024-11-06 01:45:55,713 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:55,714 - ERROR - Attempt 2 failed for statement 041: too many values to unpack (expected 4)
+2024-11-06 01:45:56,217 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:56,219 - ERROR - Attempt 2 failed for statement 046: too many values to unpack (expected 4)
+2024-11-06 01:45:57,939 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:57,941 - ERROR - Attempt 1 failed for statement 050: too many values to unpack (expected 4)
+2024-11-06 01:45:59,609 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:45:59,615 - ERROR - Attempt 2 failed for statement 047: too many values to unpack (expected 4)
+2024-11-06 01:46:00,327 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:00,328 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:00,330 - INFO - 
+                Successfully processed statement 050:
+                Topics: {'Government Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 7
+            
+2024-11-06 01:46:00,331 - ERROR - Attempt 3 failed for statement 041: too many values to unpack (expected 4)
+2024-11-06 01:46:00,838 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:00,841 - ERROR - Attempt 3 failed for statement 042: too many values to unpack (expected 4)
+2024-11-06 01:46:00,863 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:00,864 - ERROR - Attempt 3 failed for statement 046: too many values to unpack (expected 4)
+2024-11-06 01:46:04,776 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:04,778 - INFO - 
+                Successfully processed statement 047:
+                Topics: {'Infrastructure'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+
+Explanation breakdown:
+- TOPICS: Housing/Infrastructure (directly mentioned)
+- IMPORTANCE: 1 (contains meaningful political content about housing needs)
+- CLASSIFICATION: 1 (can be verified through specific policy details)
+- IDEOLOGY SCORE: 5 (neutral stance without clear partisan leaning)
+            
+2024-11-06 01:46:07,801 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:07,808 - INFO - 
+                Successfully processed statement 052:
+                Topics: {'Government Policy'}
+                Importance: 1
+                Classification: 2
+                Ideology: 8
+            
+2024-11-06 01:46:08,994 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:09,000 - ERROR - Attempt 1 failed for statement 054: too many values to unpack (expected 4)
+2024-11-06 01:46:09,095 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:09,097 - ERROR - Attempt 1 failed for statement 055: too many values to unpack (expected 4)
+2024-11-06 01:46:09,440 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:09,443 - ERROR - Attempt 1 failed for statement 053: too many values to unpack (expected 4)
+2024-11-06 01:46:09,748 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:09,751 - ERROR - Attempt 1 failed for statement 056: too many values to unpack (expected 4)
+2024-11-06 01:46:10,405 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:10,408 - ERROR - Attempt 1 failed for statement 051: too many values to unpack (expected 4)
+2024-11-06 01:46:10,664 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:10,670 - INFO - 
+                Successfully processed statement 055:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 8
+            
+2024-11-06 01:46:11,660 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:11,667 - INFO - 
+                Successfully processed statement 054:
+                Topics: {'Government Policy', 'Immigration', 'Social Justice'}
+                Importance: 1
+                Classification: 3
+                Ideology: 7
+            
+2024-11-06 01:46:12,349 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:12,352 - ERROR - Attempt 2 failed for statement 053: too many values to unpack (expected 4)
+2024-11-06 01:46:12,372 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:12,373 - ERROR - Attempt 2 failed for statement 056: too many values to unpack (expected 4)
+2024-11-06 01:46:13,126 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:13,128 - INFO - 
+                Successfully processed statement 058:
+                Topics: {'Climate', 'Foreign Policy', 'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 7
+            
+2024-11-06 01:46:13,889 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:13,891 - ERROR - Attempt 1 failed for statement 057: too many values to unpack (expected 4)
+2024-11-06 01:46:14,339 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:14,341 - ERROR - Attempt 2 failed for statement 051: too many values to unpack (expected 4)
+2024-11-06 01:46:14,901 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:14,904 - INFO - 
+                Successfully processed statement 059:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 8
+            
+2024-11-06 01:46:15,003 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:15,003 - INFO - 
+                Successfully processed statement 053:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: 7
+            
+2024-11-06 01:46:16,486 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:16,491 - ERROR - Attempt 3 failed for statement 056: too many values to unpack (expected 4)
+2024-11-06 01:46:17,707 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:17,710 - ERROR - Attempt 1 failed for statement 060: too many values to unpack (expected 4)
+2024-11-06 01:46:17,874 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:17,876 - ERROR - Attempt 2 failed for statement 057: too many values to unpack (expected 4)
+2024-11-06 01:46:19,579 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:19,581 - ERROR - Attempt 3 failed for statement 051: too many values to unpack (expected 4)
+2024-11-06 01:46:20,219 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:20,222 - INFO - 
+                Successfully processed statement 060:
+                Topics: {'Economy', 'Infrastructure'}
+                Importance: 1
+                Classification: 1
+                Ideology: 7
+            
+2024-11-06 01:46:21,206 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:21,212 - INFO - 
+                Successfully processed statement 057:
+                Topics: {'Climate', 'Economy', 'Government Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 7
+            
+2024-11-06 01:46:25,476 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:25,482 - INFO - 
+                Successfully processed statement 062:
+                Topics: {'Veterans Affairs', 'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 01:46:25,484 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:25,485 - INFO - 
+                Successfully processed statement 064:
+                Topics: {'Government Policy', 'Social Justice'}
+                Importance: 1
+                Classification: 3
+                Ideology: 2
+            
+2024-11-06 01:46:25,628 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:25,629 - INFO - 
+                Successfully processed statement 061:
+                Topics: {'Government Policy', 'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 01:46:26,132 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:26,134 - INFO - 
+                Successfully processed statement 067:
+                Topics: {'Social Justice'}
+                Importance: 0
+                Classification: 0
+                Ideology: -1
+            
+2024-11-06 01:46:26,368 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:26,373 - INFO - 
+                Successfully processed statement 065:
+                Topics: {'Government Policy'}
+                Importance: 1
+                Classification: 2
+                Ideology: 5
+
+Explanation breakdown:
+- TOPICS: January 6th (political event) and Government Policy
+- IMPORTANCE: 1 (contains meaningful political reference to a significant political event)
+- CLASSIFICATION: 2 (can be verified by contradiction/historical record)
+- IDEOLOGY SCORE: 5 (neutral statement without clear partisan lean)
+            
+2024-11-06 01:46:26,533 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:26,535 - ERROR - Attempt 1 failed for statement 063: too many values to unpack (expected 4)
+2024-11-06 01:46:26,849 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:26,850 - INFO - 
+                Successfully processed statement 068:
+                Topics: {'Government Policy'}
+                Importance: 1
+                Classification: 3
+                Ideology: 5
+            
+2024-11-06 01:46:27,026 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:27,028 - ERROR - Attempt 1 failed for statement 066: too many values to unpack (expected 4)
+2024-11-06 01:46:28,970 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:28,975 - ERROR - Attempt 1 failed for statement 070: too many values to unpack (expected 4)
+2024-11-06 01:46:28,983 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:28,984 - ERROR - Attempt 1 failed for statement 069: too many values to unpack (expected 4)
+2024-11-06 01:46:30,967 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:30,969 - ERROR - Attempt 2 failed for statement 066: too many values to unpack (expected 4)
+2024-11-06 01:46:31,398 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:31,400 - ERROR - Attempt 2 failed for statement 063: too many values to unpack (expected 4)
+2024-11-06 01:46:32,845 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:32,848 - INFO - 
+                Successfully processed statement 069:
+                Topics: {'Foreign Policy', 'Veterans Affairs'}
+                Importance: 1
+                Classification: 2
+                Ideology: 1
+            
+2024-11-06 01:46:32,894 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:32,895 - ERROR - Attempt 2 failed for statement 070: too many values to unpack (expected 4)
+2024-11-06 01:46:34,754 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:34,759 - INFO - 
+                Successfully processed statement 063:
+                Topics: {'Government Policy', 'Social Justice'}
+                Importance: 1
+                Classification: 3
+                Ideology: 5
+            
+2024-11-06 01:46:36,069 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:36,071 - ERROR - Attempt 3 failed for statement 066: too many values to unpack (expected 4)
+2024-11-06 01:46:37,897 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:37,899 - ERROR - Attempt 3 failed for statement 070: too many values to unpack (expected 4)
+2024-11-06 01:46:41,184 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:41,190 - INFO - 
+                Successfully processed statement 074:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 3
+                Ideology: 5
+            
+2024-11-06 01:46:41,596 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:41,600 - INFO - 
+                Successfully processed statement 072:
+                Topics: {'Foreign Policy', 'Social Justice'}
+                Importance: 1
+                Classification: 2
+                Ideology: 8
+            
+2024-11-06 01:46:42,525 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:42,527 - ERROR - Attempt 1 failed for statement 071: too many values to unpack (expected 4)
+2024-11-06 01:46:42,982 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:42,984 - ERROR - Attempt 1 failed for statement 075: too many values to unpack (expected 4)
+2024-11-06 01:46:43,048 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:43,050 - ERROR - Attempt 1 failed for statement 073: too many values to unpack (expected 4)
+2024-11-06 01:46:43,355 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:43,358 - INFO - 
+                Successfully processed statement 076:
+                Topics: {'Foreign Policy', 'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 01:46:43,686 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:43,688 - ERROR - Attempt 1 failed for statement 077: too many values to unpack (expected 4)
+2024-11-06 01:46:45,806 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:45,811 - ERROR - Attempt 1 failed for statement 078: too many values to unpack (expected 4)
+2024-11-06 01:46:46,424 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:46,425 - ERROR - Attempt 2 failed for statement 073: too many values to unpack (expected 4)
+2024-11-06 01:46:46,487 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:46,489 - ERROR - Attempt 2 failed for statement 077: too many values to unpack (expected 4)
+2024-11-06 01:46:46,716 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:46,717 - ERROR - Attempt 2 failed for statement 071: too many values to unpack (expected 4)
+2024-11-06 01:46:47,071 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:47,073 - ERROR - Attempt 2 failed for statement 075: too many values to unpack (expected 4)
+2024-11-06 01:46:47,336 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:47,338 - INFO - 
+                Successfully processed statement 078:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 10
+            
+2024-11-06 01:46:49,051 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:49,055 - INFO - 
+                Successfully processed statement 077:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 10
+            
+2024-11-06 01:46:50,448 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:50,450 - INFO - 
+                Successfully processed statement 079:
+                Topics: {'Foreign Policy', 'Government Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+
+Explanation breakdown:
+- TOPICS: Foreign Policy (referencing international leadership dynamics) and Government Policy (discussing potential leadership approach)
+- IMPORTANCE: 1 (meaningful political content about leadership style)
+- CLASSIFICATION: 1 (can be fact-checked through statements/actions)
+- IDEOLOGY SCORE: -1 (criticism that doesn't align with clear left/right ideology)
+            
+2024-11-06 01:46:50,767 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:50,768 - INFO - 
+                Successfully processed statement 075:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 8
+            
+2024-11-06 01:46:51,015 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:51,016 - INFO - 
+                Successfully processed statement 073:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+
+Explanation breakdown:
+- TOPICS: War and Foreign Policy (directly mentioned)
+- IMPORTANCE: 1 (meaningful political content about ending a conflict)
+- CLASSIFICATION: 1 (verifiable through factual examination of conflict resolution)
+- IDEOLOGY SCORE: 5 (neutral stance without clear left or right leaning)
+            
+2024-11-06 01:46:51,506 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:51,508 - INFO - 
+                Successfully processed statement 071:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 8
+
+Explanation breakdown:
+- Topics: Israel and Foreign Policy are directly mentioned
+- Importance: 1 (meaningful political content about Israel's defense)
+- Classification: 1 (can be fact-checked)
+- Ideology Score: 8 (slightly right-of-center stance supporting Israel's defensive rights)
+            
+2024-11-06 01:46:52,008 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:52,010 - ERROR - Attempt 1 failed for statement 080: too many values to unpack (expected 4)
+2024-11-06 01:46:55,300 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:46:55,303 - ERROR - Attempt 2 failed for statement 080: too many values to unpack (expected 4)
+2024-11-06 01:47:00,131 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:00,134 - ERROR - Attempt 3 failed for statement 080: too many values to unpack (expected 4)
+2024-11-06 01:47:03,188 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:03,191 - INFO - 
+                Successfully processed statement 081:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 10
+            
+2024-11-06 01:47:03,786 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:03,789 - INFO - 
+                Successfully processed statement 084:
+                Topics: {'Foreign Policy', 'Government Policy'}
+                Importance: 1
+                Classification: 3
+                Ideology: 5
+            
+2024-11-06 01:47:04,534 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:04,535 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:04,537 - ERROR - Attempt 1 failed for statement 082: too many values to unpack (expected 4)
+2024-11-06 01:47:04,538 - INFO - 
+                Successfully processed statement 087:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 2
+                Ideology: 8
+            
+2024-11-06 01:47:05,142 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:05,144 - ERROR - Attempt 1 failed for statement 083: too many values to unpack (expected 4)
+2024-11-06 01:47:05,728 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:05,730 - ERROR - Attempt 1 failed for statement 085: too many values to unpack (expected 4)
+2024-11-06 01:47:06,284 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:06,288 - ERROR - Attempt 2 failed for statement 082: too many values to unpack (expected 4)
+2024-11-06 01:47:06,684 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:06,686 - ERROR - Attempt 1 failed for statement 086: too many values to unpack (expected 4)
+2024-11-06 01:47:07,053 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:07,055 - ERROR - Attempt 1 failed for statement 088: too many values to unpack (expected 4)
+2024-11-06 01:47:09,610 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:09,616 - ERROR - Attempt 2 failed for statement 083: too many values to unpack (expected 4)
+2024-11-06 01:47:09,643 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:09,645 - ERROR - Attempt 2 failed for statement 085: too many values to unpack (expected 4)
+2024-11-06 01:47:10,013 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:10,015 - ERROR - Attempt 2 failed for statement 086: too many values to unpack (expected 4)
+2024-11-06 01:47:10,049 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:10,050 - ERROR - Attempt 3 failed for statement 082: too many values to unpack (expected 4)
+2024-11-06 01:47:11,453 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:11,455 - ERROR - Attempt 2 failed for statement 088: too many values to unpack (expected 4)
+2024-11-06 01:47:13,237 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:13,243 - INFO - 
+                Successfully processed statement 085:
+                Topics: {'Foreign Policy', 'Veterans Affairs'}
+                Importance: 1
+                Classification: 1
+                Ideology: 7
+            
+2024-11-06 01:47:14,915 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:14,917 - ERROR - Attempt 3 failed for statement 086: too many values to unpack (expected 4)
+2024-11-06 01:47:15,389 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:15,391 - ERROR - Attempt 3 failed for statement 083: too many values to unpack (expected 4)
+2024-11-06 01:47:16,499 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:16,502 - ERROR - Attempt 3 failed for statement 088: too many values to unpack (expected 4)
+2024-11-06 01:47:16,578 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:16,581 - ERROR - Attempt 1 failed for statement 090: too many values to unpack (expected 4)
+2024-11-06 01:47:17,098 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:17,101 - ERROR - Attempt 1 failed for statement 089: too many values to unpack (expected 4)
+2024-11-06 01:47:20,714 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:20,716 - ERROR - Attempt 2 failed for statement 090: too many values to unpack (expected 4)
+2024-11-06 01:47:21,120 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:21,122 - ERROR - Attempt 2 failed for statement 089: too many values to unpack (expected 4)
+2024-11-06 01:47:24,400 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:24,406 - INFO - 
+                Successfully processed statement 089:
+                Topics: {'Foreign Policy', 'Immigration'}
+                Importance: 1
+                Classification: 2
+                Ideology: 10
+            
+2024-11-06 01:47:26,142 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:26,144 - ERROR - Attempt 3 failed for statement 090: too many values to unpack (expected 4)
+2024-11-06 01:47:28,888 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:28,894 - INFO - 
+                Successfully processed statement 092:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 01:47:29,519 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:29,524 - INFO - 
+                Successfully processed statement 091:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 7
+            
+2024-11-06 01:47:29,564 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:29,565 - INFO - 
+                Successfully processed statement 095:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 01:47:30,340 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:30,342 - ERROR - Attempt 1 failed for statement 093: too many values to unpack (expected 4)
+2024-11-06 01:47:31,372 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:31,372 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:31,373 - ERROR - Attempt 1 failed for statement 094: too many values to unpack (expected 4)
+2024-11-06 01:47:31,373 - INFO - 
+                Successfully processed statement 096:
+                Topics: {'Foreign Policy', 'Immigration'}
+                Importance: 1
+                Classification: 3
+                Ideology: -1
+
+Explanation breakdown:
+- TOPICS: Immigration and Foreign Policy (referencing Trump's international negotiations)
+- IMPORTANCE: 1 (contains substantive political critique)
+- CLASSIFICATION: 3 (verifiable by both fact-checking and potential contradiction)
+- IDEOLOGY SCORE: -1 (critique does not strongly align with specific ideological spectrum)
+            
+2024-11-06 01:47:31,385 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:31,385 - ERROR - Attempt 1 failed for statement 098: too many values to unpack (expected 4)
+2024-11-06 01:47:32,842 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:32,849 - INFO - 
+                Successfully processed statement 099:
+                Topics: {'Foreign Policy', 'Veterans Affairs', 'Government Policy'}
+                Importance: 1
+                Classification: 3
+                Ideology: -1
+            
+2024-11-06 01:47:32,941 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:32,944 - INFO - 
+                Successfully processed statement 098:
+                Topics: {'Foreign Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 7
+            
+2024-11-06 01:47:33,094 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:33,095 - ERROR - Attempt 2 failed for statement 093: too many values to unpack (expected 4)
+2024-11-06 01:47:33,618 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:33,620 - ERROR - Attempt 1 failed for statement 097: too many values to unpack (expected 4)
+2024-11-06 01:47:34,025 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:34,027 - INFO - 
+                Successfully processed statement 100:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 01:47:35,580 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:35,582 - ERROR - Attempt 2 failed for statement 094: too many values to unpack (expected 4)
+2024-11-06 01:47:36,201 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:36,202 - INFO - 
+                Successfully processed statement 097:
+                Topics: {'Foreign Policy', 'Government Policy'}
+                Importance: 1
+                Classification: 3
+                Ideology: 8
+            
+2024-11-06 01:47:36,997 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:36,999 - ERROR - Attempt 3 failed for statement 093: too many values to unpack (expected 4)
+2024-11-06 01:47:40,875 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:40,877 - ERROR - Attempt 3 failed for statement 094: too many values to unpack (expected 4)
+2024-11-06 01:47:45,806 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:45,815 - ERROR - Attempt 1 failed for statement 103: too many values to unpack (expected 4)
+2024-11-06 01:47:46,724 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:46,724 - ERROR - Attempt 1 failed for statement 105: too many values to unpack (expected 4)
+2024-11-06 01:47:46,758 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:46,760 - ERROR - Attempt 1 failed for statement 101: too many values to unpack (expected 4)
+2024-11-06 01:47:46,982 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:46,984 - ERROR - Attempt 1 failed for statement 102: too many values to unpack (expected 4)
+2024-11-06 01:47:47,979 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:47,979 - ERROR - Attempt 1 failed for statement 104: too many values to unpack (expected 4)
+2024-11-06 01:47:50,000 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:50,004 - INFO - 
+                Successfully processed statement 101:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 0
+                Ideology: 5
+            
+2024-11-06 01:47:50,440 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:50,440 - INFO - 
+                Successfully processed statement 103:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: -1
+
+Explanation breakdown:
+- TOPICS: Housing Discrimination/Social Justice (directly mentioned in statement)
+- IMPORTANCE: 1 (contains meaningful political content about racial discrimination)
+- CLASSIFICATION: 1 (verifiable through historical records and legal documents)
+- IDEOLOGY SCORE: -1 (statement describes historical fact without strong ideological positioning)
+            
+2024-11-06 01:47:50,648 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:50,649 - ERROR - Attempt 2 failed for statement 105: too many values to unpack (expected 4)
+2024-11-06 01:47:50,692 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:50,693 - INFO - 
+                Successfully processed statement 102:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 0
+                Ideology: 5
+
+Explanation breakdown:
+- TOPICS: Social Justice (discussing division and race)
+- IMPORTANCE: 1 (contains meaningful political commentary about social division)
+- CLASSIFICATION: 0 (statement is too general to be directly fact-checked)
+- IDEOLOGY SCORE: 5 (neutral statement attempting to bridge racial divides without clear partisan leaning)
+            
+2024-11-06 01:47:51,904 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:51,905 - ERROR - Attempt 2 failed for statement 104: too many values to unpack (expected 4)
+2024-11-06 01:47:53,072 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:53,074 - ERROR - Attempt 1 failed for statement 106: too many values to unpack (expected 4)
+2024-11-06 01:47:53,133 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:53,134 - ERROR - Attempt 1 failed for statement 107: too many values to unpack (expected 4)
+2024-11-06 01:47:54,253 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:54,253 - ERROR - Attempt 1 failed for statement 108: too many values to unpack (expected 4)
+2024-11-06 01:47:55,330 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:55,332 - INFO - 
+                Successfully processed statement 105:
+                Topics: {'Government Policy', 'Social Justice'}
+                Importance: 1
+                Classification: 0
+                Ideology: 5
+
+Explanation breakdown:
+- Topics: Social Justice (unity message) and Government Policy (leadership discussion)
+- Importance: 1 (contains meaningful political content about national unity)
+- Classification: 0 (statement is not easily verifiable through direct fact-checking)
+- Ideology: 5 (neutral tone emphasizing unity and avoiding divisive rhetoric)
+            
+2024-11-06 01:47:56,760 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:56,764 - ERROR - Attempt 2 failed for statement 107: too many values to unpack (expected 4)
+2024-11-06 01:47:57,451 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:57,452 - ERROR - Attempt 2 failed for statement 106: too many values to unpack (expected 4)
+2024-11-06 01:47:57,782 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:57,783 - ERROR - Attempt 3 failed for statement 104: too many values to unpack (expected 4)
+2024-11-06 01:47:58,194 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:58,196 - ERROR - Attempt 2 failed for statement 108: too many values to unpack (expected 4)
+2024-11-06 01:47:58,602 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:47:58,603 - ERROR - Attempt 1 failed for statement 109: too many values to unpack (expected 4)
+2024-11-06 01:48:00,385 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:00,389 - ERROR - Attempt 1 failed for statement 110: too many values to unpack (expected 4)
+2024-11-06 01:48:01,642 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:01,646 - ERROR - Attempt 3 failed for statement 107: too many values to unpack (expected 4)
+2024-11-06 01:48:02,071 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:02,072 - ERROR - Attempt 3 failed for statement 106: too many values to unpack (expected 4)
+2024-11-06 01:48:02,662 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:02,664 - INFO - 
+                Successfully processed statement 110:
+                Topics: {'Economy', 'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: 6
+            
+2024-11-06 01:48:02,748 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:02,750 - ERROR - Attempt 2 failed for statement 109: too many values to unpack (expected 4)
+2024-11-06 01:48:03,026 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:03,027 - ERROR - Attempt 3 failed for statement 108: too many values to unpack (expected 4)
+2024-11-06 01:48:08,100 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:08,103 - ERROR - Attempt 3 failed for statement 109: too many values to unpack (expected 4)
+2024-11-06 01:48:11,505 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:11,510 - INFO - 
+                Successfully processed statement 114:
+                Topics: {'Healthcare'}
+                Importance: 1
+                Classification: 1
+                Ideology: 10
+            
+2024-11-06 01:48:12,019 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:12,021 - ERROR - Attempt 1 failed for statement 112: too many values to unpack (expected 4)
+2024-11-06 01:48:12,129 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:12,130 - ERROR - Attempt 1 failed for statement 113: too many values to unpack (expected 4)
+2024-11-06 01:48:12,715 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:12,716 - INFO - 
+                Successfully processed statement 116:
+                Topics: {'Healthcare'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 01:48:12,971 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:12,972 - ERROR - Attempt 1 failed for statement 111: too many values to unpack (expected 4)
+2024-11-06 01:48:13,452 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:13,457 - ERROR - Attempt 1 failed for statement 115: too many values to unpack (expected 4)
+2024-11-06 01:48:13,656 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:13,657 - INFO - 
+                Successfully processed statement 112:
+                Topics: {'Healthcare'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 01:48:14,084 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2024-11-06 01:48:14,084 - INFO - Retrying request to /v1/messages in 22.000000 seconds
+2024-11-06 01:48:14,889 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:14,891 - INFO - 
+                Successfully processed statement 118:
+                Topics: {'Healthcare'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 01:48:14,997 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2024-11-06 01:48:14,998 - INFO - Retrying request to /v1/messages in 21.000000 seconds
+2024-11-06 01:48:15,240 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:15,247 - ERROR - Attempt 2 failed for statement 113: too many values to unpack (expected 4)
+2024-11-06 01:48:15,405 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:15,407 - INFO - 
+                Successfully processed statement 117:
+                Topics: {'Healthcare'}
+                Importance: 1
+                Classification: 1
+                Ideology: 0
+
+Explanation breakdown:
+- TOPICS: Healthcare (pre-existing conditions discussion)
+- IMPORTANCE: 1 (meaningful political content about healthcare policy)
+- CLASSIFICATION: 1 (verifiable by fact-checking historical insurance practices)
+- IDEOLOGY SCORE: 0 (strongly left-leaning perspective supporting healthcare protections)
+            
+2024-11-06 01:48:15,519 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2024-11-06 01:48:15,519 - INFO - Retrying request to /v1/messages in 21.000000 seconds
+2024-11-06 01:48:17,144 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:17,146 - ERROR - Attempt 2 failed for statement 115: too many values to unpack (expected 4)
+2024-11-06 01:48:19,345 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:19,346 - ERROR - Attempt 3 failed for statement 113: too many values to unpack (expected 4)
+2024-11-06 01:48:20,863 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:20,864 - INFO - 
+                Successfully processed statement 115:
+                Topics: {'Healthcare'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 01:48:38,545 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:38,546 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:38,552 - INFO - 
+                Successfully processed statement 120:
+                Topics: {'Healthcare'}
+                Importance: 1
+                Classification: 1
+                Ideology: 7
+
+Explanation breakdown:
+- TOPICS: Healthcare (directly mentioned)
+- IMPORTANCE: 1 (meaningful policy discussion about healthcare costs)
+- CLASSIFICATION: 1 (verifiable by fact-checking insulin price cap)
+- IDEOLOGY SCORE: 7 (moderate right-of-center policy approach to healthcare affordability)
+            
+2024-11-06 01:48:38,553 - ERROR - Attempt 1 failed for statement 119: too many values to unpack (expected 4)
+2024-11-06 01:48:40,239 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:40,241 - ERROR - Attempt 2 failed for statement 111: too many values to unpack (expected 4)
+2024-11-06 01:48:41,722 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:41,724 - ERROR - Attempt 2 failed for statement 119: too many values to unpack (expected 4)
+2024-11-06 01:48:44,649 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:44,652 - ERROR - Attempt 3 failed for statement 111: too many values to unpack (expected 4)
+2024-11-06 01:48:45,657 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:45,659 - ERROR - Attempt 3 failed for statement 119: too many values to unpack (expected 4)
+2024-11-06 01:48:49,607 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:49,613 - INFO - 
+                Successfully processed statement 121:
+                Topics: {'Healthcare'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 01:48:49,799 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:49,805 - ERROR - Attempt 1 failed for statement 124: too many values to unpack (expected 4)
+2024-11-06 01:48:50,182 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:50,184 - ERROR - Attempt 1 failed for statement 122: too many values to unpack (expected 4)
+2024-11-06 01:48:50,427 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:50,429 - ERROR - Attempt 1 failed for statement 125: too many values to unpack (expected 4)
+2024-11-06 01:48:51,072 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:51,075 - INFO - 
+                Successfully processed statement 126:
+                Topics: {'Climate'}
+                Importance: 1
+                Classification: 0
+                Ideology: 5
+
+Explanation breakdown:
+- TOPICS: Climate (directly mentioned)
+- IMPORTANCE: 1 (meaningful political content about climate change)
+- CLASSIFICATION: 0 (statement is general and not easily verifiable)
+- IDEOLOGY SCORE: 5 (neutral statement without strong ideological leaning)
+            
+2024-11-06 01:48:52,475 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:52,481 - INFO - 
+                Successfully processed statement 124:
+                Topics: {'Climate'}
+                Importance: 1
+                Classification: 2
+                Ideology: 8
+
+Explanation breakdown:
+- TOPICS: Climate (directly mentioned)
+- IMPORTANCE: 1 (meaningful political content about climate change)
+- CLASSIFICATION: 2 (can be verified by contradiction with scientific consensus)
+- IDEOLOGY SCORE: 8 (slightly right-leaning perspective challenging climate science)
+            
+2024-11-06 01:48:52,724 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:52,725 - INFO - 
+                Successfully processed statement 123:
+                Topics: {'Healthcare'}
+                Importance: 1
+                Classification: 3
+                Ideology: 5
+            
+2024-11-06 01:48:53,088 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:53,090 - INFO - 
+                Successfully processed statement 125:
+                Topics: {'Climate'}
+                Importance: 1
+                Classification: 1
+                Ideology: 5
+            
+2024-11-06 01:48:53,296 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:53,298 - INFO - 
+                Successfully processed statement 129:
+                Topics: {'Climate', 'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 7
+            
+2024-11-06 01:48:53,627 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:53,629 - INFO - 
+                Successfully processed statement 130:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 8
+            
+2024-11-06 01:48:53,660 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:53,662 - ERROR - Attempt 2 failed for statement 122: too many values to unpack (expected 4)
+2024-11-06 01:48:54,100 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:54,103 - ERROR - Attempt 1 failed for statement 127: too many values to unpack (expected 4)
+2024-11-06 01:48:54,118 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:54,119 - ERROR - Attempt 1 failed for statement 128: too many values to unpack (expected 4)
+2024-11-06 01:48:55,743 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:55,745 - INFO - 
+                Successfully processed statement 128:
+                Topics: {'Economy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 7
+            
+2024-11-06 01:48:57,529 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:57,531 - ERROR - Attempt 2 failed for statement 127: too many values to unpack (expected 4)
+2024-11-06 01:48:58,444 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:48:58,445 - ERROR - Attempt 3 failed for statement 122: too many values to unpack (expected 4)
+2024-11-06 01:49:01,898 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:49:01,899 - ERROR - Attempt 3 failed for statement 127: too many values to unpack (expected 4)
+2024-11-06 01:49:05,575 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:49:05,580 - INFO - 
+                Successfully processed statement 134:
+                Topics: {'Veterans Affairs', 'Economy', 'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: 6
+            
+2024-11-06 01:49:05,623 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:49:05,623 - INFO - 
+                Successfully processed statement 132:
+                Topics: {'Climate', 'Economy'}
+                Importance: 1
+                Classification: 3
+                Ideology: 6
+            
+2024-11-06 01:49:05,698 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:49:05,698 - INFO - 
+                Successfully processed statement 135:
+                Topics: {'Foreign Policy', 'Veterans Affairs', 'Government Policy'}
+                Importance: 1
+                Classification: 1
+                Ideology: 7
+            
+2024-11-06 01:49:06,432 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:49:06,433 - ERROR - Attempt 1 failed for statement 133: too many values to unpack (expected 4)
+2024-11-06 01:49:07,017 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:49:07,020 - INFO - 
+                Successfully processed statement 136:
+                Topics: {'Social Justice'}
+                Importance: 1
+                Classification: 1
+                Ideology: 3
+            
+2024-11-06 01:49:08,281 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:49:08,283 - ERROR - Attempt 1 failed for statement 137: too many values to unpack (expected 4)
+2024-11-06 01:49:09,989 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:49:09,994 - ERROR - Attempt 2 failed for statement 133: too many values to unpack (expected 4)
+2024-11-06 01:49:10,918 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:49:10,920 - INFO - 
+                Successfully processed statement 137:
+                Topics: {'Government Policy', 'Infrastructure', 'Economy'}
+                Importance: 1
+                Classification: 0
+                Ideology: 5
+            
+2024-11-06 01:49:11,989 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:49:11,991 - ERROR - Attempt 1 failed for statement 131: too many values to unpack (expected 4)
+2024-11-06 01:49:14,801 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:49:14,803 - ERROR - Attempt 3 failed for statement 133: too many values to unpack (expected 4)
+2024-11-06 01:49:16,339 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:49:16,341 - ERROR - Attempt 2 failed for statement 131: too many values to unpack (expected 4)
+2024-11-06 01:49:20,127 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-11-06 01:49:20,129 - INFO - 
+                Successfully processed statement 131:
+                Topics: {'Climate', 'Economy', 'Infrastructure'}
+                Importance: 1
+                Classification: 1
+                Ideology: 6
+            
+2024-11-06 01:49:22,140 - INFO - 
+Topic distribution for CLAUDE:
+2024-11-06 01:49:22,141 - INFO - Climate: 9
+2024-11-06 01:49:22,141 - INFO - Economy: 25
+2024-11-06 01:49:22,141 - INFO - Education: 0
+2024-11-06 01:49:22,141 - INFO - Government Policy: 32
+2024-11-06 01:49:22,141 - INFO - Gun Control: 0
+2024-11-06 01:49:22,142 - INFO - Technology: 1
+2024-11-06 01:49:22,142 - INFO - Infrastructure: 4
+2024-11-06 01:49:22,142 - INFO - Healthcare: 17
+2024-11-06 01:49:22,142 - INFO - Foreign Policy: 33
+2024-11-06 01:49:22,142 - INFO - Immigration: 9
+2024-11-06 01:49:22,142 - INFO - Veterans Affairs: 7
+2024-11-06 01:49:22,142 - INFO - Social Justice: 33
+2024-11-06 01:49:22,142 - ERROR - 
+                    CLAUDE Processing - Failed Statements Summary:
+                    Total Failed: 32
+                    Failed IDs: ['001', '003', '005', '012', '013', '021', '041', '042', '046', '051', '056', '066', '070', '080', '082', '083', '086', '088', '090', '093', '094', '104', '106', '107', '108', '109', '111', '113', '119', '122', '127', '133']
+                
+2024-11-06 01:49:22,142 - INFO - 
+                Completed CLAUDE processing:
+                - Processing time: 274.33s
+                - Average time per statement: 274.33s
+                - Failed statements: 32
+                - Results saved to: /Users/nataliehu/Desktop/emory/Emory homework/2024/CS 371/CS371/Content/LLM outputs/Debate Statements/claude_processed_harris_statements.json
+                
+2024-11-06 01:49:22,142 - INFO - 
+                Analysis completed:
+                - Total processing time: 274.33s
+                - Average time per statement: 137.17s
+                 

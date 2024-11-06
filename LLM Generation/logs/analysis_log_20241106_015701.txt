@@ -1,0 +1,25 @@
+2024-11-06 01:57:01,061 - INFO - 
+Starting CLAUDE processing...
+2024-11-06 01:57:01,068 - ERROR - Critical error in main process: unsupported operand type(s) for -: 'str' and 'int'
+Traceback (most recent call last):
+  File "/Users/nataliehu/Desktop/emory/Emory homework/2024/CS 371/CS371/LLM Generation/debate_statements.py", line 253, in main
+    processed_data, failed_statements = process_model_statements(
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nataliehu/Desktop/emory/Emory homework/2024/CS 371/CS371/LLM Generation/debate_statements.py", line 183, in process_model_statements
+    processed_batch, failed_statements = process_statements_batch(
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nataliehu/Desktop/emory/Emory homework/2024/CS 371/CS371/LLM Generation/debate_statements.py", line 151, in process_statements_batch
+    statement, error = future.result()
+                       ^^^^^^^^^^^^^^^
+  File "/Users/nataliehu/anaconda3/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/nataliehu/anaconda3/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/Users/nataliehu/anaconda3/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nataliehu/Desktop/emory/Emory homework/2024/CS 371/CS371/LLM Generation/debate_statements.py", line 80, in process_statement
+    statement_id = statement["Statement ID"]-1
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~^~
+TypeError: unsupported operand type(s) for -: 'str' and 'int'

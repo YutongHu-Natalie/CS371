@@ -1,0 +1,11 @@
+2024-11-06 01:42:33,170 - INFO - 
+Starting CLAUDE processing...
+2024-11-06 01:42:33,177 - ERROR - Critical error in main process: unhashable type: 'slice'
+Traceback (most recent call last):
+  File "/Users/nataliehu/Desktop/emory/Emory homework/2024/CS 371/CS371/LLM Generation/debate_statements.py", line 253, in main
+    processed_data, failed_statements = process_model_statements(
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nataliehu/Desktop/emory/Emory homework/2024/CS 371/CS371/LLM Generation/debate_statements.py", line 182, in process_model_statements
+    batch = model_data[i:i + batch_size]
+            ~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+TypeError: unhashable type: 'slice'
