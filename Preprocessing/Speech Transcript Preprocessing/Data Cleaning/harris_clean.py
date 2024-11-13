@@ -2,8 +2,8 @@ import pandas as pd
 import numpy as np
 import re
 
-data = pd.read_csv('filtered_harris_transcripts.csv')
-
+data = pd.read_csv('kamala_harris_transcripts.csv')
+data = data.iloc[:142]
 df_filtered = data[~data['Title'].str.contains("debate", case=False, na=False)]
 
 df_filtered1 = df_filtered.copy()
@@ -72,4 +72,4 @@ df_filtered2 = df_filtered2[df_filtered2['cleaned'] != ""]
 
 print(df_filtered2.info())
 
-df_filtered2.to_csv('filtered_harris_transcripts_cleaned.csv', index=False)
+df_filtered2.to_csv('harris_transcripts_cleaned.csv', index=False)
