@@ -134,7 +134,7 @@ class TranscriptProcessor:
 
 
 # Example usage:
-candidate= "harris"
+candidate= "trump"
 
 # Go up two levels from current script location to reach Contenet directory
 script_dir = os.path.dirname(os.path.abspath(__file__))
