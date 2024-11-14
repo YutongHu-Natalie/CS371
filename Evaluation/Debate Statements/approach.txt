@@ -1,0 +1,65 @@
+Two-Step Agreement Analysis:
+
+First, assess agreement on the binary classification of whether content is ideological or not (-1 vs. 0-10) using:
+
+Cohen's Kappa or Fleiss' Kappa (for 2+ annotators)
+This captures agreement on the fundamental question of whether content contains ideology
+
+Then, for content rated as ideological by both/all annotators:
+
+Use Intraclass Correlation Coefficient (ICC)
+ICC is appropriate for ordinal ratings on an interval scale (0-10)
+It accounts for both agreement and consistency between raters
+It can handle multiple raters
+
+
+Additional Metrics to Consider:
+
+For the ordinal 0-10 scale:
+
+Krippendorff's alpha with ordinal distance metric
+Weighted Kappa (with quadratic weights to penalize larger disagreements more)
+Spearman's rank correlation between annotators
+
+
+Define Agreement Thresholds:
+
+
+Consider scores within +/-1 point as agreement
+Calculate percent agreement using this threshold
+This acknowledges that perfect agreement on a fine-grained scale is difficult
+
+The papers suggest that ideology rating is inherently subjective, so perfect agreement shouldn't be expected. The focus should be on:
+
+Consistent relative positioning (e.g., if annotators consistently rate one text as more conservative than another)
+Agreement on broad ideological categories (left/center/right)
+Systematic rather than random disagreements
+
+I recommend this multi-metric approach because it:
+
+Separates agreement on presence vs. degree of ideology
+Accounts for both exact and near agreement
+Provides multiple perspectives on reliability
+Aligns with how the papers handle subjectivity in ideological measurement
+-----------------------------------------------------------------------------------
+Two-Phase Analysis:
+
+Phase 1 - Agreement on Ideological vs Non-ideological (-1 vs 0-10):
+
+Use Cohen's Kappa since you're analyzing agreement between 2 annotators
+This establishes reliability in identifying ideological content
+
+Phase 2 - Agreement on Ideology Scale (0-10):
+
+Use ICC (Intraclass Correlation Coefficient) for the cases both annotators marked as ideological
+Consider using both ICC(2,1) for single measures and ICC(2,k) for average measures
+This measures both consistency and absolute agreement in ideology ratings
+
+
+Additional Considerations:
+
+
+Keep track of which portions were annotated by which annotators for future analysis
+Plan to conduct similar agreement analysis between Annotator2 and Annotator3 once that data is available
+Consider doing a final analysis across all three annotators on any portions that might have 3-way overlap
+Document the annotation timeline and process for transparency

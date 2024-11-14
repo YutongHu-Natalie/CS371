@@ -1,6 +1,0 @@
-2024-11-06 01:41:38,978 - ERROR - Critical error in main process: [Errno 2] No such file or directory: 'debate_statements.json'
-Traceback (most recent call last):
-  File "/Users/nataliehu/Desktop/emory/Emory homework/2024/CS 371/CS371/LLM Generation/debate_statements.py", line 246, in main
-    with open('debate_statements.json', 'r') as f:
-         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: 'debate_statements.json'

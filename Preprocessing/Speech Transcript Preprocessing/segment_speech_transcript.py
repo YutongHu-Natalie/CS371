@@ -10,11 +10,12 @@ import os
 
 
 class TranscriptProcessor:
-    def __init__(self, output_dir="processed_speeches", min_segment_length=50, max_segment_length=512):
+    def __init__(self, output_dir="processed_speeches", min_segment_length=50, max_segment_length=512, candidate= None):
         self.min_segment_length = min_segment_length
         self.max_segment_length = max_segment_length
         self.output_dir = output_dir
         self.speech_counter = 0
+        self.candidate = candidate
 
         # Create output directory if it doesn't exist
         if not os.path.exists(output_dir):
@@ -96,6 +97,7 @@ class TranscriptProcessor:
         # Save speech metadata
         speech = {
             'speech_id': speech_id,
+            'speaker': self.candidate,
             'title': title,
             'date': date_standard,
             'url': url,
@@ -138,20 +140,20 @@ candidate= "trump"
 
 # Go up two levels from current script location to reach Contenet directory
 script_dir = os.path.dirname(os.path.abspath(__file__))
-contenet_dir = os.path.dirname(os.path.dirname(script_dir))  # Go up to root directory
+root_dir = os.path.dirname(os.path.dirname(script_dir))  # Go up to root directory
 
 # Construct paths relative to Contenet directory
-input_path = os.path.join(contenet_dir, "Content", "Raw Materials", f"{candidate}_transcripts_with_topics (v2).csv")
-output_dir = os.path.join(contenet_dir, "Content", "Processed Materials", f"{candidate}_speeches")
+input_path = os.path.join(root_dir, "Content", "Raw Materials", f"{candidate}_transcripts_with_topics (v2).csv")
+output_dir = os.path.join(root_dir, "Content", "Processed Materials", f"{candidate}_speeches")
 
-print(contenet_dir)
+print(root_dir)
 # Create output directory if it doesn't exist
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
 # Read the CSV and process
 df = pd.read_csv(input_path)
-processor = TranscriptProcessor(output_dir=output_dir)
+processor = TranscriptProcessor(output_dir=output_dir, candidate="Harris")
 processed_df = processor.process_multiple_transcripts(df)
 
 

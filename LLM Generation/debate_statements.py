@@ -55,10 +55,10 @@ Statement to analyze: '''
 
 
 def setup_logging():
-    os.makedirs('logs', exist_ok=True)
+    os.makedirs('logs_debate_transcript', exist_ok=True)
     timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
 
-    file_handler = logging.FileHandler(f'logs/analysis_log_{timestamp}.txt')
+    file_handler = logging.FileHandler(f'logs_debate_transcript/analysis_log_{timestamp}.txt')
     console_handler = logging.StreamHandler()
 
     file_format = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')

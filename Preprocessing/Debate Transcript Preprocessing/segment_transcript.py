@@ -1,3 +1,6 @@
+'''
+Intending to segment the debate transcript and store them into structured json file
+'''
 import json
 import os
 

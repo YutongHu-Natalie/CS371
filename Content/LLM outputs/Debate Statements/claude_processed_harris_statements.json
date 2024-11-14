@@ -457,7 +457,7 @@
       "Climate"
     ],
     "Statement Content": "He will talk about windmills cause cancer.",
-    "Statement Importance": "0",
+    "Statement Importance": "1",
     "Statement Classification": "2",
     "Statement Ideology Score": "10",
     "Processed": true
@@ -717,7 +717,7 @@
     "Statement Content": "I was at the Capitol on January 6th. And on that day, the President of the United States incited a violent mob to attack our nation's Capitol, to desecrate our nation's Capitol. On that day, 140 law enforcement officers were injured. And some died. And understand, the former President has been indicted and impeached for exactly that reason.",
     "Statement Importance": "1",
     "Statement Classification": "1",
-    "Statement Ideology Score": "1",
+    "Statement Ideology Score": "-1",
     "Processed": true
   },
   {

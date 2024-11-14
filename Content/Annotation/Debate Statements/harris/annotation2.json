@@ -326,7 +326,7 @@
       "Statement Content": "This is one of the reasons why in this election I actually have the endorsement of 200 Republicans who have formally worked with President Bush, Mitt Romney, and John McCain including the endorsement of former Vice President Dick Cheney and Congress Member Liz Cheney.",
       "Statement Importance": "",
       "Statement Classification": "1",
-      "Statement Ideology Score": "-1"
+      "Statement Ideology Score": "6"
     },
     {
       "Statement ID": "041",
@@ -358,7 +358,7 @@
       "Statement Content": "Coming from someone (Trump) who has been prosecuted for national security crimes, economic crimes, election interference, has been found liable for sexual assault, and his next big court appearance is in November at his own criminal sentencing.",
       "Statement Importance": "",
       "Statement Classification": "1",
-      "Statement Ideology Score": "3"
+      "Statement Ideology Score": "-1"
     },
     {
       "Statement ID": "045",
@@ -374,23 +374,23 @@
       "Statement Content": "And address the needs of the American people, address what we need to do about the housing shortage, which I have a plan for.",
       "Statement Importance": "",
       "Statement Classification": "3",
-      "Statement Ideology Score": "-1"
+      "Statement Ideology Score": "5"
     },
     {
       "Statement ID": "047",
       "Statement Topic": "",
       "Statement Content": "Address what we must do to support our small businesses.",
       "Statement Importance": "",
-      "Statement Classification": "0",
-      "Statement Ideology Score": "-1"
+      "Statement Classification": "2",
+      "Statement Ideology Score": "5"
     },
     {
       "Statement ID": "048",
       "Statement Topic": "",
       "Statement Content": "Address bringing down the price of groceries.",
       "Statement Importance": "",
-      "Statement Classification": "0",
-      "Statement Ideology Score": "-1"
+      "Statement Classification": "2",
+      "Statement Ideology Score": "5"
     },
     {
       "Statement ID": "049",
@@ -405,8 +405,8 @@
       "Statement Topic": "",
       "Statement Content": "Understand, this(Trump) is someone who has openly said he would terminate, I'm quoting, terminate the Constitution of the United States.",
       "Statement Importance": "",
-      "Statement Classification": "",
-      "Statement Ideology Score": ""
+      "Statement Classification": "1",
+      "Statement Ideology Score": "-1"
     },
     {
       "Statement ID": "051",
@@ -414,7 +414,7 @@
       "Statement Content": "That he(Trump) would weaponize the Department of Justice against his political enemies.",
       "Statement Importance": "",
       "Statement Classification": "1",
-      "Statement Ideology Score": "3"
+      "Statement Ideology Score": "-1"
     },
     {
       "Statement ID": "052",
@@ -422,7 +422,7 @@
       "Statement Content": "Someone(Trump) who has openly expressed disdain for members of our military.",
       "Statement Importance": "",
       "Statement Classification": "1",
-      "Statement Ideology Score": "4"
+      "Statement Ideology Score": "-1"
     },
     {
       "Statement ID": "053",

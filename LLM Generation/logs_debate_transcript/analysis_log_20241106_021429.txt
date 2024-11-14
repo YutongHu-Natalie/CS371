@@ -88,7 +88,7 @@ Starting GPT processing...
                 Importance: 1
                 Classification: 1
                 Ideology: 5
-            
+            f
 2024-11-06 02:14:33,859 - INFO - 
                 Successfully processed statement 013:
                 Topics: {'Economy'}
