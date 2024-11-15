@@ -1,26 +1,19 @@
 import torch
 import torch.nn.functional as F
+from conda.exports import root_dir
 from sentence_transformers import SentenceTransformer
+import os
+from dotenv import load_dotenv
+import json
+from pathlib import Path
+from qdrant_client import QdrantClient
+from qdrant_client.models import Distance, VectorParams, PointStruct
+import pprint
+import dotenv
 
-revision= None
-device = "mps" if torch.backends.mps.is_available() else "cpu"
-print(f"Using device: {device}")
+# Get the list of user's
+load_dotenv()
 
-model = SentenceTransformer("avsolatorio/GIST-large-Embedding-v0", revision=revision
-                            )
-model = model.to(device)
-
-texts= ["hello, world", "Yes, I am", "I know you"]
-
-# Compute embeddings
-embeddings = model.encode(
-    texts,
-    convert_to_tensor=True,
-    device=device,
-    batch_size=32,
-    show_progress_bar=True
-)
-# Compute cosine-similarity for each pair of sentences
-scores = F.cosine_similarity(embeddings.unsqueeze(1), embeddings.unsqueeze(0), dim=-1)
-
-print(scores.cpu().numpy())
+CLAUDE_KEY = os.getenv('Claude_key')
+GPT_KEY = os.getenv('gpt_key')
+print(CLAUDE_KEY, GPT_KEY)
