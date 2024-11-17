@@ -153,7 +153,7 @@ if not os.path.exists(output_dir):
 
 # Read the CSV and process
 df = pd.read_csv(input_path)
-processor = TranscriptProcessor(output_dir=output_dir, candidate="Harris")
+processor = TranscriptProcessor(output_dir=output_dir, candidate="Trump")
 processed_df = processor.process_multiple_transcripts(df)
 
 

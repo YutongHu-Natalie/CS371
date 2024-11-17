@@ -110,7 +110,7 @@ def upload_speeches_to_qdrant(client, model, device, speeches, collection_name, 
 def initialize_model(model_name="avsolatorio/GIST-large-Embedding-v0", revision=None):
     """Initialize the sentence transformer model with proper error handling."""
     try:
-        device = "mps" if torch.backends.mps.is_available() else "cpu"
+        device = "cuda" if torch.cuda.is_available() else "cpu"
         print(f"Using device: {device}")
 
         model = SentenceTransformer(model_name, revision=revision)
@@ -164,11 +164,15 @@ def main():
         harris_speech_path = os.path.join(root_dir, "CS371/Content/Processed Materials/harris_speeches")
         trump_speech_path = os.path.join(root_dir, "CS371/Content/Processed Materials/trump_speeches")
 
+        trump_speeches = load_speeches(trump_speech_path)
+        if trump_speeches:
+            upload_speeches_to_qdrant(client, model, device, trump_speeches, "CS371")
         # Load and process speeches
+        """
         harris_speeches = load_speeches(harris_speech_path)
         if harris_speeches:
             upload_speeches_to_qdrant(client, model, device, harris_speeches, "CS371")
-
+        """
     except Exception as e:
         print(f"An error occurred: {e}")
         sys.exit(1)
