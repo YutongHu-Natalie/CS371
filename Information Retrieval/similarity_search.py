@@ -1,125 +1,134 @@
-import faiss
-import numpy as np
+import torch
 from sentence_transformers import SentenceTransformer
-import nltk
-from typing import Dict, List
-import sqlite3
+from qdrant_client import QdrantClient
+from qdrant_client.http.models import SearchRequest
+from typing import List, Dict, Any
+import os
+from dotenv import load_dotenv
 
 
-class SpeechEmbedding:
-    def __init__(self, model_name="avsolatorio/GIST-large-Embedding-v0"):
+class SpeechSearcher:
+    def __init__(self, model_name: str = "avsolatorio/GIST-large-Embedding-v0"):
+        """Initialize the searcher with model and Qdrant client."""
         self.model = SentenceTransformer(model_name)
-        self.index = None
-        self.conn = None
-        nltk.download('punkt')
+        self.model.to("cuda" if torch.cuda.is_available() else "cpu")
 
-    def split_into_sentences(self, text: str) -> List[str]:
-        return nltk.sent_tokenize(text)
+        # Initialize Qdrant client
+        load_dotenv()
+        qdrant_url = os.getenv('QDRANT_URL')
+        qdrant_key = os.getenv('Qdrant_Key')
+        self.client = QdrantClient(url=qdrant_url, api_key=qdrant_key)
 
-    def process_and_store(self, speeches: Dict[str, str], db_path: str = 'speeches.db'):
-        # Connect to SQLite
-        self.conn = sqlite3.connect(db_path)
-        c = self.conn.cursor()
+    def _get_context_segments(self, speech_id: str, segment_id: int, window: int = 1) -> List[Dict[str, Any]]:
+        """Retrieve context segments before and after the given segment."""
+        context_points = []
 
-        # Create table
-        c.execute('''CREATE TABLE IF NOT EXISTS speeches
-                    (id INTEGER PRIMARY KEY,
-                     sentence TEXT,
-                     candidate TEXT)''')
+        # Calculate the range of segment IDs to fetch
+        start_id = generate_point_id(speech_id, max(0, segment_id - window))
+        end_id = generate_point_id(speech_id, segment_id + window)
 
-        # Process all speeches
-        all_embeddings = []
-        idx = 0
+        # Fetch all points in the range
+        points = self.client.retrieve(
+            collection_name="CS371",
+            ids=list(range(start_id, end_id + 1))
+        )
 
-        for candidate, speech in speeches.items():
-            # Split into sentences
-            sentences = self.split_into_sentences(speech)
+        return [point.payload for point in points]
 
-            # Process in batches
-            batch_size = 32
-            for i in range(0, len(sentences), batch_size):
-                batch = sentences[i:i + batch_size]
+    def search(self, query: str, top_k: int = 5, context_window: int = 1) -> List[Dict[str, Any]]:
+        """
+        Perform similarity search and return results with context.
 
-                # Create embeddings
-                embeddings = self.model.encode(batch)
-                all_embeddings.extend(embeddings)
+        Args:
+            query: Search query text
+            top_k: Number of top results to return
+            context_window: Number of segments to include before and after each match
 
-                # Store sentences in SQLite
-                for sentence in batch:
-                    c.execute("INSERT INTO speeches VALUES (?, ?, ?)",
-                              (idx, sentence, candidate))
-                    idx += 1
+        Returns:
+            List of dictionaries containing search results with context
+        """
+        try:
+            # Generate embedding for the query
+            query_embedding = self.model.encode(query, convert_to_tensor=True)
+            query_embedding = query_embedding.cpu().numpy()
 
-        # Convert to numpy array
-        all_embeddings = np.array(all_embeddings)
+            # Perform the search
+            search_results = self.client.search(
+                collection_name="CS371",
+                query_vector=query_embedding,
+                limit=top_k,
+                with_payload=True,
+                score_threshold=0.7  # Adjust this threshold as needed
+            )
 
-        # Initialize FAISS index
-        dimension = all_embeddings.shape[1]
-        self.index = faiss.IndexFlatIP(dimension)  # Inner product for cosine similarity
+            # Process results and add context
+            detailed_results = []
+            for result in search_results:
+                payload = result.payload
+                score = result.score
 
-        # Add vectors to the index
-        self.index.add(all_embeddings)
+                # Get context segments
+                context_segments = self._get_context_segments(
+                    payload["speech_id"],
+                    payload["segment_id"],
+                    context_window
+                )
 
-        # Save changes and close connection
-        self.conn.commit()
+                # Create detailed result entry
+                detailed_result = {
+                    "match_score": score,
+                    "metadata": {
+                        "speaker": payload["speaker"],
+                        "speech_id": payload["speech_id"],
+                        "title": payload["title"],
+                        "date": payload["date"],
+                        "topics": payload["topics"]
+                    },
+                    "matched_segment": {
+                        "segment_id": payload["segment_id"],
+                        "text": payload["text"]
+                    },
+                    "context": context_segments
+                }
+                detailed_results.append(detailed_result)
 
-        # Save FAISS index
-        faiss.write_index(self.index, "speeches.index")
+            return detailed_results
 
-        print(f"Processed and stored {idx} sentences")
-
-    def search(self, query: str, k: int = 5) -> List[Dict]:
-        # Encode query
-        query_vector = self.model.encode([query])
-
-        # Search in FAISS
-        scores, indices = self.index.search(query_vector, k)
-
-        # Get corresponding sentences from SQLite
-        results = []
-        c = self.conn.cursor()
-
-        for idx, score in zip(indices[0], scores[0]):
-            c.execute("SELECT sentence, candidate FROM speeches WHERE id=?", (int(idx),))
-            sentence, candidate = c.fetchone()
-            results.append({
-                'sentence': sentence,
-                'candidate': candidate,
-                'score': float(score)
-            })
-
-        return results
-
-    def load_index(self, index_path: str = "speeches.index", db_path: str = "speeches.db"):
-        self.index = faiss.read_index(index_path)
-        self.conn = sqlite3.connect(db_path)
+        except Exception as e:
+            print(f"Error during search: {e}")
+            return []
 
 
-# Usage example:
+def generate_point_id(speech_id: str, segment_index: int) -> int:
+    """Generate a unique integer ID from speech ID and segment index."""
+    speech_num = int(speech_id)
+    return (speech_num * 1000) + segment_index
+
+
+# Example usage
+def main():
+    # Initialize the searcher
+    searcher = SpeechSearcher()
+
+    # Example search query
+    query = "And I intend on extending a tax cut for those families of $6,000, which is the largest child tax credit that we have given in a long time."
+    results = searcher.search(query, top_k=5, context_window=1)
+
+    # Display results
+    for i, result in enumerate(results, 1):
+        print(f"\nResult {i} (Score: {result['match_score']:.3f})")
+        print("\nMetadata:")
+        for key, value in result["metadata"].items():
+            print(f"{key}: {value}")
+
+        print("\nMatched Segment:")
+        print(result["matched_segment"]["text"])
+
+        print("\nContext:")
+        for ctx in result["context"]:
+            print(f"[Segment {ctx['segment_id']}]: {ctx['text']}")
+        print("-" * 80)
+
+
 if __name__ == "__main__":
-    # Initialize
-    embedder = SpeechEmbedding()
-
-    # Example speeches
-    speeches = {
-        "candidate_1": """First speech content here. This is about economic policy.
-                         We need to focus on growth. Jobs are important.""",
-        "candidate_2": """Second speech content here. The economy needs reform.
-                         We should reduce taxes. Employment is our priority."""
-    }
-
-    # Process and store speeches
-    embedder.process_and_store(speeches)
-
-    # Example debate question
-    debate_question = "What is your stance on economic policy?"
-
-    # Search for relevant sentences
-    results = embedder.search(debate_question)
-
-    # Print results
-    print("\nResults for:", debate_question)
-    for result in results:
-        print(f"\nCandidate: {result['candidate']}")
-        print(f"Statement: {result['sentence']}")
-        print(f"Similarity Score: {result['score']:.3f}")
+    main()

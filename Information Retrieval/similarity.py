@@ -101,7 +101,7 @@ def main():
 
         # Define collection and query
         collection_name = "CS371"
-        query_text = "We must work together to achieve peace and prosperity." # modify this for different sentences
+        query_text = "And I intend on extending a tax cut for those families of $6,000, which is the largest child tax credit that we have given in a long time."
 
         # Perform similarity search with context retrieval
         search_with_context(client, model, query_text, device, collection_name)
