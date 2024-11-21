@@ -1,8 +1,8 @@
 import torch
 from sentence_transformers import SentenceTransformer
 from qdrant_client import QdrantClient
-from qdrant_client.http.models import SearchRequest
-from typing import List, Dict, Any
+from qdrant_client.http.models import SearchRequest, Filter, FieldCondition, MatchValue
+from typing import List, Dict, Any, Optional, Tuple
 import os
 from dotenv import load_dotenv
 
@@ -19,62 +19,86 @@ class SpeechSearcher:
         qdrant_key = os.getenv('Qdrant_Key')
         self.client = QdrantClient(url=qdrant_url, api_key=qdrant_key)
 
-    def _get_context_segments(self, speech_id: str, segment_id: int, window: int = 1) -> List[Dict[str, Any]]:
-        """Retrieve context segments before and after the given segment."""
-        context_points = []
+        # Available speakers
+        self.speakers = ["Trump", "Harris"]
 
-        # Calculate the range of segment IDs to fetch
-        start_id = generate_point_id(speech_id, max(0, segment_id - window))
-        end_id = generate_point_id(speech_id, segment_id + window)
-
-        # Fetch all points in the range
-        points = self.client.retrieve(
-            collection_name="CS371",
-            ids=list(range(start_id, end_id + 1))
-        )
-
-        return [point.payload for point in points]
-
-    def search(self, query: str, top_k: int = 5, context_window: int = 1) -> List[Dict[str, Any]]:
+    def _get_context_segment(self, speech_id: str, segment_id: int, direction: int) -> Optional[Dict[str, Any]]:
         """
-        Perform similarity search and return results with context.
+        Retrieve a single context segment either before or after the given segment.
+
+        Args:
+            speech_id: ID of the speech
+            segment_id: Current segment ID
+            direction: 1 for next segment, -1 for previous segment
+        """
+        try:
+            target_id = generate_point_id(speech_id, segment_id + direction)
+            points = self.client.retrieve(
+                collection_name="CS371",
+                ids=[target_id]
+            )
+            return points[0].payload if points else None
+        except Exception:
+            return None
+
+    def search(self, query: str, speaker: Optional[str] = None, top_k: int = 5) -> Tuple[
+        List[Dict[str, Any]], List[float]]:
+        """
+        Perform similarity search and return results with immediate context.
 
         Args:
             query: Search query text
+            speaker: Optional speaker name to filter results ("Trump" or "Harris")
             top_k: Number of top results to return
-            context_window: Number of segments to include before and after each match
 
         Returns:
-            List of dictionaries containing search results with context
+            Tuple containing:
+            - List of search results with context
+            - List of all similarity scores (for debugging)
         """
         try:
             # Generate embedding for the query
             query_embedding = self.model.encode(query, convert_to_tensor=True)
             query_embedding = query_embedding.cpu().numpy()
 
-            # Perform the search
-            search_results = self.client.search(
+            # Create speaker filter if specified
+            search_filter = None
+            if speaker:
+                search_filter = Filter(
+                    must=[
+                        FieldCondition(
+                            key="speaker",
+                            match=MatchValue(value=speaker)
+                        )
+                    ]
+                )
+
+            # First, get all results without threshold to analyze scores
+            all_results = self.client.search(
                 collection_name="CS371",
                 query_vector=query_embedding,
                 limit=top_k,
                 with_payload=True,
-                score_threshold=0.7  # Adjust this threshold as needed
+                score_threshold=0.0,  # No threshold initially
+                query_filter=search_filter
             )
+
+            all_scores = [result.score for result in all_results]
+
+            # Filter results with high similarity (0.7 threshold)
+            high_similarity_results = [result for result in all_results if result.score >= 0.6]
 
             # Process results and add context
             detailed_results = []
-            for result in search_results:
+            for result in high_similarity_results:
                 payload = result.payload
                 score = result.score
+                segment_id = payload["segment_id"]
 
-                # Get context segments
-                context_segments = self._get_context_segments(
-                    payload["speech_id"],
-                    payload["segment_id"],
-                    context_window
-                )
+                # Get previous and next segments
+                prev_segment = self._get_context_segment(payload["speech_id"], segment_id, -1)
+                next_segment = self._get_context_segment(payload["speech_id"], segment_id, 1)
 
-                # Create detailed result entry
                 detailed_result = {
                     "match_score": score,
                     "metadata": {
@@ -85,18 +109,25 @@ class SpeechSearcher:
                         "topics": payload["topics"]
                     },
                     "matched_segment": {
-                        "segment_id": payload["segment_id"],
+                        "segment_id": segment_id,
                         "text": payload["text"]
                     },
-                    "context": context_segments
+                    "context": {
+                        "previous": prev_segment["text"] if prev_segment else None,
+                        "next": next_segment["text"] if next_segment else None
+                    }
                 }
                 detailed_results.append(detailed_result)
 
-            return detailed_results
+            return detailed_results, all_scores
 
         except Exception as e:
             print(f"Error during search: {e}")
-            return []
+            return [], []
+
+    def get_available_speakers(self) -> List[str]:
+        """Return list of available speakers."""
+        return self.speakers
 
 
 def generate_point_id(speech_id: str, segment_index: int) -> int:
@@ -105,29 +136,74 @@ def generate_point_id(speech_id: str, segment_index: int) -> int:
     return (speech_num * 1000) + segment_index
 
 
-# Example usage
 def main():
     # Initialize the searcher
     searcher = SpeechSearcher()
 
-    # Example search query
-    query = "And I intend on extending a tax cut for those families of $6,000, which is the largest child tax credit that we have given in a long time."
-    results = searcher.search(query, top_k=5, context_window=1)
+    # Get available speakers
+    speakers = searcher.get_available_speakers()
 
-    # Display results
-    for i, result in enumerate(results, 1):
-        print(f"\nResult {i} (Score: {result['match_score']:.3f})")
-        print("\nMetadata:")
-        for key, value in result["metadata"].items():
-            print(f"{key}: {value}")
+    while True:
+        # Speaker selection
+        print("\nAvailable speakers:")
+        print("0. All speakers")
+        for i, speaker in enumerate(speakers, 1):
+            print(f"{i}. {speaker}")
 
-        print("\nMatched Segment:")
-        print(result["matched_segment"]["text"])
+        try:
+            speaker_choice = input("\nSelect speaker number (or 'quit' to exit): ")
+            if speaker_choice.lower() == 'quit':
+                break
 
-        print("\nContext:")
-        for ctx in result["context"]:
-            print(f"[Segment {ctx['segment_id']}]: {ctx['text']}")
-        print("-" * 80)
+            speaker_idx = int(speaker_choice)
+            selected_speaker = None if speaker_idx == 0 else speakers[speaker_idx - 1]
+
+            if selected_speaker:
+                print(f"\nSearching in {selected_speaker}'s speeches")
+            else:
+                print("\nSearching in all speeches")
+
+        except (ValueError, IndexError):
+            print("Invalid selection. Please try again.")
+            continue
+
+        # Get search query
+        query = input("\nEnter your search query: ")
+
+        results, all_scores = searcher.search(query, speaker=selected_speaker, top_k=5)
+
+        # Provide feedback based on search results
+        if not results:
+            print("\nNo high-similarity matches found.")
+            if all_scores:
+                print(f"Best match score was: {max(all_scores):.3f} (threshold is 0.7)")
+                print("Try:")
+                print("1. Using different key phrases")
+                print("2. Searching for shorter, specific phrases")
+                print("3. Making sure the content exists in the speeches")
+            continue
+
+        # Display results
+        print(f"\nFound {len(results)} high-similarity matches:")
+        for i, result in enumerate(results, 1):
+            print(f"\nResult {i} (Score: {result['match_score']:.3f})")
+            print("\nMetadata:")
+            for key, value in result["metadata"].items():
+                print(f"{key}: {value}")
+
+            print("\nContext:")
+            if result["context"]["previous"]:
+                print("\nPrevious segment:")
+                print(result["context"]["previous"])
+
+            print("\nMatched Segment:")
+            print(result["matched_segment"]["text"])
+
+            if result["context"]["next"]:
+                print("\nNext segment:")
+                print(result["context"]["next"])
+
+            print("-" * 80)
 
 
 if __name__ == "__main__":
