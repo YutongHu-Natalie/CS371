@@ -1,0 +1,105 @@
+{
+  "query_id": "002",
+  "query_text": "Well, the reason I'm doing that vote is because the plan is, as you know, the vote is, they have abortion in the ninth month. They even have, and you can look at the previous governor of West Virginia, he said the baby will be born and we will decide what to do with the baby. In other words, we'll execute the baby.And that's why I did that, because that predominates. Because they're radical. The Democrats are radical in that. ",
+  "query_topics": [
+    "Healthcare",
+    "Social Justice"
+  ],
+  "results": {
+    "Well, the reason I'm doing that vote is because the plan is, as you know, the vote is, they have abortion in the ninth month. They even have, and you can look at the previous governor of West Virginia, he said the baby will be born and we will decide what to do with the baby. In other words, we'll execute the baby.And that's why I did that, because that predominates. Because they're radical. The Democrats are radical in that. ": {
+      "Trump": [
+        {
+          "match_score": 0.826169,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "286",
+            "title": "Donald Trump Speaks at NRA Convention",
+            "date": "20240520",
+            "topics": "Gun Control, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 127,
+            "text": "This is a Democrat, radical Democrat. They want abortion and they fully allow, and in some cases they have a mandate. They allow abortions in the seventh, eighth, ninth month, and even after birth. And you can't have that. So, the fact is they're the radical ones on this issue, not you. They're the radical ones, but every voter has to go with your heart and do what's right. But we also have to remember that politicians, to do many other things, have to get elected."
+          },
+          "context": {
+            "previous": "If the radical Democrat extremists get their way, they will have a federal law for abortion in the seventh, eighth, ninth month, and even executing a baby after birth. If you look at, and you know exactly what I'm talking about, if you look at the former governor of Virginia, he said, yes, we'll have the patient, the woman brought in, the ninth month, and if the baby is born, we will sit down and we will talk to the woman, and we'll decide whether or not she wants to dispose of the baby.",
+            "next": "And I want to thank the six Supreme Court justices, Clarence Thomas, Samuel Alito, John Roberts, Brett Kavanaugh, Neil Gorsuch, and Amy Coney Barrett, for the wisdom and courage they showed on this long-term, very contentious issue. They did what's been wanted for many, many years. (:37) Getting it back to the states, puts the question where it belongs with the vote of the people, and over time it will all work out."
+          }
+        },
+        {
+          "match_score": 0.817331,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "044",
+            "title": "Trump Holds News Conference at Mar-a-Lago",
+            "date": "20240812",
+            "topics": "Economy, Immigration, Foreign Policy, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 61,
+            "text": "What I've done is I've done what every Democrat and every Republican wanted to have done, and we brought that issue back to the States, and now the States are voting on it, and frankly, some of the votes are a lot different than people would've thought, but it's the vote of the people that's taking care of it. () And when you think about the radical, the Democrats are really the radical ones on this because they're allowed to do abortion on the eighth and ninth month and even after birth."
+          },
+          "context": {
+            "previous": "And then you have Texas and you have other places where it may be different. () But the issue has been brought back to the States now, and like Ronald Reagan, I believe in the exceptions for rape, incest, and life of the mother, I believe strongly. I think that that's a very important thing. I think when you don't... You have to follow your heart, but when you don't believe, and the exceptions, I think it's much tougher, it's a much tougher issue.",
+            "next": "If you look at your new governor from Minnesota, he's talking about... He's like the governor previous, the former governor. I don't want to get him mixed up because Glenn is doing a good job and he's leading our whole campaign in Virginia, Glenn Youngkin, but previous to Glenn, the governor, he said, \"The baby will be born, we will put the baby aside and we will decide the mother what we're going to do,\" in other words, whether or not we're going to kill the baby."
+          }
+        },
+        {
+          "match_score": 0.8168789,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "088",
+            "title": "Trump Addresses National Association of Black Journalists",
+            "date": "20240805",
+            "topics": "Economy, Social Justice, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 34,
+            "text": "If you don't like me, I'm not going to win. J.D. Vance? But at least was said in a friendly manner. I don't think... Look, I think that the Democrat party is really the one that has the problem. I think they're radical on abortion because they're allowing abortion in the ninth month. They're allowing the death- They're the death of a baby after the baby is born based on governor of Virginia. Based on the Governor of Virginia, they're allowing the death of the baby- ... after it's born."
+          },
+          "context": {
+            "previous": "Maybe Lyndon Johnson mattered for different reasons than what we're talking about. Not for vote reasons, but for political reasons, other political reasons. But historically, the choice of a vice president makes no difference. You're voting for the president and you can have a vice president who's outstanding in every way, and I think J.D. Is, I think that all of them would've been, but you're not voting that way. You're voting for the president. You're voting for me. If you like me, I'm going to win.",
+            "next": "They're allowing abortions in the eighth and ninth month. I think they're right, and I think the Republican Party is actually much lesser. I think I've made them much less radical, perhaps, but the Republican Party, what we're doing is bringing it back to the states where everybody wanted it. Democrats, Republicans, liberals, conservatives, everybody wanted abortion brought back. They didn't want Roe, v. Wade in the federal government. They wanted it, everybody wanted it back- Excuse me."
+          }
+        },
+        {
+          "match_score": 0.8002014,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "221",
+            "title": "Trump Campaigns at Faith & Freedom Conference",
+            "date": "20240625",
+            "topics": "Gun Control, Immigration, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 47,
+            "text": "The people are now deciding, and some states are a little bit more conservative and some states are much more liberal. () If the radical democratic streams get their way, they will have a federal law for abortion to rip the baby out of the womb in the seventh, eighth and ninth month and even execute the baby after birth. They have that the governor- The governor, think of it, the governor of Virginia, previous governor, we have a great governor of Virginia right now, but..."
+          },
+          "context": {
+            "previous": "It's now up to the will of the people in each state. Some states will be more conservative, other states will be more liberal. It's happening now. You see the votes are all taking place, and it's the way every legal scholar and just about all the Democrats and all the Republicans and conservatives and liberals, they all wanted it that way and we did something that was amazing. () The big problem was it was caught up in the federal government, but the people will decide and that's the way it should be.",
+            "next": "Glenn Youngkin is doing a great job, but the previous governor of Virginia, you want to make that very clear because he's doing great, the previous was not so good, but he actually made that statement, \"We'll put the baby down after the baby's... We'll put that... And you'll decide what to do.\" () And there are states that allow that. They're the radical ones on this issue. Far and away, the radical ones, not us."
+          }
+        },
+        {
+          "match_score": 0.7855505,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "286",
+            "title": "Donald Trump Speaks at NRA Convention",
+            "date": "20240520",
+            "topics": "Gun Control, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 126,
+            "text": "If the radical Democrat extremists get their way, they will have a federal law for abortion in the seventh, eighth, ninth month, and even executing a baby after birth. If you look at, and you know exactly what I'm talking about, if you look at the former governor of Virginia, he said, yes, we'll have the patient, the woman brought in, the ninth month, and if the baby is born, we will sit down and we will talk to the woman, and we'll decide whether or not she wants to dispose of the baby."
+          },
+          "context": {
+            "previous": "Both great states, came out much more liberal in terms of this issue than some people would've thought. But the vote is the vote, and it's the will of the people. Some states will be more conservative and others will be more liberal, but the people will decide, and that's the way it should be. And that's the way people have wanted it to be for many, many decades.",
+            "next": "This is a Democrat, radical Democrat. They want abortion and they fully allow, and in some cases they have a mandate. They allow abortions in the seventh, eighth, ninth month, and even after birth. And you can't have that. So, the fact is they're the radical ones on this issue, not you. They're the radical ones, but every voter has to go with your heart and do what's right. But we also have to remember that politicians, to do many other things, have to get elected."
+          }
+        }
+      ],
+      "Harris": []
+    }
+  }
+}

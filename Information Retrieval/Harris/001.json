@@ -1,0 +1,178 @@
+{
+  "query_id": "001",
+  "query_text": " My passion, one of them, is small businesses. My plan is to give a $50,000 tax deduction to start up small businesses, knowing they are part of the backbone of America's economy. ",
+  "query_topics": [
+    "Economy",
+    "Government Policy"
+  ],
+  "results": {
+    " My passion, one of them, is small businesses. My plan is to give a $50,000 tax deduction to start up small businesses, knowing they are part of the backbone of America's economy. ": {
+      "Trump": [
+        {
+          "match_score": 0.67778,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "465",
+            "title": "Trump Rally in Georgia",
+            "date": "20240925",
+            "topics": "Economy, Foreign Policy"
+          },
+          "matched_segment": {
+            "segment_id": 42,
+            "text": "() The centerpiece of my plan is for a manufacturing renaissance, which will be a 15% made in America tax rate. In other words, if you make your product in America. So the tax rate was practically close to 50%. Some people would say 38, but when you added it all up, some companies are paying much more with state and local, much more than 50%. I got it down to 21% through Congress. Can you believe we got it through Congress? () A lot of people say it was the greatest thing we did."
+          },
+          "context": {
+            "previous": "We had created 650,000 manufacturing jobs before we even got ready to do it. And now we're ready. We're ready to do it, and the country' Thank you. Thank you very much everybody. Thank you. Thank you very much. So listen to how good it is. It's so easy. It's so easy. China's used it for years, but we have a better plan than them, but they've used it for years. They can do whatever they want. We have to go through certain hurdles, but not much.",
+            "next": "I think maybe rebuilding the military was the greatest thing. Maybe the creation of Space Force was the greatest. We were being beaten badly in space and now we're the leader in space. China and Russia were eating our lunch and now we're eating their lunch. We did so much. () We gave you before the greatest, the biggest tax hikes in the history of our country and the greatest regulatory cuts in the history. Think of it. We took their tremendous tax hikes."
+          }
+        },
+        {
+          "match_score": 0.6709569,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "001",
+            "title": "Donald Trump Coronavirus Task Force Press Conference Transcript April 10",
+            "date": "20200410",
+            "topics": "Economy, Healthcare, Immigration, Foreign Policy"
+          },
+          "matched_segment": {
+            "segment_id": 61,
+            "text": "We have to help our workers, we have to help our small businesses. We have to help our restaurants. I think deductibility will be great for entertainment, restaurants, all of that. Look, I think with the stimulus, with the people, with what we've got going with all of the things, we're going to be meeting with the airlines over the weekend. We have a great plan for the airlines. We've got to keep the airlines going. It's never been a great business, but it's a very vital business for the country."
+          },
+          "context": {
+            "previous": "We had our highest number yesterday and the day before. With all of this news, what would lead you to believe that we're going to have the best stock market week, shortened week, in 50 years. Almost broke the all time record. You know what that is? That's a pent up demand now. That's my opinion. The other thing is we're doing tremendous stimulus plans and despite what you reading, there's back and forth, but we are getting along with the Democrats. They want to see something happen.",
+            "next": "We're going to be meeting with Boeing, we're going to be meeting with a lot of companies that are great companies and were great companies a short while ago. We can't let anything happen to Boeing. It's got so much potential. You talk about potential, can anything have more potential than that? So we have a lot of very exciting things taking place. We have tremendous plans, we have tremendous stimulus. And I think we have a chance to do really well. So this quarter isn't the quarter I'm looking at."
+          }
+        },
+        {
+          "match_score": 0.6488817,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "034",
+            "title": "Donald Trump Coronavirus Task Force Briefing April 7",
+            "date": "20200407",
+            "topics": "Healthcare, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 30,
+            "text": "The small business will someday be the big business, but the small business is 50% of our economic strength. People don't realize when you add them up, but they just rose to the occasion. Everybody's rising to the occasion. It's been incredible to watch. To honor and celebrate the extraordinary examples of patriotism and citizenship, we're seeing..."
+          },
+          "context": {
+            "previous": "We're going to put a very powerful hold on it, and we're going to see. It's a great thing if it works. But when they call every shot wrong, that's no good. We're in the midst of the great national struggle, one that requires the shared sacrifice of all Americans. In recent weeks, it's been remarkable to see so many companies and organizations and individuals, like the banks that I just told you about, biggest banks in the world. They stepped up to help small business. They had big business, small business.",
+            "next": "I'm asking Americans to use the #AmericaWorksTogether when sharing stories of how we're all working together, getting through this ordeal in a fashion that nobody would have thought possible. It's been incredible and that's why the numbers are so far much better. We want to keep it that way. If you look at the original projections, if we did nothing, it would be a disastrous. If we decided to do something, we closed it down, had no choice. It was a good move. That was a good move."
+          }
+        },
+        {
+          "match_score": 0.63913286,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "405",
+            "title": "Trump Rally in Juneau, Wisconsin",
+            "date": "20241007",
+            "topics": "Immigration, Climate, Foreign Policy, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 66,
+            "text": "We're going to have a country that's going to turn around very fast. The centerpiece of my plan for a manufacturing renaissance will be a 15% made in America corporate tax rate, cutting the business tax from 21 to 15. Okay? So I took it from 39 to 21 with the help of your great congressman over here, Troy, Troy Nehls. () We fought hard, but we took it from 39 to 21. Everyone said, \"That's impossible.\" We got it approved by Congress. Can you believe that?"
+          },
+          "context": {
+            "previous": "And I took a lot of heat. A lot of people are not in love with me for doing it, but I got it for Wisconsin. And you know that. Actually, you know it from Texas because they wanted it too. I won't say that too loud. But everybody wanted it and I got it for Wisconsin. And they're doing a great job. They're doing a great job. () But the horrific nightmare for American workers ends the day that I take the oath of office. It will end on that day. It's going to be over.",
+            "next": "And that makes us pretty competitive, because there are many countries. And again, remember the countries, there are sort of our opponents on trade. They're actually our opponents. And sometimes it's pretty vicious opponents on trade. But we took it down to 21 from 39. Now I'm taking it from 21 to 15, but only for those who make their product in America, right? Pretty simple. () I got a call from some of the smartest geniuses on Wall Street."
+          }
+        },
+        {
+          "match_score": 0.6374222,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "341",
+            "title": "Trump Rally in Scranton, Pennsylvania",
+            "date": "20241010",
+            "topics": "Immigration, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 60,
+            "text": "But now I want to get it down to 15, but only for those companies that make their product in America. Isn't that a good idea? You make your product in America. In other words, you're creating jobs. () Think of that. Vivek, is that good? How about that? I got calls from very smart people like Vivek and they said, \"Where the hell did you ever come up with that idea?\" How simple is it? Your tax is going to go down from 21% all the way down to 15, which makes us just about the most competitive ..."
+          },
+          "context": {
+            "previous": "I said, \"Do me a favor...\" I just wouldn't mention it, but now I do. () Cutting the tax from 21% to 15. So, we got it down to 21 and then I said, \"You know what? 21 makes us pretty competitive with the world.\" Just so you know, our companies all trying to be stolen, and a lot of companies are lower than 21. So, I want to bring it lower. And I wanted to, originally ... I got it down to 21. Everyone said that was impossible. Got it approved by Congress.",
+            "next": "I think there's very few ... I mean, no great nation, no big nation ... We get it all the way down. But you have to make your product here. () And I got a call from Wall Street geniuses, \"Who the hell gave you that idea? That's a great idea.\" These guys, that's all they do is they think. Nobody ever thought about that. We're taking it down from 21 to 15. And then we have to do something very important."
+          }
+        }
+      ],
+      "Harris": [
+        {
+          "match_score": 0.61896336,
+          "metadata": {
+            "speaker": "Harris",
+            "speech_id": "115",
+            "title": "Harris Speech in Pittsburgh",
+            "date": "20240926",
+            "topics": "Economy, Healthcare, Government Policy, Veterans Affairs"
+          },
+          "matched_segment": {
+            "segment_id": 13,
+            "text": "A survey of top economists by the Financial Times and the University of Chicago found that by an overwhelming 70 to 3% margin, my plan would be better for keeping inflation low. Objective economists have been very clear. And they create nearly 50% of private sector jobs and they strengthen our middle class. And if we can harness the entrepreneurialism of the American people and unlock the full potential of aspiring founders and small business owners, I am optimistic that no one will be able to outpace us."
+          },
+          "context": {
+            "previous": "I had the experience of dealing with that when I was Attorney General. We will take on big pharma, and cap the cost of prescription drugs for all Americans just like we did for our seniors. Now, by contrast, Donald Trump has no intention of lowering costs for the middle class. In fact, his economic agenda would actually raise prices. And listen, that's not just my opinion.",
+            "next": "() By contrast, Donald Trump, when he was president, has been described by one of the nation's leading experts on small businesses in a piece he published in a major paper as not being good for small businesses. In fact, the title... The title... Wait, because I'm bearing the lead right now. One of the leading experts on small businesses published a piece in one of the major newspapers, and the title, I'm going to quote, Does Donald Trump Hate Small Businesses? And their answer was yes. Their answer was yes."
+          }
+        },
+        {
+          "match_score": 0.61791307,
+          "metadata": {
+            "speaker": "Harris",
+            "speech_id": "076",
+            "title": "Biden and Harris Deliver Remarks for National Small Business Week Transcript",
+            "date": "20230502",
+            "topics": "Economy, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 4,
+            "text": "() And as District Attorney of San Francisco, in my career, as Attorney General California and United States Senator, and now as Vice President, I have worked with and met with thousands of small business owners. Folks like you who are here, who fight every day to build a better future for the people you love, for the community you call home, and for our country."
+          },
+          "context": {
+            "previous": "And when she did, my sister Maya and I would go a couple doors over to Ms. Shelton's house. So Ms. Shelton ran a nursery school, and we actually lived in the apartment above the nursery school, and Ms. Shelton was our second mother. She was a small business owner and I would not be here today without her. Because you see, Mrs. Shelton was a fixture in our community. She gave support and advice to the young parents in the neighborhood and folks who are going through challenges just as so many of you do.",
+            "next": "() You power the ambition and aspirations of our nation and that is why we are fighting every day to make sure you have the resources and the support that you need. For example, we know there are so many small businesses owners who hire employees but want to hire more because your business is growing. Small business owners who want to stock the shelves and make sure you have enough in terms of the supply you need, to do what you need to do in your community."
+          }
+        },
+        {
+          "match_score": 0.6161274,
+          "metadata": {
+            "speaker": "Harris",
+            "speech_id": "076",
+            "title": "Biden and Harris Deliver Remarks for National Small Business Week Transcript",
+            "date": "20230502",
+            "topics": "Economy, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 2,
+            "text": "Through your creativity, tenacity and determination, you help create prosperity and opportunity for millions of people in our country. Our small business owners are business leaders and our small business owners are community leaders and civic leaders. You train young people and hire locally. You support the local softball team. You are role models and mentors. And I'll tell you, I've seen it my whole life. () Growing up, my mother worked long hours and long days, and weekends from time to time."
+          },
+          "context": {
+            "previous": "And I will tell you, working with him and having the honor of doing that, no matter what room he is in, when the cameras are on or when they are off, President Biden is always fighting for America's small business owners and entrepreneurs. And so we all thank him, of course, for his leadership in that regard. () Small business owners are the backbone of America's economy. You are.",
+            "next": "And when she did, my sister Maya and I would go a couple doors over to Ms. Shelton's house. So Ms. Shelton ran a nursery school, and we actually lived in the apartment above the nursery school, and Ms. Shelton was our second mother. She was a small business owner and I would not be here today without her. Because you see, Mrs. Shelton was a fixture in our community. She gave support and advice to the young parents in the neighborhood and folks who are going through challenges just as so many of you do."
+          }
+        },
+        {
+          "match_score": 0.60047936,
+          "metadata": {
+            "speaker": "Harris",
+            "speech_id": "115",
+            "title": "Harris Speech in Pittsburgh",
+            "date": "20240926",
+            "topics": "Economy, Healthcare, Government Policy, Veterans Affairs"
+          },
+          "matched_segment": {
+            "segment_id": 15,
+            "text": "() Because at the same time that Donald Trump was giving a tax cut to big corporations and billionaires, he tried to slash programs for small businesses and raise borrowing costs for them. Instead of making it easier, he actually made it more difficult for them to access capital. And that's not surprising because Donald Trump just does not prioritize small businesses. He does not seem to value, frankly, the essential role they play."
+          },
+          "context": {
+            "previous": "() By contrast, Donald Trump, when he was president, has been described by one of the nation's leading experts on small businesses in a piece he published in a major paper as not being good for small businesses. In fact, the title... The title... Wait, because I'm bearing the lead right now. One of the leading experts on small businesses published a piece in one of the major newspapers, and the title, I'm going to quote, Does Donald Trump Hate Small Businesses? And their answer was yes. Their answer was yes.",
+            "next": "But, look, when I look at small business owners, I see some of the heroes of our economy. Not only entrepreneurs, but as I said, civic leaders, community leaders, part of the glue that holds communities together. The third pillar of our opportunity economy is leading the world in the industries of the future and making sure America, not China, wins the competition for the 21st century."
+          }
+        }
+      ]
+    }
+  }
+}

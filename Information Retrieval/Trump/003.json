@@ -1,0 +1,159 @@
+{
+  "query_id": "003",
+  "query_text": "First of all, I have no sales tax\u2026 Cut taxes very substantially. And create a great economy like I did before.",
+  "query_topics": [
+    "Economy"
+  ],
+  "results": {
+    "First of all, I have no sales tax\u2026 Cut taxes very substantially. And create a great economy like I did before.": {
+      "Trump": [
+        {
+          "match_score": 0.7315674,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "340",
+            "title": "Trump Rally in Reading, Pennsylvania",
+            "date": "20241010",
+            "topics": "Economy, Immigration, Climate, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 0,
+            "text": "When I first came into office, I cut taxes more than any other president. We have created seven million new jobs and it led to a growth like we've never seen before. We developed the greatest economy in history, by far. () When I left office, it changed. Inflation destroyed the lives of so many people. Interest rates went from 2% to 10%. Millions of illegal immigrants, traffickers and drugs coming into our country. Our country has gone to hell. So I made a decision to run. We're going to make America great again."
+          },
+          "context": {
+            "previous": null,
+            "next": "Greater than ever before. I will fight for you with every breath and I will never let you down. Speaker 6 A very, very big hello, Pennsylvania. We love Pennsylvania. And it's great to be back in this beautiful commonwealth with thousands of proud, hardworking American patriots. You are indeed. You are hardworking, proud. You love the country. We're going to save our country. We are going to save it from these lunatics. Before we begin, I want to send our prayers to the people of Florida getting hit just about now."
+          }
+        },
+        {
+          "match_score": 0.7285327,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "384",
+            "title": "Donald Trump Rally Speech Transcript Lititz, PA October 26",
+            "date": "20201026",
+            "topics": "Economy, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 46,
+            "text": "I gave working families, record-setting tax cuts, the largest tax cuts in history. In my second term, I will cut middle class taxes, even more. We're cutting the middle income taxes, very substantially. We're doing another cut and what it does, to be honest, it brings more business. It brings more jobs. You have to see, in terms of what we did for business, companies are pouring into the United States."
+          },
+          "context": {
+            "previous": "I'll take 25% right now. Okay? They projected a 35, and that number will come out on November 1st, right before the election. So if you'd like to wait, everybody here is sure about Trump. But if you happen to be a little bit nervous, just wait. We're going to have a 35% or a 25%, but it's going to be magnificent because we are doing great. It's the greatest comeback anywhere in the world economically, and we went down the least of any country in the world. So remember that.",
+            "next": "Joe wants to take all of the regulations that we took off, 20 years to build a highway with environmental and all, 20 years. No they want to take them and they want to put them all back. Now we have it down to two years to build a highway and it could be one, and it may be that you don't build it because of environmental or safety, and that's okay, but you're going to know fast. You're going to know fast and you will build it. But you're going to know fast. 20 years, we have much worse than 20 years."
+          }
+        },
+        {
+          "match_score": 0.71318305,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "341",
+            "title": "Trump Rally in Scranton, Pennsylvania",
+            "date": "20241010",
+            "topics": "Immigration, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 54,
+            "text": "I will deliver lower taxes, lower regulations, low energy costs, low interest rates, low inflation and the greatest economy in the history of the world, which we had four years ago. We had that. Nobody's ever seen anything like what we had. I was shaking hands with people. I said, \"How are you doing?\" \"We did great four years ago, five years ago. My company, I made all my money. And now we're not doing good.\" Everybody said, \"We're not doing well. The taxes are too high."
+          },
+          "context": {
+            "previous": "I've never seen anybody campaign on, \"We're going to raise your taxes.\" That's what they're doing. The world has gone crazy. This guy. But David, we're going to cut taxes. Do you agree? David. David is going to win. You got to get him. You got to get him. I want him to come with me please. He's great. He'll be one of the best. A real hero. () Kamala will deliver a 1929 style depression, not recession.",
+            "next": "The interest rates, we can't borrow money at 10%.\" They were at 2% with me. Now they're at 10%, but they're not really, because you can't get money at 10%. So, that means they're higher. 12. How about 13? How about 15? So, it means it's much higher. It's not 10%. You can't get the money. Nobody can get the money at 10%. () We will pass tax cuts for workers like you haven't seen before."
+          }
+        },
+        {
+          "match_score": 0.71172005,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "385",
+            "title": "Donald Trump Rally Speech Transcript Martinsburg, PA October 26",
+            "date": "20201026",
+            "topics": "Healthcare"
+          },
+          "matched_segment": {
+            "segment_id": 48,
+            "text": "If you look at the job numbers, automobile numbers, if you're looking at housing, I gave working families record setting tax cuts. And in my second term, I will cut middle-class taxes even further. I gave you the largest tax cut, the largest tax cut in history. This is the craziest campaign, right? So all my life I watched politicians running. They always say, we are going to cut your taxes, right? We are going to cut your tax. President Donald J. I got a guy running now who's sort of shot."
+          },
+          "context": {
+            "previous": "We closed it up. The greatest economy in history, we closed it up. We saved 2 million lives. You remember it was going to be 2.2 million lives. We saved 2 million lives and we're rounding the turn. Normal life, that's what we want. Normal life will fully resume. We'll never forget what China did to this country and what China did to the world. And next year will be the greatest economic year in the history of our country. And that's where we're heading.",
+            "next": "He goes, we will raise your taxes. I said, what the hell? I said, did he just say that? Yeah, he's going to give you the biggest tax cut in the history of our country, including regulations and all the other stuff, which made it so good for us. This election is a choice between a Trump super recovery or a Biden super depression. And that's what you're going to have. You're going to have a depression, if you go with this guy. It's a choice between a boom and a locked down. He wants to lock down your country."
+          }
+        },
+        {
+          "match_score": 0.710038,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "369",
+            "title": "Trump Rally in Latrobe, Pennsylvania",
+            "date": "20241021",
+            "topics": "Economy, Immigration"
+          },
+          "matched_segment": {
+            "segment_id": 0,
+            "text": "When I first came into office, I cut taxes, more than any other president. We have created seven million new jobs, and it led to a growth like we've never seen before. We developed the greatest economy in history, by far. () When I left office, it changed. Inflation destroyed the lives of so many people. Interest rates went from 2% to 10%. Millions of illegal immigrants, traffickers, and drugs coming into our country. Our country has gone to hell. So, I made a decision to run."
+          },
+          "context": {
+            "previous": null,
+            "next": "() We're going to make America great again, greater than ever before. I will fight for you with every breath, and I will never let you down. Hello, everybody. Hello, Pennsylvania. We love Pennsylvania, that are very special. Hello to La Trobe. Oh, I love La Trobe. You know why? The home of Arnold Palmer. This was the home of my friend, Arnold Palmer, and he loved La Trobe. He turned out to be one of the greatest golfers in the world. He started off very, very poor."
+          }
+        }
+      ],
+      "Harris": [
+        {
+          "match_score": 0.64516234,
+          "metadata": {
+            "speaker": "Harris",
+            "speech_id": "103",
+            "title": "Kamala Harris Campaign Speech Transcript McAllen, Texas October 30",
+            "date": "20201030",
+            "topics": "Economy, Healthcare, Social Justice, Climate"
+          },
+          "matched_segment": {
+            "segment_id": 19,
+            "text": "Well Rio Grande, I promise you this, as a first order of business, Joe Biden and I area about to work to get rid of that tax cut. And invest that money in working families. Invest that money on building back up our infrastructure, which means the creation of millions of jobs, building back up our infrastructure around roads, and bridges, and renewable energy."
+          },
+          "context": {
+            "previous": "Well one of the best ways to grow the economy and any family's economic well-being is home ownership. So we'll have a tax credit, a $15,000 for every new home buyer for down payments and closing costs.\" That's how Joe Biden thinks about the economy. On the other hand you have Donald Trump, who when asked about the economy, asks about the stock market. Asks about how rich people are doing. As one of his first orders of business, passed a tax bill benefiting the top 1%, and the biggest corporations of America.",
+            "next": "Investing in working people, and small businesses, with a focus on 150 billion dollars in low interest loans and access to capital for minority owned businesses. That's how we will deal with this. That's how we will invest our resources. There are clear contrasts, and a clear choice in this race. Let's deal with the long overdue reckoning on racial injustice in America. So, on the one hand, you have Joe Biden, who is a student of American history, and has the courage to say black lives matter."
+          }
+        },
+        {
+          "match_score": 0.63909376,
+          "metadata": {
+            "speaker": "Harris",
+            "speech_id": "115",
+            "title": "Harris Speech in Pittsburgh",
+            "date": "20240926",
+            "topics": "Economy, Healthcare, Government Policy, Veterans Affairs"
+          },
+          "matched_segment": {
+            "segment_id": 6,
+            "text": "So I made that our top priority for obvious reasons, because if we want the middle class to be the growth engine of our economy, we need to restore basic economic security for middle-class families. To that end, the most practical thing we can do right now, is to cut taxes for middle-class families and individuals. And that's what we'll do."
+          },
+          "context": {
+            "previous": "I believe an active partnership between government and the private sector is one of the most effective ways to fully unlock economic opportunity. And that is what I'll do when I'm president. I will target the major barriers to opportunity and remove them. We will identify common sense solutions to help Americans buy a home, start a business, and build wealth, and we will adopt them. () So let's start then with the first pillar of an opportunity economy, which is lowering costs.",
+            "next": "Under my plan, more than 100 million Americans will get a middle-class tax break that includes $6,000 for new parents during the first year of their child's life to help families cover everything from car seats to cribs. We'll also cut the cost of child care and elder care. And finally give all working people access to paid leave, which will help everyone caring for children, caring for aging parents, and that sandwich generation, which is caring for both. () So I have a personal experience with caregiving."
+          }
+        },
+        {
+          "match_score": 0.6187205,
+          "metadata": {
+            "speaker": "Harris",
+            "speech_id": "102",
+            "title": "Kamala Harris Campaign Event Speech Transcript Houston, TX October 30",
+            "date": "20201030",
+            "topics": "Economy, Social Justice, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 18,
+            "text": "To the point that one of his first and in his mind signature initiatives was to create a tax cut for the top 1% and the biggest corporations in America, which is going to cause us to have to deal with the $2 trillion deficit. Well, I'm going to tell you something. If we win this election, Joe Biden and I are about to get rid of that tax cut and invest that money in working families. We're about to put that money into an investment in infrastructure so we can build back up our roads and bridges."
+          },
+          "context": {
+            "previous": "Joe Biden says if you are a student that wants to go to college coming from a family that makes less than $125,000 a year, you will go to a four year public college for free including an HBCU and a private HBCU. On the other hand, you have Donald Trump who when asked about the economy asks, well, how are rich people doing? How is the stock market doing?",
+            "next": "We're about to say that no family, working families should pay more than 7% of your income and childcare. We are about to say and put in place a commitment to support working families knowing that if you want to talk about growing back up America's economy invest in workers, invest in families and all of us will benefit. We are in the midst of many crises. We are in the midst of a long overdue reckoning on racial injustice in America."
+          }
+        }
+      ]
+    }
+  }
+}

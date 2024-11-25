@@ -1,0 +1,105 @@
+{
+  "query_id": "006",
+  "query_text": "We did have an agreement(with the Taliban) negotiated by Mike Pompeo. It was a very good agreement. The reason it was good, we were getting out. We would have been out faster than them, but we wouldn't have lost the soldiers. We wouldn't have left many Americans behind. And we wouldn't have left--we wouldn't have left $85 billion worth of brand new beautiful military equipment behind. ",
+  "query_topics": [
+    "Foreign Policy",
+    "Government Policy"
+  ],
+  "results": {
+    "We did have an agreement(with the Taliban) negotiated by Mike Pompeo. It was a very good agreement. The reason it was good, we were getting out. We would have been out faster than them, but we wouldn't have lost the soldiers. We wouldn't have left many Americans behind. And we wouldn't have left--we wouldn't have left $85 billion worth of brand new beautiful military equipment behind. ": {
+      "Trump": [
+        {
+          "match_score": 0.7446617,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "411",
+            "title": "Donald Trump Des Moines, Iowa Rally Speech Transcript October 9",
+            "date": "20211009",
+            "topics": "Economy, Immigration, Foreign Policy, Education"
+          },
+          "matched_segment": {
+            "segment_id": 144,
+            "text": "We want our equipment back, and then we can start talking about that. So leaving Afghanistan was a good thing. I was going to leave. We should have left however, under the symbols of strength and dignity, not weakness and surrender. We could have left under strength and dignity in the same period of time. It didn't have to take long. We could have been respected right now. I don't know that we'll ever recover from this, from allies to everything else. And you know what? Every ally's take an advantage of us."
+          },
+          "context": {
+            "previous": "Let Russia give them money, by the way, let Iran give them money. That's their territory. And they're right there. We're doing their work for them. And then we're supposed to keep them going. Biden's giving them $10 billion so that he doesn't look bad. Because they're tough, and they'll do numbers on us. Now, we want our hostages back immediately and we want our equipment back immediately. And then we can start talking about doing what we could do. I wouldn't mind doing it under those ... We want our hostages back.",
+            "next": "So I'm less concerned about. They all take advantage. Or NATO, they take advantage, Germany, France, all of them. We're like the stupid people. We're like a country run by stupid people. Every single nation and every deal that I've looked at, and I looked at countries that many people have never even heard of, we made bad deals. Every single country. It's almost, you wonder, how do you sustain? How does it keep going? Our soldiers are heartbroken at what happened in Afghanistan. They wanted to win."
+          }
+        },
+        {
+          "match_score": 0.7426239,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "057",
+            "title": "Donald Trump Sean Hannity Interview on Afghanistan August 17: Transcript",
+            "date": "20210818",
+            "topics": "Foreign Policy, Veterans Affairs"
+          },
+          "matched_segment": {
+            "segment_id": 2,
+            "text": "That blows the helicopters in Vietnam away. That's not even a contest. This has been the most humiliating period of time I have ever seen. Yeah, we had a great deal. We worked on it very hard. Mike Pompeo, a brilliant guy, and many others worked on it endlessly, meetings with the Taliban. Of course, you have to meet with the Taliban. They're the ones that you're negotiating with. I spoke on numerous occasions to the head of the Taliban and we had a very strong conversation."
+          },
+          "context": {
+            "previous": "And you're dealing with thousands and thousands of Americans and others that are stranded and very dangerously really stranded in Afghanistan. So, it's something that you can't even believe that a thing like this could... I looked at that big monster cargo plane yesterday with people grabbing the side and trying to get flown out of Afghanistan because of their fear, their incredible fear. And they're blowing off the plane from 2,000 feet up in the air. Nobody's ever seen anything like that.",
+            "next": "I told him up front, I said: \"Look, before we start, let me just tell you right now that if anything bad happens to Americans or anybody else, or if you ever come over to our land, we will hit you with a force that no country has ever been hit with before, a force so great that you won't even believe it. And your village, and we know where it is...\" and I named it, \"will be the first one.\" \"The first bombs will be dropped right there.\" Yeah. To Mullah Baradar, who is probably the top person now."
+          }
+        },
+        {
+          "match_score": 0.7394614,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "228",
+            "title": "Donald Trump Interview on the Will Cain Show",
+            "date": "20240604",
+            "topics": "Economy, Immigration, Foreign Policy, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 44,
+            "text": "We would've left with dignity and strength and then you take out your equipment. They left $85 billion worth of equipment. I rebuilt the entire military. $85 billion of it was left in Afghanistan, and they're one of the biggest of the Taliban, they're one of the biggest sellers of military equipment now. Well, in the whole world, I think they're number two because they're selling... Because they don't need 730,000 rifles. They have 730,000. I mean, I don't know what... We go to fight a war. What did they do? What?"
+          },
+          "context": {
+            "previous": "Nevertheless, there were people that helped us take them out. But we have Americans left behind. We have 13 dead soldiers. Incredible. The parents largely, they came here shortly after that and we're going to have them back too. () We sat, they said, \"Well, we won't see President Trump. He'll come maybe for a couple of minutes.\" I stayed with them for four hours. We listened to music up in the deck. It was beautiful. It was just nice. They're great people. They're devastated. That would've never happened.",
+            "next": "37 rifles for every soldier we have, it's crazy, but we had 730 some odd thousand rifles, and then we had 72,000 vehicles. () Many of them armor plated, you know how expensive with four inch armor, four inch like this on the bottom. They sell all that stuff. They're one of the largest because they don't need all of it. They can keep instead of... Think of what 72,000 vehicles is. If you take the biggest used parking lot, used car lot in Texas, think Texas, they have big... They probably have what? 500 cars here."
+          }
+        },
+        {
+          "match_score": 0.72622085,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "126",
+            "title": "Donald Trump Coronavirus Update Transcript Feb 29: Warns Not to Travel to Italy, South Korea",
+            "date": "20200229",
+            "topics": "Foreign Policy, Veterans Affairs"
+          },
+          "matched_segment": {
+            "segment_id": 38,
+            "text": "You pride yourself on a deal maker, but your former National Security Advisor, John Bolton has said that this is an Obama-style deal and sends the wrong message to ISIS and Al Qaeda. What did the Taliban give up here- Well first of all- Speaker 16: () And will you be hosting the Taliban in Washington, at Camp David, or will you meet them abroad? We'll look at that. Look, nobody should be criticizing this deal after 19 years. He had his chance. He didn't do it. He was very much in favor of going in."
+          },
+          "context": {
+            "previous": "They've been talking to our people. We've been talking to their people having to do with the virus. No, our relationship with China is very good. Maybe it's closer because of what's happened here because it was... In a certain way, this can bring the world closer. If you want to know, it can really do that. Go ahead. Speaker 16: () If I could just follow up.",
+            "next": "We should have never gone in, in the first place. When they went into Iraq... Listen, listen. When they went into Iraq, when they went into the Middle East in such a fashion, I was very much against it. Shouldn't have gone in. He thought we should have. That's been proven wrong. I'm surprised that anybody would be against something where we try and end a 19 year war. We're 8,000 miles away from our home, we've done a great job in the sense that we've killed a lot of terrorists. We've put them out of commission."
+          }
+        },
+        {
+          "match_score": 0.7207462,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "411",
+            "title": "Donald Trump Des Moines, Iowa Rally Speech Transcript October 9",
+            "date": "20211009",
+            "topics": "Economy, Immigration, Foreign Policy, Education"
+          },
+          "matched_segment": {
+            "segment_id": 140,
+            "text": "I mean, you hate to give them 10, but it's ... I wouldn't give many money unless they gave us back the equipment. I wouldn't do anything. And remember this, we also have American hostages over there. They haven't played that game yet. They will. That's why they're doing ... They're paying the 10 billion, because we have so many people over there. And I guarantee the Taliban, very tough, very smart. Afghans, great negotiators."
+          },
+          "context": {
+            "previous": "Despite the fact that when Biden, hopelessly surrendered to them just a month ago and moved our military out first, we left them with the $85 billion of the finest military equipment in the world. And now he wants to give them $10 billion of your taxpayer money on top of everything else. And we shouldn't do that, unless ... here's an idea. We have breaking news, unless they're willing to give back 100% of the military equipment that our television generals left behind. Isn't that a good idea?",
+            "next": "And they say, \"What are you going to do, if we give back the people that automatically would've just walked out with us very easily?\" And they weren't doing anything. We could have taken six months, a year, two years, five years, or we could have taken two months, could have done it as fast as we want. They were leaving us alone. They didn't like jets over their heads, with machine guns and bombs. They didn't like it, as tough as they may be. But you know what's happened?"
+          }
+        }
+      ],
+      "Harris": []
+    }
+  }
+}

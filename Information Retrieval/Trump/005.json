@@ -1,0 +1,105 @@
+{
+  "query_id": "005",
+  "query_text": "But if she(Harris) won the election, the day after that election, they'll go back to destroying our country and oil will be dead, fossil fuel will be dead. We'll go back to windmills and we'll go back to solar, where they need a whole desert to get some energy to come out. You ever see a solar plant? By the way, I'm a big fan of solar. But they take 400, 500 acres of desert soil--these are not good things for the environment that she understands.",
+  "query_topics": [
+    "Climate",
+    "Infrastructure"
+  ],
+  "results": {
+    "But if she(Harris) won the election, the day after that election, they'll go back to destroying our country and oil will be dead, fossil fuel will be dead. We'll go back to windmills and we'll go back to solar, where they need a whole desert to get some energy to come out. You ever see a solar plant? By the way, I'm a big fan of solar. But they take 400, 500 acres of desert soil--these are not good things for the environment that she understands.": {
+      "Trump": [
+        {
+          "match_score": 0.7303068,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "316",
+            "title": "Donald Trump Rally Speech Transcript Rome, Georgia November 1",
+            "date": "20201101",
+            "topics": "Economy, Government Policy, Gun Control"
+          },
+          "matched_segment": {
+            "segment_id": 12,
+            "text": "Biden's energy ban will send every state from Georgia, Michigan, Pennsylvania into crushing poverty. And you know that, the whole thing is ridiculous. The Green New Deal AOC plus three, I don't even think they ever took... Did they take even an environmental course? Ilhan Omar is a part of that deal. No, no, no. She loves our country very much. As luck... that's why I'm going to win Minnesota because of her. As long as I'm president, we will remain number one producer of oil and natural gas anywhere in the world."
+          },
+          "context": {
+            "previous": "How about the other day? He walks past the press, the media, the fake news. And he walks past, \"Sir, what flavor ice cream is that?\" He's walking out of an ice cream store. \"It's vanilla and chocolate.\" They don't ask me questions like that. It'll cause massive layoffs, exploding energy prices and crippling blackouts, just like they have in California. They're doing great with California energy, right? They have brownouts; they don't want to call it blackouts, but it'll end up being blackouts very soon.",
+            "next": "We are now number one. And something you haven't heard very much of for ever, we are totally energy independent, isn't that nice? I don't think we're going to let them turn that around on us. People that have no clue, especially Biden, he truly doesn't have a clue. Our opponent's agenda is a war on workers, a war on faith, and a war on our great police. Biden says he's running as a proud Democrat."
+          }
+        },
+        {
+          "match_score": 0.7257321,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "214",
+            "title": "Donald Trump Tulsa, Oklahoma Rally Speech Transcript",
+            "date": "20200621",
+            "topics": "Veterans Affairs, Government Policy, Healthcare"
+          },
+          "matched_segment": {
+            "segment_id": 105,
+            "text": "Oklahoma, Texas, North Dakota, and many others will all be out of business. I don't think that's going to work out too well, but she's actually in charge of environmental policy. And you know what that means. She doesn't even want to win. She doesn't want those bird killing machines that go round and round. You want to see a lot of birds that are dead? Go under a windmill sometime. She wants us to go back to the stone ages because she's got no sense, no credentials."
+          },
+          "context": {
+            "previous": "But we're going to work it out for everybody. Biden is fully controlled by the fringe of his party. He is their pawn. He doesn't even know where the hell he is. Let's face it. He installed socialist Alexandria Ocasio-Cortez. To be in charge of his environmental policy and his energy. Energy, you can forget petroleum. How does Oklahoma feel about being petroleum free? Not good, right? Our country will have no energy. Our country will have nothing.",
+            "next": "She's got a little charisma, not much, but she doesn't have a clue. You know it. But she's in charge of the environment. No airplanes. We can forget Boeing, I guess, come to think of it. We talked about Boeing. We could forget Boeing. Let's cancel those brand new Air Force Ones. Likewise, Representative Ilhan Omar is going to be very much involved in a Biden government."
+          }
+        },
+        {
+          "match_score": 0.7187489,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "372",
+            "title": "Trump Campaign Roundtable in Auburn Hills, Michigan",
+            "date": "20241022",
+            "topics": "Economy, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 57,
+            "text": "We can't let her be president. This country is finished, if that happens. I mean beyond a normal candidate, this country would be absolutely finished if she got it. So we have to stop her. (:46) But what happened is, I've been thinking about it and what it would do to the country, and these are plants that are bigger than anything you've seen. They will knock out the cars, you press a button and the whole thing starts operating."
+          },
+          "context": {
+            "previous": "You know each other, maybe. He gets it so much. He gets it like nobody. And he's been fighting against all of this nonsense for so long. And so the electric cars are going to... (:16) And by the way, Elon, Musk is a great friend of mine. He gave me a tremendous endorsement. He's right now campaigning in Pennsylvania because he thinks we have to win if we don't win this election because she's a Marxist. This woman has no idea what she's doing and we can't let her be president. I don't want to be rude about it.",
+            "next": "And so I started talking about this, about what do you think brought a year ago, less than a year ago, that I won't let it happen a year ago. And I said, \"I'm not going to let it happen. If they do this plant in Mexico right near the border and a couple of others, I'm going to put giant tariffs on of a hundred percent. And if that doesn't work, I'll go to 200%. I don't care."
+          }
+        },
+        {
+          "match_score": 0.71723694,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "465",
+            "title": "Trump Rally in Georgia",
+            "date": "20240925",
+            "topics": "Economy, Foreign Policy"
+          },
+          "matched_segment": {
+            "segment_id": 35,
+            "text": "() And very importantly, she will close down all fracking and all fossil fuel development, which will bring our country into third-world status. She's going to close down all fossil fuels. Germany tried it, but then they replaced Angela with somebody else, and that somebody else is now building a coal plant every single week in Germany. Germany was going to destroy themselves, I will say that. They were going to be out of business. They were having problems like nobody could believe."
+          },
+          "context": {
+            "previous": "So in Houston, Texas, they clean this stuff up. And you know where the stuff goes? Right up there. So, if you're a big believer in the environment, this is not good. But we have the best oil on Earth, and we have the most oil, clean, beautiful stuff, and we have the most. And we're going to use it. As I say, drill, baby, drill. That's what we're going to be doing. Drill, baby, drill.",
+            "next": "And that's how Kamala treats the American manufacturers. They can all leave, whatever's left of them, and there's not that much. They've gotten rid of so much. () But if instead you ship production overseas, then she will give you a tax break. So, if you build your product, make your product overseas, she's offering a tax break to make it overseas. Now you wonder why Biden has made so much money from all these countries, I mean personally made and through the family. Think of that."
+          }
+        },
+        {
+          "match_score": 0.7119672,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "072",
+            "title": "Trump Speaks at Turning Point rally in Glendale, Arizona",
+            "date": "20240826",
+            "topics": "Immigration, Education, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 66,
+            "text": "She says, \"We're going to release them.\" Now, maybe they'll ask her tonight, \"Oh, no, I would never do that.\" (:47) She might change. She's changing on everything. But don't forget: if the election ever went haywire, if they can find a way to cheat enough and she wins, in quotes, \"she wins,\" she's going to do everything that you wouldn't dream of, including no fracking. (:04) She didn't discuss fracking last night. No fracking in Pennsylvania. I can't imagine she could do well in Pennsylvania."
+          },
+          "context": {
+            "previous": "She wants to repeal the federal law that makes illegal immigration a crime, making illegal immigration totally legal. It's okay to come into our country. She wants to release all of the thousands of criminal illegal aliens that are locked up in detention centers, and these are the toughest of them all. She wants to release them into our country. We have detention centers for the toughest of them all.",
+            "next": "500,000 jobs are involved with fracking, and a huge amount of their budget. Everything's involved with fracking and she's against it. (:24) In her speech last night, she lied about almost everything. She lied when she said I was going to raise taxes. No, I'm lowering taxes. She's the one. She lied and said that, oh, this is the best, I'm going to be the one, and I was already there, I didn't touch your Social Security and a lot of Democrats wanted me to."
+          }
+        }
+      ],
+      "Harris": []
+    }
+  }
+}

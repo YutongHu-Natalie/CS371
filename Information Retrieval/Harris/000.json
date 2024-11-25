@@ -1,0 +1,196 @@
+{
+  "query_id": "000",
+  "query_text": "And I intend on extending a tax cut for those families of $6,000, which is the largest child tax credit that we have given in a long time.",
+  "query_topics": [
+    "Economy",
+    "Government Policy"
+  ],
+  "results": {
+    "And I intend on extending a tax cut for those families of $6,000, which is the largest child tax credit that we have given in a long time.": {
+      "Trump": [
+        {
+          "match_score": 0.73820996,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "408",
+            "title": "Donald Trump Sean Hannity Interview Transcript October 8, Trump Says He\u2019s Ready to Hold Rallies",
+            "date": "20201008",
+            "topics": "Healthcare"
+          },
+          "matched_segment": {
+            "segment_id": 27,
+            "text": "And very sadly, if you take a look, he wants to raise taxes, but he says he's going to end our tax cut. Well, people are getting actually much more. Mike [Inaudible :], he said 2000 was actually much more than $2,000 in child tax credits, which is a $1000 a child. but he wants to take all that away. So therefore, if you do nothing else, you're raising taxes by the largest percentage in the history of our country."
+          },
+          "context": {
+            "previous": "But instead, she goes and does her little political act and she keeps her state closed although we just won the big case as you know to open up Michigan, because what she's doing is a horrible thing to the people. The churches are closed, the schools are closed and all state is closed. People are being hurt very badly by it in the form of drinking and suicides and depression. It's a very sad thing. But now, Joe Biden wants to raise taxes.",
+            "next": "If he terminated my tax cuts, which is one of the reasons that our economy has done so great, even now in this pandemic which hopefully we're rounding the turn and we have incredible cures and a lot of therapeutics and the vaccines are going to be coming very soon. But I'll tell you what I took is incredible. To me, I viewed it as a cure. It's incredible, and we're going to get it to everybody free of charge. It's going to hospitals. Starting very soon, the military is going to be delivering it."
+          }
+        },
+        {
+          "match_score": 0.72548,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "358",
+            "title": "Donald Trump Rally Transcript Janesville, WI October 17",
+            "date": "20201017",
+            "topics": "Economy, Foreign Policy, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 103,
+            "text": "I said, \"How do you say we're giving a massive tax increase to everybody?\" And it's everybody, because you're getting thousands of dollars a year from my tax cuts. We gave the greatest, the biggest tax cut in history and he wants to end the Trump tax cut. Now he's saying, \"Well, I won't do that.\" It's same thing like fracking. You know, \"We're going to frack, frack...\" Okay. He's just changed his mind. But he wants to end it, and don't forget child tax credit. That's a thousand dollars for every child."
+          },
+          "context": {
+            "previous": "This election is a choice between a Trump super recovery and a Biden depression. And they're going to raise your taxes substantially, like quadruple. He's the only candidate... All my life I've been involved in politics, never from the side. But a few years ago I said, \"Let's give it a shot,\" but I've always been around. This is the only time in my life. I always heard it was good to cut taxes.",
+            "next": "So he's going to end all that. So he was going to end it, \" We're going to end...\" He didn't realize that the middle income people are getting a tremendous tax cut. And if you add energy to it, because they'll drive energy through the roof. They want to end fossil fuel. They're going to end fracking. 100% they're going to end fracking. I mean, this guy goes around, \"We're going to end fracking,\" for a year and a half. Then he lucks out, gets the nomination."
+          }
+        },
+        {
+          "match_score": 0.70359147,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "359",
+            "title": "Donald Trump Macon, Georgia Rally Speech Transcript October 16",
+            "date": "20201017",
+            "topics": "Economy, Immigration, Foreign Policy, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 85,
+            "text": "They want to dissolve your borders, released criminal alliant, raise your taxes, and by the way, I'm cutting your taxes big. Biden this guy... Biden, wants to substantially raise your taxes. And then he says, \"Well, I'm only talking about people...\" I said, \"No, no, no. He wants to terminate the tax cuts that we gave you,\" so that's 2000. And then you look at the energy cuts and you look at the child tax credit... it's a thousand dollars each. And you look at... It's $7000, $8,000, $9,000 a family."
+          },
+          "context": {
+            "previous": "What's happened to New York, what they've done to that incredible city and State is so sad. Look at Chicago, look at what's going on there. Look at what's going on at Atlanta. Look at Atlanta, it's so sad what's going on. And these are radical left, no bail, no cash bail, no nothing. I mean you kill somebody, no problem. No problem. They're going to have to get their act together. They're going to have to get their act together because we're not going to put up with it much longer.",
+            "next": "Well, if you're going to terminate it, that means it's $9,000. \"Well, I don't know about that,\" then he pulls out a piece of paper and he starts reading it out of his... Did you see that? He did that yesterday. They pulled out a piece of paper because he couldn't remember any of the numbers, and George Stephanopoulos, is sitting there watching this. He didn't treat me as nice. So I did him two weeks ago too. And he was okay. He was fine. It is what it is. He's going to ask me a question."
+          }
+        },
+        {
+          "match_score": 0.6989006,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "382",
+            "title": "Donald Trump Manchester, New Hampshire Rally Transcript October 25",
+            "date": "20201025",
+            "topics": "Economy, Immigration, Foreign Policy"
+          },
+          "matched_segment": {
+            "segment_id": 69,
+            "text": "So within my first year in office, I delivered the largest tax cuts and reform in the history of our country. We cut taxes $2,200 a year so that's for the typical American family. We doubled the child tax credit $1,000 a child, and we increased median household income to the highest levels ever recorded. Highest. Then we had to close it up, save millions of lives, at least 2 million lives, and now we're opening it up. The radical Biden Harris agenda. What do you think of Harris? Oh boy."
+          },
+          "context": {
+            "previous": "That's the crazy thing. Everybody will have voted before some of this incredible news comes in, but the news has been very good anyway. They're predicting GDP up 35%. Nobody's ever had that, right. I think 8%. I don't know what the record is, but like eight or nine or something maybe as a record, but this is 35% up, faster than any other country anywhere in the world. We went down less and we've gone up faster.",
+            "next": "More liberal than Crazy Bernie, could you believe it? So you have Crazy Bernie. He's crazy, there's no question, but he's a good sport. He's a great sport. No, no. Have you ever seen anybody lose so much and be so happy about it? It's happened now twice. Is Bernie running again in four years? Media, is Bernie Sanders projected to run again in four years? I think so. He'll be up there. One thing about him, he fights. He fights, but he somehow doesn't mind losing because Elizabeth Warren, a neighbor of yours."
+          }
+        },
+        {
+          "match_score": 0.68533325,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "400",
+            "title": "Donald Trump Rally Speech Transcript Newtown, PA October 31",
+            "date": "20201031",
+            "topics": "Economy, Foreign Policy, Climate, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 110,
+            "text": "Their plan is projected to hammer the typical American family's income by over $6,500 a year in the Wall Street Journal. By contrast, I cut taxes and regulations at a level nobody's ever done before, and raised middle-class families incomes' over $6,000 in just three short years. And that's not including energy, which is a tremendous, what we've done with energy is tremendous."
+          },
+          "context": {
+            "previous": "No, we will protect your second amendment 100%. There is only one way to preserve, protect, and defend the American way of life. You must show up on November 3rd, okay? Don't worry about the first or second, because I know you too well. The Biden/Harris economic policies of increasing taxes and regulations, biggest tax increase in the history of our country is what they're proposing. Would pulverize our middle-class.",
+            "next": "Joe Biden has pledged a $4 trillion tax hike, socialized medicine, an avalanche of job killing regulations, a return to globalist trade deals. And he vowed the total destruction of the Pennsylvania oil industry and fracking, fracking has gone. Fracking is gone. Man. He said that loud and clear for a year until he realized that he has to win in Pennsylvania. But fracking is dead because they're side it's dead."
+          }
+        }
+      ],
+      "Harris": [
+        {
+          "match_score": 0.70649856,
+          "metadata": {
+            "speaker": "Harris",
+            "speech_id": "115",
+            "title": "Harris Speech in Pittsburgh",
+            "date": "20240926",
+            "topics": "Economy, Healthcare, Government Policy, Veterans Affairs"
+          },
+          "matched_segment": {
+            "segment_id": 7,
+            "text": "Under my plan, more than 100 million Americans will get a middle-class tax break that includes $6,000 for new parents during the first year of their child's life to help families cover everything from car seats to cribs. We'll also cut the cost of child care and elder care. And finally give all working people access to paid leave, which will help everyone caring for children, caring for aging parents, and that sandwich generation, which is caring for both. () So I have a personal experience with caregiving."
+          },
+          "context": {
+            "previous": "So I made that our top priority for obvious reasons, because if we want the middle class to be the growth engine of our economy, we need to restore basic economic security for middle-class families. To that end, the most practical thing we can do right now, is to cut taxes for middle-class families and individuals. And that's what we'll do.",
+            "next": "I remember being there for my mother when she was diagnosed with cancer, cooking meals for her, taking her to her appointments, just trying to make her comfortable, figuring out which clothes were soft enough that they wouldn't irritate her, and telling her stories to try and make her laugh. I know caregiving is about dignity. It really is."
+          }
+        },
+        {
+          "match_score": 0.66955143,
+          "metadata": {
+            "speaker": "Harris",
+            "speech_id": "115",
+            "title": "Harris Speech in Pittsburgh",
+            "date": "20240926",
+            "topics": "Economy, Healthcare, Government Policy, Veterans Affairs"
+          },
+          "matched_segment": {
+            "segment_id": 6,
+            "text": "So I made that our top priority for obvious reasons, because if we want the middle class to be the growth engine of our economy, we need to restore basic economic security for middle-class families. To that end, the most practical thing we can do right now, is to cut taxes for middle-class families and individuals. And that's what we'll do."
+          },
+          "context": {
+            "previous": "I believe an active partnership between government and the private sector is one of the most effective ways to fully unlock economic opportunity. And that is what I'll do when I'm president. I will target the major barriers to opportunity and remove them. We will identify common sense solutions to help Americans buy a home, start a business, and build wealth, and we will adopt them. () So let's start then with the first pillar of an opportunity economy, which is lowering costs.",
+            "next": "Under my plan, more than 100 million Americans will get a middle-class tax break that includes $6,000 for new parents during the first year of their child's life to help families cover everything from car seats to cribs. We'll also cut the cost of child care and elder care. And finally give all working people access to paid leave, which will help everyone caring for children, caring for aging parents, and that sandwich generation, which is caring for both. () So I have a personal experience with caregiving."
+          }
+        },
+        {
+          "match_score": 0.65504086,
+          "metadata": {
+            "speaker": "Harris",
+            "speech_id": "045",
+            "title": "Vice President Harris Attends the 28th ESSENCE Festival of Culture Transcript",
+            "date": "20220703",
+            "topics": "Healthcare, Social Justice, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 24,
+            "text": "We have extended the child tax credit. And in that, in, so doing in the first year reduced black child poverty by almost 40%, cannot get a Republican to help us extend it beyond. But these are some of the things that we have been doing, understanding the generational impact. Not to mention the work that we need to do that is about foreign policy. I have met with, I don't know, probably at least two dozen foreign leaders, prime ministers, presidents."
+          },
+          "context": {
+            "previous": "And we're very happy that he was the first country I would say. And you're going to see many other things happening in The Middle East over a fairly short period of time. But this is the first time in more than 25 years. And UAE is big stuff. UAE is very powerful, very strong- Speaker 14: () Do you know when the government- Has one of the strongest militaries. It's big stuff. Speaker 14: () Do you know when the delegations are going to meet, specifically? Very soon. I guess they'll be setting up the meetings.",
+            "next": "I just recently convened the Caribbean prime ministers and presidents around what we should do as the United States, seeing them as our neighbors in the Western hemisphere and giving appropriate support there. So we have to multitask. Looking at what we need to do domestically, what we need to do to bring down the cost of gas. Don't do that. Don't do that. Please, don't do that. Well, first and foremost, and I don't need to say to you Kiki, because you really do use your voice in such an extraordinary way."
+          }
+        },
+        {
+          "match_score": 0.65352774,
+          "metadata": {
+            "speaker": "Harris",
+            "speech_id": "103",
+            "title": "Kamala Harris Campaign Speech Transcript McAllen, Texas October 30",
+            "date": "20201030",
+            "topics": "Economy, Healthcare, Social Justice, Climate"
+          },
+          "matched_segment": {
+            "segment_id": 19,
+            "text": "Well Rio Grande, I promise you this, as a first order of business, Joe Biden and I area about to work to get rid of that tax cut. And invest that money in working families. Invest that money on building back up our infrastructure, which means the creation of millions of jobs, building back up our infrastructure around roads, and bridges, and renewable energy."
+          },
+          "context": {
+            "previous": "Well one of the best ways to grow the economy and any family's economic well-being is home ownership. So we'll have a tax credit, a $15,000 for every new home buyer for down payments and closing costs.\" That's how Joe Biden thinks about the economy. On the other hand you have Donald Trump, who when asked about the economy, asks about the stock market. Asks about how rich people are doing. As one of his first orders of business, passed a tax bill benefiting the top 1%, and the biggest corporations of America.",
+            "next": "Investing in working people, and small businesses, with a focus on 150 billion dollars in low interest loans and access to capital for minority owned businesses. That's how we will deal with this. That's how we will invest our resources. There are clear contrasts, and a clear choice in this race. Let's deal with the long overdue reckoning on racial injustice in America. So, on the one hand, you have Joe Biden, who is a student of American history, and has the courage to say black lives matter."
+          }
+        },
+        {
+          "match_score": 0.64781976,
+          "metadata": {
+            "speaker": "Harris",
+            "speech_id": "115",
+            "title": "Harris Speech in Pittsburgh",
+            "date": "20240926",
+            "topics": "Economy, Healthcare, Government Policy, Veterans Affairs"
+          },
+          "matched_segment": {
+            "segment_id": 9,
+            "text": "And when we lower the cost and ease the burdens people face, we will not only make it then easier for them to meet their obligations as caregivers, we will also make it more possible for them to go to work, and pursue their economic aspirations. And when that happens, our economy as a home, grows stronger. () Now, middle class tax cuts are just the start of my plan. We will also go after the biggest drivers of cost for the middle class and work to bring them down."
+          },
+          "context": {
+            "previous": "I remember being there for my mother when she was diagnosed with cancer, cooking meals for her, taking her to her appointments, just trying to make her comfortable, figuring out which clothes were soft enough that they wouldn't irritate her, and telling her stories to try and make her laugh. I know caregiving is about dignity. It really is.",
+            "next": "And one of those, some would argue one of the biggest, is the cost of housing. So here's what we will do. We will cut the red tape that stops homes from being built and take on in addition, corporate landlords who are hiking rental prices. And we will work with builders and developers to construct 3 million new homes and rentals for the middle class because increasing the housing supply will help drive down the cost of housing."
+          }
+        }
+      ]
+    }
+  }
+}

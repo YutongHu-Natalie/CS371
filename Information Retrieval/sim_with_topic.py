@@ -83,7 +83,7 @@ class SpeechSearcher:
 
             all_scores = [result.score for result in all_results]
 
-            # Filter results with high similarity (0.7 threshold)
+            # Filter results with high similarity (0.6 threshold)
             high_similarity_results = [result for result in all_results if result.score >= 0.6]
 
             # Process results and add context
@@ -178,7 +178,7 @@ def main():
         if not results:
             print("\nNo high-similarity matches found.")
             if all_scores:
-                print(f"Best match score was: {max(all_scores):.3f} (threshold is 0.7)")
+                print(f"Best match score was: {max(all_scores):.3f} (threshold is 0.6)")
                 print("Try:")
                 print("1. Using different key phrases")
                 print("2. Searching for shorter, specific phrases")

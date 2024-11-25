@@ -1,0 +1,195 @@
+{
+  "query_id": "011",
+  "query_text": "But it's still never going to be great. And it(health insurance)'s too expensive for people. And what we will do is we're looking at different plans. If we can come up with a plan that's going to cost our people, our population, less money and be better health care than Obamacare, then I would absolutely do it. But until then, I'd run it as good as it can be run.",
+  "query_topics": [
+    "Healthcare"
+  ],
+  "results": {
+    "But it's still never going to be great. And it(health insurance)'s too expensive for people. And what we will do is we're looking at different plans. If we can come up with a plan that's going to cost our people, our population, less money and be better health care than Obamacare, then I would absolutely do it. But until then, I'd run it as good as it can be run.": {
+      "Trump": [
+        {
+          "match_score": 0.81436265,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "351",
+            "title": "Donald Trump NBC Town Hall Transcript October 15",
+            "date": "20201015",
+            "topics": "Healthcare"
+          },
+          "matched_segment": {
+            "segment_id": 40,
+            "text": "We'd like to terminate it, and we want a much less expensive healthcare that's a much better healthcare, and that's where we're aiming. And if we can do that, and we have a very good chance of doing it, but we've also brought down the price of Obamacare. The problem with Obamacare, it basically is never going to be great, and I want to give great healthcare. So important. And thank you very much. It is a big issue for me too. That's right. That's right."
+          },
+          "context": {
+            "previous": "By the way, we're always protecting people with pre-existing conditions, and I can't say that more strongly, but we've been able to bring healthcare costs way down. Now, I took over Obamacare, got rid of the individual mandate, made it good, managed it much better. Remember, they had the $5 billion website disaster, and all of the problems they had. The problem with Obamacare, it's not good.",
+            "next": "In order to replace it with a much better healthcare at a much lower price. And always, under all circumstances, we are going to protect the Republicans. And maybe I changed the party a lot over the last three years, but we will protect people with preexisting conditions. And Savannah, what I want to do, get rid of the terrible Obamacare. I've already done it to a large extent because as you know, the individual mandate is gone. That was the worst part. No, no. We have done- That's right."
+          }
+        },
+        {
+          "match_score": 0.8037108,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "271",
+            "title": "Donald Trump Fox News Town Hall Transcript",
+            "date": "20200306",
+            "topics": "Healthcare, Immigration, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 37,
+            "text": "It's a much different plan. And what we'd like to do is totally kill it, but come up, before we do that, with something that's great. What we've done is we've really managed Obamacare, the remaining portion, we get rid of the bad part, but the remaining portion really well. And before I got involved, you know what was happening with the rates on Obamacare. They were going up at levels that nobody's ever seen before. We are managing it. And I had a decision to make. This was very important."
+          },
+          "context": {
+            "previous": "That's where you paid a fortune not to pay for horrible healthcare and insurance, and it had a tremendous impact. Preexisting conditions, 100% we take care of. But we have many healthcare plans now where it's 60%, even 65% less expensive than Obamacare. It's better than Obamacare, and what we really have left is the carcass of Obamacare or you could call it new healthcare, because without preexisting... without the whole thing with the individual mandate, it's a whole different ball game.",
+            "next": "I said to my people, and we have great people, [Sema :47], Azar, I mean great people that are so good at it. I said, \"You know, I have a little problem. Do we manage it great until we get something much better? Or do we manage it poorly and say Obamacare's horrible.\" And I said, \"We've got to do the right thing."
+          }
+        },
+        {
+          "match_score": 0.7796173,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "471",
+            "title": "Donald Trump White House Press Conference Transcript September 27: Calls NY Times Tax Returns Report \u201cFake News\u201d",
+            "date": "20200927",
+            "topics": "Gun Control, Immigration, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 35,
+            "text": "It doesn't work. We've made the best of it. We got rid of the individual mandate, which is great. We are going to protect people with pre-existing conditions 100%, but if we can end Obamacare and come up with a much better health care system that's much cheaper, much cheaper and much better, which is what we'll do."
+          },
+          "context": {
+            "previous": "They think it's inappropriate to talk about them. I don't know that it's inappropriate, but I've gone by that custom. Go ahead, [inaudible :34]. Speaker 2: () Thank you sir. Democrats are arguing that ACB puts in danger not only Roe v. Wade, but a number of other decisions. Do you think that they are correct? No, I don't know. I don't think she's going to ruin the law. I think she's going to be a great Justice for many years to come, but I can say they also bring up healthcare. I mean, Obamacare is terrible.",
+            "next": "On the other hand, if the court rules against we will manage the system better, but don't forget, we've already essentially gotten rid of Obamacare because we got rid of the individual mandate and it was all based on that. So we've done a tremendous amount, because the individual mandate was the most unpopular aspect of Obamacare. You had to pay a lot of money for the privilege of not paying for bad health care. So that was a terrible thing for people."
+          }
+        },
+        {
+          "match_score": 0.77759665,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "410",
+            "title": "Donald Trump Rush Limbaugh Interview \u201cRadio Rally\u201d Transcript October 9",
+            "date": "20201009",
+            "topics": "Economy, Healthcare, Education, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 52,
+            "text": "I could have run it badly and made everybody angry, but I didn't do that. I ran it really well. Knowing that it's run really well, it's still no good. It's still not good. It's much better than when they ran it. They couldn't even do... Remember, they spent $5 billion on the server, if you remember. They couldn't get the server right. That's correct. Come up with a great health care plan that's much less expensive and does include people with preexisting conditions, that's what I want to do."
+          },
+          "context": {
+            "previous": "Sort of I have terminated Obamacare, because once you get rid of the individual mandate it's no longer Obamacare. But I had a choice to make, Rush. It was a big choice. Do I maintain Obamacare, the remnants of Obamacare after the mandate? Do I maintain it well, or do I run it badly? I could have done it either way. I have very good people over there, Alex Azar and Seema, the whole group. I said, you know what, we've got to run it as well as it can be run. I have no choice.",
+            "next": "Now, they'll also say about Social Security- That's right. In order to do that... Well, what will happen is if we win, the Democrats will do something to help get healthcare. They're going to come along because they have no choice. They're going to come along. They have no choice. I will say one thing. We talk about unity, because I'd like to see the country come together. It's not as easy as people think."
+          }
+        },
+        {
+          "match_score": 0.7721553,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "460",
+            "title": "Donald Trump \u2018America First Healthcare\u2019 Speech Transcript September 24",
+            "date": "20200924",
+            "topics": "Healthcare, Immigration"
+          },
+          "matched_segment": {
+            "segment_id": 12,
+            "text": "Simultaneously with all of this, we are joining in a lawsuit to end this ill-conceived plan. I'm in court to terminate this really, really terrible situation. If we win, we will have a better and less expensive plan that will always protect individuals with pre-existing conditions. If we lose, what we have now is better than the original version of Obamacare by far. Much better. Much better. Again, we will always protect patients with pre-existing conditions."
+          },
+          "context": {
+            "previous": "That was Alex and that was Seema, And you did a fantastic job. But it's still unacceptable to me because it's too expensive and doesn't really do the job as well as we could have. So what we have now is a much better plan. It is no longer Obamacare, because we've gotten rid of the worst part of it, the individual mandate, and made it much less expensive. A lot of that was through good management. We manage it properly. We have tremendous people working on it.",
+            "next": "So today, I'm laying out my vision for the future of American healthcare with the America First Healthcare plan. As we restore America to full strength, the first healthcare plan will be a core part of our national renewal. In a few moments, I'll sign an executive order outlining the three pillars of my plan and directing my administration to implement these critical reforms. The first pillar of my plan is more choice, more choice for American patients. Very important."
+          }
+        }
+      ],
+      "Harris": [
+        {
+          "match_score": 0.646535,
+          "metadata": {
+            "speaker": "Harris",
+            "speech_id": "020",
+            "title": "Harris and Walz Hold First Rally",
+            "date": "20240807",
+            "topics": "Economy, Healthcare, Education, Social Justice, Gun Control, Veterans Affairs"
+          },
+          "matched_segment": {
+            "segment_id": 16,
+            "text": "So on that last topic, if Donald Trump gets the chance, he will end the Affordable Care Act and take us back to a time when insurance companies have the power to deny people with pre-existing conditions. You remember what that was like? Children with asthma, breast cancer survivors, grandparents with diabetes. Well, Governor Walz and I will not let that happen because we believe healthcare should be a right and not just a privilege for those who can afford it."
+          },
+          "context": {
+            "previous": "(:44) In Washington, Tim worked to raise the minimum \u00a7wage, to protect the freedom of workers to join a union, and he cast one of the critical votes to pass the Affordable Care Act, which of course gave health insurance to tens of millions of Americans. I'm going to tell you, when we win, Tim and I will continue to make the Affordable Care Act even stronger. We will. (:46) Now let's talk about what we're dealing with on the other side.",
+            "next": "As governor, Tim has continued to fight for working families. He secured paid leave for workers in Minnesota and he refused as governor to allow any student in their public schools to go hungry, so he made school breakfast and lunch free for every child. And Tim Walz and I, we agree about many things including when our middle class is strong, America is strong. And strengthening in the middle class will be my defining goal as I am President of the United States."
+          }
+        },
+        {
+          "match_score": 0.64480394,
+          "metadata": {
+            "speaker": "Harris",
+            "speech_id": "102",
+            "title": "Kamala Harris Campaign Event Speech Transcript Houston, TX October 30",
+            "date": "20201030",
+            "topics": "Economy, Social Justice, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 13,
+            "text": "We need to expand the protections for folks with pre-existing conditions. We need to bring down the cost of prescription drugs. We will lower the cost of premiums. We will bring down the age of Medicare eligibility to 60. We understand that when you're talking about healthcare, let's be clear. The body doesn't just start from the neck down. It also includes the neck up and we need to deal with mental health care in America. Joe understands these issues. There's a clear choice in this election."
+          },
+          "context": {
+            "previous": "Raise your hand if your relative has lupus. Raise your hand if you know somebody who has breast cancer and is surviving. Raise your hand if you know somebody who got COVID. And the man's in court trying to get rid of the protection for people with pre-existing conditions here in Texas, 10 million people have preexisting conditions. So, there is a real choice in this election, on this point. Because you see, on the other hand, you have Joe Biden, who is saying we need to expand Obamacare.",
+            "next": "We are dealing with an economic crisis, of a proportion that parallels the Great Depression. Over 30 million people in the last several months had to file for unemployment. One in five mothers is describing her children under the age of 12 as being hungry in America. We are in the midst of a hunger crisis. People aren't talking enough about that. Here in Texas, 1 in 10 households is describing members of their family as having been hungry. One in six households is describing an inability to pay the rent."
+          }
+        },
+        {
+          "match_score": 0.62141263,
+          "metadata": {
+            "speaker": "Harris",
+            "speech_id": "103",
+            "title": "Kamala Harris Campaign Speech Transcript McAllen, Texas October 30",
+            "date": "20201030",
+            "topics": "Economy, Healthcare, Social Justice, Climate"
+          },
+          "matched_segment": {
+            "segment_id": 14,
+            "text": "Joe Biden, who was saying, \"We will expand health coverage, we will bring down the cost of premiums, we wil bring down the cost of prescription drugs, we will lower Medicare eligibility to age 60, we know that health care means understanding the body doesn't just start from the neck down, it includes the neck up, and that's called mental health care.\" There are clear choices in this election. And on the other hand, you have the current president who's trying to get rid of coverage for over 20 million people."
+          },
+          "context": {
+            "previous": "And you see, Barack Obama, together with Vice President Biden, created the Affordable Care Act knowing people with preexisting conditions, including the 10 million Texans who have preexisting conditions, should be protected. But Donald Trump's in court right now trying to get rid of that. And part of the issue that I see, let's remember this, from the time the guy was running for office until now, Donald Trump has had this weird obsession with trying to get rid of whatever Barack Obama and Joe Biden created.",
+            "next": "The crises we are dealing with. The crisis from this pandemic that is this economic crisis. Where over 30 million Americans, in just the last several months, had to file for unemployment insurance. Where here in Texas, we're looking at one in ten families that has described their household as being hungry. Where here in Texas, one in six households is finding it difficult, if not impossible, to pay rent."
+          }
+        },
+        {
+          "match_score": 0.6084026,
+          "metadata": {
+            "speaker": "Harris",
+            "speech_id": "020",
+            "title": "Harris and Walz Hold First Rally",
+            "date": "20240807",
+            "topics": "Economy, Healthcare, Education, Social Justice, Gun Control, Veterans Affairs"
+          },
+          "matched_segment": {
+            "segment_id": 15,
+            "text": "(:44) In Washington, Tim worked to raise the minimum \u00a7wage, to protect the freedom of workers to join a union, and he cast one of the critical votes to pass the Affordable Care Act, which of course gave health insurance to tens of millions of Americans. I'm going to tell you, when we win, Tim and I will continue to make the Affordable Care Act even stronger. We will. (:46) Now let's talk about what we're dealing with on the other side."
+          },
+          "context": {
+            "previous": "(:42) So it was Coach Walz's students who actually helped him decide to run for office. And he served 12 years in Congress representing a purple district as he reached across the aisle to get things done. He was the highest ranking enlisted man to ever serve in the United States Congress, and the top Democrat on the Veterans Committee, and he was known as one of Capitol Hill's best marksman, winning a bipartisan sharp shooting contest year after year.",
+            "next": "So on that last topic, if Donald Trump gets the chance, he will end the Affordable Care Act and take us back to a time when insurance companies have the power to deny people with pre-existing conditions. You remember what that was like? Children with asthma, breast cancer survivors, grandparents with diabetes. Well, Governor Walz and I will not let that happen because we believe healthcare should be a right and not just a privilege for those who can afford it."
+          }
+        },
+        {
+          "match_score": 0.60233295,
+          "metadata": {
+            "speaker": "Harris",
+            "speech_id": "115",
+            "title": "Harris Speech in Pittsburgh",
+            "date": "20240926",
+            "topics": "Economy, Healthcare, Government Policy, Veterans Affairs"
+          },
+          "matched_segment": {
+            "segment_id": 9,
+            "text": "And when we lower the cost and ease the burdens people face, we will not only make it then easier for them to meet their obligations as caregivers, we will also make it more possible for them to go to work, and pursue their economic aspirations. And when that happens, our economy as a home, grows stronger. () Now, middle class tax cuts are just the start of my plan. We will also go after the biggest drivers of cost for the middle class and work to bring them down."
+          },
+          "context": {
+            "previous": "I remember being there for my mother when she was diagnosed with cancer, cooking meals for her, taking her to her appointments, just trying to make her comfortable, figuring out which clothes were soft enough that they wouldn't irritate her, and telling her stories to try and make her laugh. I know caregiving is about dignity. It really is.",
+            "next": "And one of those, some would argue one of the biggest, is the cost of housing. So here's what we will do. We will cut the red tape that stops homes from being built and take on in addition, corporate landlords who are hiking rental prices. And we will work with builders and developers to construct 3 million new homes and rentals for the middle class because increasing the housing supply will help drive down the cost of housing."
+          }
+        }
+      ]
+    }
+  }
+}

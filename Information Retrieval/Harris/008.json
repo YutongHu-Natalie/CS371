@@ -1,0 +1,68 @@
+{
+  "query_id": "008",
+  "query_text": "Well, the former President had said that climate change is a hoax.",
+  "query_topics": [
+    "Climate"
+  ],
+  "results": {
+    "Well, the former President had said that climate change is a hoax.": {
+      "Trump": [
+        {
+          "match_score": 0.6231523,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "471",
+            "title": "Donald Trump White House Press Conference Transcript September 27: Calls NY Times Tax Returns Report \u201cFake News\u201d",
+            "date": "20200927",
+            "topics": "Gun Control, Immigration, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 53,
+            "text": "I mean the stories that I read are so fake, they're so phony. Speaker 5: () Did they tell you this was going to come out today? No I didn't know anything about it. Speaker 6: () Mr. President- I think somebody said they were going to do a negative story. They always do negative stories. I don't think in the last ... I used to get good stories in The New York Times when I ran for office and I happened to be conservative, republican. I don't think we've had a good story. They've predicted my loss four years ago."
+          },
+          "context": {
+            "previous": "The IRS does not treat me well. They treat me like the tea party, like they treated the tea party. They don't treat me well. They treat me very badly. You have people in the IRS that they treat me very, very badly but they're under audit and when they're not I'd be proud to show it. But that's just fake news. The New York Times tried it. Same thing. They want to create a little bit of story. They're doing anything they can. Not only that. That's the least of it.",
+            "next": "They then apologized for their bad reporting. Then they predicted the FBI and all of these things. That's now proven to be a hoax, a complete hoax. They got Pulitzer Prizes along with The Washington Post. They should give all those Pulitzer Prizes back because everything was wrong. I mean it was so bad. Their reporting was so bad. They were wrong. It was exactly the opposite. Now there are people who should get Pulitzer Prizes. Solomon, Codder."
+          }
+        },
+        {
+          "match_score": 0.6159635,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "218",
+            "title": "Donald Trump Rally in Philadelphia",
+            "date": "20240624",
+            "topics": "Economy, Immigration, Foreign Policy, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 14,
+            "text": "Everybody, all the foreign leaders there watching, and he turns around to look at a tree, right? No. And then they say it was fake. He was fine. And then the press goes along with it. They go along with it. They say, \"Isn't it terrible the way they cover him?\" No, no, he's terrible. The worst president in history by far, and we have to get him out or this country is not going to survive another year."
+          },
+          "context": {
+            "previous": "If I blow it up here though, actually, they take a perfect, brilliant, beautiful statement that I make, I go for two hours without teleprompters, and if I say one word slightly out, they say he's cognitively impaired. () Whereas Biden can run into walls. He can fall off the stage. He can fall up the stairs, he falls up. He can turn around. Listen to this. From 20,000 feet, a paratrooper is landing right in front of him.",
+            "next": "According to the much better National Crime Victimization survey, there has actually been a 43 percent increase in violent crime since I left office, including 58% increase in rapes and 89% increase in aggravated assaults and a 56% increase in robberies. Other than that, I think we're doing quite well, don't you? But with your vote, Joe Biden's, wave of bedlam and death and terror will begin to recede the moment I take the oath of office January 20th. () First I will stand with the heroes of law enforcement."
+          }
+        },
+        {
+          "match_score": 0.6131098,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "022",
+            "title": "Donald Trump Delivers Keynote Speech in Florida 4/21/22 Transcript",
+            "date": "20220424",
+            "topics": "Immigration, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 97,
+            "text": "One of the most urgent tasks, not only for our movement, but for our country is to decisively defeat the climate hysteria hoax. The ocean is rising. It's rising. It's coming. It's within 300 year years, we're going to gain one, 100th of an inch in the ocean and have a little more beachfront property. It's going to be a terrible thing. No, it's a hoax. The whole thing is a total... It's so crazy. And just in a simple way, China has a very dirty country. India is very dirty, air is very dirty, water is very dirty."
+          },
+          "context": {
+            "previous": "Now I'm working my ass off and enjoying myself. But I want to congratulate Madam, Chairman. I want to congratulate you and Kevin on everything that you're doing to encourage new thinking, embrace new directions and keep Heritage at the vanguard of the conservative movement. And the conservative movement is making tremendous strides and everyone knows it. And every mistake they make is one thing good, they realize that we got it right.",
+            "next": "In Japan even, and many others, they dump in the ocean. Russia has a very dirty country. You look at arctic ice, it's black. They call it black ice. Do you know how it got black? Factories. So we're going to have nice and clean. The problem is the air goes up and then it starts to move. It moves. The air goes up in China and it moves. It takes about a week and a half and it moves across the Pacific and it hits Los Angeles. May it be Los Angeles. But it hits our country."
+          }
+        }
+      ],
+      "Harris": []
+    }
+  }
+}

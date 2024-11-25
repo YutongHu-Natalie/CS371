@@ -1,0 +1,105 @@
+{
+  "query_id": "013",
+  "query_text": "But she(Harris) won't improve private insurance for people. Private, medical insurance. That's another thing she doesn't want to get.--People are paying privately for insurance that have worked hard and made money and they want to have private. She wants everybody to be on government insurance where you wait six months for an operation that you need immediately.",
+  "query_topics": [
+    "Healthcare",
+    "Government Policy"
+  ],
+  "results": {
+    "But she(Harris) won't improve private insurance for people. Private, medical insurance. That's another thing she doesn't want to get.--People are paying privately for insurance that have worked hard and made money and they want to have private. She wants everybody to be on government insurance where you wait six months for an operation that you need immediately.": {
+      "Trump": [
+        {
+          "match_score": 0.6783741,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "336",
+            "title": "Trump Speaks in Erie, PA",
+            "date": "20241001",
+            "topics": "Climate, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 108,
+            "text": "(:15) So it makes life a little bit more dangerous, but that's okay. We know what we got into. Kamala pledged to abolish private healthcare and force everyone onto socialist government-run healthcare with high taxes and deadly wait times. We've got to wait six, seven months sometimes. And she even endorsed free sex changes for illegal aliens and detention at taxpayer expense. That's why five weeks from now, we are going to tell her, \"Kamala, you've done a horrible job as vice president."
+          },
+          "context": {
+            "previous": "But he can't say that. Other presidents would say that. He just can't probably get the words out. But I'll tell you what, if it were reversed, if I were president and somebody was threatening a president, even I didn't like that person and he was from the opposite party, I would tell the threatening country, \"You do anything to him, we're going to blow you off the face of the earth.\" And nothing's going to happen. But we haven't had that happen, have we, Mike? We haven't had that happen.",
+            "next": "You are the worst borders czar in the history of the world, not just our country. We have to make a change. Kamala, you are horrible. Kamala, you're fired. You're fired. Get out of here. Get out of here, Kamala. Go back to San Francisco Kamala, which by the way you destroyed.\" (:14) From the moment we take back the White House from Kamala Harris and sleepy Joe, I believe we're going to have the four greatest years in the history of our country. We're going to put our country back together. It's going to go fast."
+          }
+        },
+        {
+          "match_score": 0.6728803,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "314",
+            "title": "Donald Trump Rally Speech Transcript Dubuque, Iowa November 1",
+            "date": "20201101",
+            "topics": "Economy, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 35,
+            "text": "That's the way it's been and that's the way it should be. What's going on in this country? What's going on? We believe that every child is a sacred gift from God. Biden and Harris will eliminate the private health insurance plans of 180 million Americans, their socialist takeover will ration care and force you onto endless wait lists. You're going to have wait lists, you know what we've done by the way for the military has been incredible. We've gotten rid of the wait list for our veterans."
+          },
+          "context": {
+            "previous": "I've seen people where an election got stolen and by the way, we're not going to let that happen to us with these ballots. How about the Supreme Court ruling where the Supreme Court, no, this was not good, the Supreme Court gave them more time, more time. So what does this mean? Does this mean we go and we wait, so it's not November 3rd, it's going to be much later than that? No, no, we should know the result of the election on November 3rd, the evening of November 3rd.",
+            "next": "Our opponents would pack the Supreme court with far-left justices and by the way, we're into the voting now. It's ridiculous, I liked election day and most of you do too, who is going to vote on election day? Okay. And who's already voted? Okay. And you sent ballots in? Be careful with the ballots, be careful. Just be careful with those ballots, I don't know."
+          }
+        },
+        {
+          "match_score": 0.6587727,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "431",
+            "title": "Donald Trump ABC News Town Hall Transcript with George Stephanopoulos in Philadelphia",
+            "date": "20200916",
+            "topics": "Healthcare, Infrastructure, Government Policy, Technology"
+          },
+          "matched_segment": {
+            "segment_id": 56,
+            "text": "The agreement with Bernie is that you're going to go to socialized medicine. If you go to socialized medicine... Well, he agreed. Harris, who he today, said, Harris-Biden, because you think she's president, Harris... Someday, you'll have to explain that one to me, but Harris is all for doing that. She wants to go to socialized medicine. You no longer have your doctor really, and you no longer have your plan."
+          },
+          "context": {
+            "previous": "If you go to Department of Labor, our great secretary as you know, and you know him well, we have other alternatives to Obamacare that are 50% less expensive, and they're actually better. George, it's been 40 years since you had good healthcare. You never really had good healthcare in this country. This country has never had it. But, when you say that Biden doesn't want to do it, everybody else does. Bernie does. He agreed to the manifesto as I call it.",
+            "next": "And, Joe can say all he wants, he's only doing it because he sees his poll numbers going down so substantially. But, Joe can say all he wants about healthcare. Obamacare has been a failure from day one. It's too expensive, whether it's the premium or whether it's the cost generally, and they don't have their doctors, and they don't have their plans. We're going to have a very good healthcare. I think maybe a great healthcare for less money. Thank you. Hi Jim. Good Jim."
+          }
+        },
+        {
+          "match_score": 0.65361315,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "460",
+            "title": "Donald Trump \u2018America First Healthcare\u2019 Speech Transcript September 24",
+            "date": "20200924",
+            "topics": "Healthcare, Immigration"
+          },
+          "matched_segment": {
+            "segment_id": 3,
+            "text": "Their plans will result in rationing care, denying choice, putting Americans on wait lists, driving the best doctors out of medicine permanently, and delaying life saving cures. Over 130 Democrats in Congress including Senator Harris have endorsed legislation to outlaw the private health plans of 180 million Americans. On top of it all, former Vice President Joe Biden promised to give free federal healthcare to anyone in the world who illegally crosses our border."
+          },
+          "context": {
+            "previous": "In short, we're delivering better care with more choice and a much lower cost and working to ensure Americans have access to the care they need. My plan expands affordable insurance options, reduces the cost of prescription drugs, will end surprise medical billing, increases fairness through price transparency, streamlines bureaucracy, accelerates innovation, strongly protects Medicare and always protects patients with pre-existing conditions. By contrast, the Democrat Party is pushing a socialist nightmare.",
+            "next": "His plan to provide government healthcare to illegal immigrants would bankrupt our healthcare system, collapse our hospitals and destroy Medicare, while bringing in millions and millions of people lured into our country. As long as I am president, we will save go to our borders and our seniors. We are pleased to be joined today by Secretary of Health and Human Services, done a great job, Alex Azar. Alex. Hi, Alex. Thank you. And very importantly, CMS Administrator Seema Verma. Thank you, Seema."
+          }
+        },
+        {
+          "match_score": 0.64334893,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "014",
+            "title": "Donald Trump Coronavirus Task Force Briefing April 2",
+            "date": "20200402",
+            "topics": "Economy, Healthcare, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 37,
+            "text": "Can you assure Americans tonight that you will reopen Obamacare marketplace so that they can be covered in this time of combined health and financial crisis? Yeah. I understand the question and we're doing better than that. We're going to try and get a cash payment to the people and we're working out the mechanics of that with legislature, so we're going to try and get them a cash payment because just opening it up doesn't help as much."
+          },
+          "context": {
+            "previous": "Yeah, let's go, please... Journalist 3: (:40) Thank you, sir. Thank you, Mr. President. I want to follow up from a question yesterday regarding your administration's denial of the expansion Obamacare special enrollment period in the wake of this pandemic. In your own words, VP Pence gave a five minute a non answer, but people facing this pandemic illness and even worse, most experts say that having healthcare is critical to our nation's health and financial wellbeing.",
+            "next": "So we're going to work it out so we're going to try and get for that certain group of people... It's a certain group of people, a cash payment. Journalist 2: (:36) I really want to ask you about masks, but I also just meant to follow up on a couple of hanging threads there. Just the question earlier about the bidding. What happens though when States are bidding against each other on those markets? Well, they have that and they have to work that out."
+          }
+        }
+      ],
+      "Harris": []
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "query_id": "010",
+  "query_text": "Now, I believe in the (abortion policies) exceptions for rape, incest, and life of the mother. I believe strongly in it. Ronald Reagan did also. Eighty-five percent of Republicans do--exceptions. It's very important. But we were able to get it.",
+  "query_topics": [
+    "Healthcare",
+    "Social Justice"
+  ],
+  "results": {
+    "Now, I believe in the (abortion policies) exceptions for rape, incest, and life of the mother. I believe strongly in it. Ronald Reagan did also. Eighty-five percent of Republicans do--exceptions. It's very important. But we were able to get it.": {
+      "Trump": [
+        {
+          "match_score": 0.806014,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "441",
+            "title": "Meet The Press Full Donald Trump Interview Transcript",
+            "date": "20230918",
+            "topics": "Economy, Immigration, Foreign Policy, Veterans Affairs, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 50,
+            "text": "The most powerful people that are anti- abortion are okay with that now. And you know what? They weren't okay with that even a year ago. Well, Mike Pence said something about 15 weeks, too, which was a big change for Mike Pence, because Mike Pence had no exceptions. I have exceptions, by the way. I think people should have exceptions. I think if it's rape or incest or the life of the mother, I think, you have to have exceptions. Now, I will tell you that I think most people, most Republicans are willing."
+          },
+          "context": {
+            "previous": "I don't frankly care. I would say this, everybody and including the great legal scholars love the idea of Roe v. Wade terminated, so it'd be brought back to the states. I would say this, from a pure standpoint, from a legal standpoint, I think, it's probably better, but I can live with it either way. It's much more important the number of weeks, but something will happen with the number of weeks, the amount of time after which you can't do it. And you know what?",
+            "next": "You go, life of the mother, rape, incest. I think most of them are there. That's a big statement. Well, I don't know what he's saying, because before he wanted you can't have abortion. Excuse me. Now, all of a sudden, he's saying 15 weeks. I said, wow, where did that come from? That's a radical change. Look, something is going to happen that's going to be good for everybody. I'm, almost like, a mediator in this case. They wanted Roe v. Wade terminated, because it was inappropriate. We got it done."
+          }
+        },
+        {
+          "match_score": 0.7957226,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "093",
+            "title": "Trump Speaks at Alabama GOP Dinner after New Indictment Transcript",
+            "date": "20230807",
+            "topics": "Immigration, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 29,
+            "text": "On both sides, they felt it should be. Now, like President Ronald Reagan before me, I support the three exceptions for rape, incest, and the life of the mother. I will say that in terms of running, you have to go with your heart. You have to go with what you want. () But the three exceptions, to me, are very important, and the three exceptions, I think, to a large portion of the people on this issue, are very important. Very, very important."
+          },
+          "context": {
+            "previous": "Pro-lifers have a tremendous power now with that termination to negotiate. They had none. They didn't have any before that ruling. They had no power whatsoever. They could kill babies at any time they wanted, including after what we would call birth. They could kill babies. () Now they have tremendous power to negotiate because they don't have Roe v. Wade. This moves the issue back to the states where all legal scholars felt it should be, out of the federal government and back to the states. That's a big deal.",
+            "next": "Remember, the Democrats are the radicals on this issue, and you have to remember that. We're not the radicals on this issue. The Democrats are the radicals because they're willing to kill babies in their fifth and sixth and seventh and eighth and ninth month and even after birth. () Remember the governor of Virginia, that whack job who thought he was Michael Jackson, remember?"
+          }
+        },
+        {
+          "match_score": 0.78636676,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "088",
+            "title": "Trump Addresses National Association of Black Journalists",
+            "date": "20240805",
+            "topics": "Economy, Social Justice, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 38,
+            "text": "Most people believe in the three exceptions. Most Republicans believe in the exceptions, but they don't want to see an abortion in the ninth month or the eighth month. Almost everybody agrees to that, and they certainly don't want to see, in the case of the governor of Virginia, the former governor I might add, who said, we set the baby aside and then we decide what to do, meaning what do we do, we execute the baby. That's a radical, horrible position, and some people want that. I don't want it."
+          },
+          "context": {
+            "previous": "A little bit surprising to a lot of people, but the people are now voting and it's taking this issue that's been going on for 52 years and has torn our country apart, and it's giving it to the people to vote on, and they're voting, and many states have already voted, others are in the process of voting, and it's bringing it back to the people and a vote of the people, and it's not at all radical. () And again, you have to follow your heart. I happen to believe in the three exceptions.",
+            "next": "Most people don't. But not mentally. Look, mentally. He's shot. He's shot. But most people- Most people, I know many people in their eighties and their nineties that are in great shape, some of our greatest leaders. You look at throughout the world, world history, the greatest leaders, some of the greatest leaders in the world were in their eighties. Oh, absolutely. I think I'd know. I think I'd know. Look, if I came onto a stage like this and I got treated so rudely is this woman treated me."
+          }
+        },
+        {
+          "match_score": 0.7685802,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "277",
+            "title": "CNN Donald Trump Town Hall 5/10/23 Transcript",
+            "date": "20230511",
+            "topics": "Economy, Immigration, Foreign Policy, Government Policy, Veterans Affairs"
+          },
+          "matched_segment": {
+            "segment_id": 52,
+            "text": "This has been going on, actually a couple of Democrats too. But for 50 years this has been going on. I was able to do it and I was very honored to do it. But by doing it, things are happening that are very, very positive. And I happen to believe in the exceptions. The life of the mother, rape, incest, like Ronald Reagan believed in the exceptions. But I happen to believe that. I think it's frankly important to do that. But a lot of people are against that. A relatively small number."
+          },
+          "context": {
+            "previous": "They were walking into people's homes and killing people. They had no protection. Said, \"Go out and buy guns.\" People went out and bought guns and it went way down. The numbers went way down because they had security. If you look at Chicago, Chicago has the single toughest gun policies in the nation. They are so tough, you can't breathe. New York too and other places also. All of those places are the worst and most dangerous places. So that's not the answer. It's such a great question. Republicans. For 50 years.",
+            "next": "But the way I look, I think it's very important to say this. I consider the other side to be radical. Because the other side under Roe v, Wade and other things, the other side, they're radical because they will remember the debate with Hillary Clinton. I said, rip the baby out of the womb at the end of the ninth month. They will kill the baby in the ninth month. If you look at that crazy Governor of Virginia from the former governor where he said, no, the baby will be born."
+          }
+        },
+        {
+          "match_score": 0.7678261,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "044",
+            "title": "Trump Holds News Conference at Mar-a-Lago",
+            "date": "20240812",
+            "topics": "Economy, Immigration, Foreign Policy, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 60,
+            "text": "And then you have Texas and you have other places where it may be different. () But the issue has been brought back to the States now, and like Ronald Reagan, I believe in the exceptions for rape, incest, and life of the mother, I believe strongly. I think that that's a very important thing. I think when you don't... You have to follow your heart, but when you don't believe, and the exceptions, I think it's much tougher, it's a much tougher issue."
+          },
+          "context": {
+            "previous": "They wanted to get rid of Roe v. Wade, and that's Democrats, Republicans and Independents and everybody, liberals, conservatives, everybody wanted it back in the States, and I did that. Now, the states are voting, and frankly some of the votes are much more, if you could say liberal than you would think. Ohio turned out to be... They had a big vote and it turned out to be a much more liberal standing than people would've thought. Kansas, the same thing.",
+            "next": "What I've done is I've done what every Democrat and every Republican wanted to have done, and we brought that issue back to the States, and now the States are voting on it, and frankly, some of the votes are a lot different than people would've thought, but it's the vote of the people that's taking care of it. () And when you think about the radical, the Democrats are really the radical ones on this because they're allowed to do abortion on the eighth and ninth month and even after birth."
+          }
+        }
+      ],
+      "Harris": [
+        {
+          "match_score": 0.607717,
+          "metadata": {
+            "speaker": "Harris",
+            "speech_id": "020",
+            "title": "Harris and Walz Hold First Rally",
+            "date": "20240807",
+            "topics": "Economy, Healthcare, Education, Social Justice, Gun Control, Veterans Affairs"
+          },
+          "matched_segment": {
+            "segment_id": 20,
+            "text": "After Roe was overturned, he was the first governor in the country to sign a new law that enshrined reproductive freedom as a fundamental right. And with Tim Walz by my side, when I am President of the United States and we win majorities in the United States Congress, we will pass a bill to restore reproductive freedom, and I will properly sign it into law. (:28) Tim Walz has also defended the sacred freedom to vote."
+          },
+          "context": {
+            "previous": "Think about that. (:55) Well, Tim and I have a message for Trump and others who want to turn back the clock on our fundamental freedoms: we're not going back. We're not going back. We're not going back. We're not going back. We're not going back. We're not going back. And so let me say, about Tim Walz, he has shown up to stand against these attacks long before he stood on the stage with me.",
+            "next": "As Governor, he signed the most significant expansion of voting rights in Minnesota in over 50 years. And with Governor Walz's help when I am President, we are going to finally pass the John Lewis Voting Rights Act and the Freedom to Vote Act. We're going to get it done. So Tim is a hunter and a gun owner who believes, as the majority of gun owners do that, we need reasonable gun safety laws in America. So as governor, he expanded background checks and increased penalties for illegal firearm sales."
+          }
+        },
+        {
+          "match_score": 0.6066616,
+          "metadata": {
+            "speaker": "Harris",
+            "speech_id": "112",
+            "title": "Harris Rally in Wisconsin",
+            "date": "20240923",
+            "topics": "Economy, Social Justice, Veterans Affairs"
+          },
+          "matched_segment": {
+            "segment_id": 26,
+            "text": "And when Congress passes the bill to restore reproductive freedom, as President of the United States, I will proudly sign it into law. Proudly. And across our nation, we are witnessing a full-on assault on other hard-fought, hard-won fundamental rights and freedoms like the freedom to vote, the freedom to be safe from gun violence, the freedom to join a union, the freedom to love who you love openly and with pride. () So we know what we are up against. We are clear-eyed about what we are up against."
+          },
+          "context": {
+            "previous": "And she was so proud that she had worked so hard and she was finally gaining independence, that she found an apartment in a safe community. It had a little pool where her son could play. This is one example of what is happening around our country right now. And this is a healthcare crisis. And Donald Trump is the architect. So I will say to you, because of why we are here, we're going to get Tammy re-elected to the United States Senate.",
+            "next": "And we remember that generations of Americans before us led the fight for freedom. And now the baton is in our hands. Now it's in our hands. It's in our hands. And so much is on the line in this election. And this is not 2016 or 2020. The stakes are even higher, because remember two months ago, the United States Supreme Court basically told the former President that he will effectively be immune no matter what he does in the White House. But think about that. Think about what that means."
+          }
+        }
+      ]
+    }
+  }
+}

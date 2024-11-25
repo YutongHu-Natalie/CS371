@@ -1,0 +1,195 @@
+{
+  "query_id": "012",
+  "query_text": "I think it's in the U.S. best interest to get this war(Russia-Ukraine) finished and --just get it done.Negotiate a deal(with Russia and Ukraine). Because we have to stop all of these human lives from being destroyed.",
+  "query_topics": [
+    "Foreign Policy"
+  ],
+  "results": {
+    "I think it's in the U.S. best interest to get this war(Russia-Ukraine) finished and --just get it done.Negotiate a deal(with Russia and Ukraine). Because we have to stop all of these human lives from being destroyed.": {
+      "Trump": [
+        {
+          "match_score": 0.71351254,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "277",
+            "title": "CNN Donald Trump Town Hall 5/10/23 Transcript",
+            "date": "20230511",
+            "topics": "Economy, Immigration, Foreign Policy, Government Policy, Veterans Affairs"
+          },
+          "matched_segment": {
+            "segment_id": 72,
+            "text": "It'll be over. It'll be absolutely over. I don't think in terms of winning and losing. I think in terms of getting it settled, so we stop killing all these people and breaking down this country. One of the things you have to do is you have to get Europe- Excuse me, let me just follow up. I want everybody to stop dying. They're dying. Russians and Ukrainians. I want them to stop dying. And I'll have that done. I'll have that done in 24 hours. I'll have it done. You need the power of the presidency to do it."
+          },
+          "context": {
+            "previous": "Number one, when he said, \"The president didn't do anything wrong.\" So I happened to like- So I happened to like... Yeah, that's, right? And I was totally exonerated, by the way. Just a waste of time and money. I was impeached by a crazy woman named Nancy Pelosi. Let me just put it a nicer way. If I'm president, I will have that war settled in one day. 24 hours. Because I'll meet with Putin, I'll meet with Zelensky. They both have weaknesses and they both have strengths. And within 24 hours, that war will be settled.",
+            "next": "You know what I say? I'll say this. I want Europe to put up more money, because they're in for 20 billion. We're in for 170- They should equalize. They have plenty of money. They should equalize. I got with NATO- When I sat down, I got them to put up to hundreds of billions of dollars that they weren't paying under Obama and Bush and all of these other presidents. That's why they're able to help them fight the war because of the money I got. But I want Europe to- Excuse me."
+          }
+        },
+        {
+          "match_score": 0.69310814,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "064",
+            "title": "Vance and Trump rally in Asheboro, NC",
+            "date": "20240822",
+            "topics": "Economy, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 53,
+            "text": "This is the largest war there's been, and this war is going to escalate and escalate. When, if, but when? I have to always say if because they cheat. I would say when, if they didn't cheat, but they cheat. That's the one thing, they great at cheating in elections. If we win, I'll get that thing settled before I take the office. I'll get it settled as president elect, I'll get that war stopped, with Russia. (:52) Yeah, we'll get that stopped. Ukraine and Russia, we're going to get it stopped and quickly."
+          },
+          "context": {
+            "previous": "But they got some of the most criminal, the toughest, meanest criminals anywhere in the world. On top of that, we paid them billions and billions of dollars. (:04) We're run by very stupid people. I'd like to use a different word. I'd like to use a much more sophisticated word, but there's no word I can think of. Incompetent. How about incompetent? As a result, peace in Europe has been shattered by the largest European land war since the fall of Nazi Germany.",
+            "next": "It'll be done before I get to office. It would not have happened if I was president. It wasn't going to happen. In the Middle East, the Jewish people have suffered the worst atrocities and deadliest attacks since the Holocaust. There's no question about that. The United States has been forced to abandon more embassies under comrade Kamala than at any time in our history. And we're running out. It's not like we're leaving. We're being run out of these embassies that cost us hundreds of millions of dollars to build."
+          }
+        },
+        {
+          "match_score": 0.6859093,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "009",
+            "title": "Donald Trump Rally in Schnecksville, Pennsylvania",
+            "date": "20240416",
+            "topics": "Economy, Foreign Policy, Immigration, Technology"
+          },
+          "matched_segment": {
+            "segment_id": 65,
+            "text": "You know that, right, Mr. Congressman? They kill them by the thousands, so we're very off as a country. () Before I even arrive at the Oval Office, shortly after we win the presidency. It's we. I will have the horrible war. That's right. I will have the horrible war between Russia and Ukraine, totally settled. I will settle it and I'm the only one that can say this because these other people have no clue. I will prevent World War III."
+          },
+          "context": {
+            "previous": "Where's the wind? () You know the other problem? We can't get the windmills. You know why? They're made in China. China says, \"Don't worry about America. We'll give them.\" But wind doesn't work anywhere. It's too expensive. It doesn't work. Kills all your birds. If you'd like to see a nice bird cemetery, walk under a windmill sometime. You'll see more dead birds than anything. () If you shoot an American eagle like a bald eagle, they put you in jail for five years. But the windmill, they kill them by the thousands.",
+            "next": "() And remember, World War III would be a war like no other because of nuclear weapons and many other types of weapons, that are at a level that nobody can even imagine. You don't even want to talk about it. () We're going to rebuild our cities into beacons of hope, safety, and beauty, better than they have ever been before."
+          }
+        },
+        {
+          "match_score": 0.67247874,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "381",
+            "title": "Donald Trump Speaks at Campaign Event in Derry, New Hampshire Transcript",
+            "date": "20231024",
+            "topics": "Veterans Affairs"
+          },
+          "matched_segment": {
+            "segment_id": 145,
+            "text": "Before I even arrive at the Oval Office, shortly after I win the presidency, I will have the horrible war between Russia and Ukraine settled. Look, that's a war that would've never taken place. Putin would've never done it, would've never done it. It'll be done very quickly. The United States must also build a state-of-the-art missile defense shield. Look, we got to have a missile defense shield."
+          },
+          "context": {
+            "previous": "And I was going to keep that, not because of Afghanistan. I was keeping that because they're one hour away from where China makes their nuclear missiles. And who has that Air Force base now, China, China. Together we saved America once before, but we will save America again. And again, we're going to make it better than it ever was. (:50) And here are just some of what we will do when we become the 47th President, we of the United States.",
+            "next": "We got all these maniacs in all these countries, not only countries, big countries where you can talk and they have a lot to lose also, but you have people getting nuclear missiles. I wanted to stop that. We had it stopped with Iran. We have to have a shield. I want to build a shield around our country, and these shields work. (:37) Frankly, if Israel didn't have a shield, you wouldn't have Israel today. You wouldn't have... They stop thousands of rockets a week."
+          }
+        },
+        {
+          "match_score": 0.6701578,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "104",
+            "title": "Donald Trump, Emmanuel Macron NATO Summit Meeting Transcript",
+            "date": "20191203",
+            "topics": "Foreign Policy, Economy"
+          },
+          "matched_segment": {
+            "segment_id": 35,
+            "text": "I think that the meetings coming up with Russia and Ukraine are very important. There is a possibility that some very big progress can be made. It's very important for Ukraine. I think it's very important from the standpoint of Russia, also, that they work out a treaty, they work out peace because they've been fighting a long time, too long. I think there's a really good chance that that will happen."
+          },
+          "context": {
+            "previous": "I think we feel that we can get along with Russia, and I think it's a good thing to get along with Russia. I campaigned on it, when I go into big stadiums, people like it. And, I think the Russian people would like to see it, too. A lot of good can come out of it. But, the purpose of NATO is that, but the purpose of NATO can be much more. And that's where we've shown the flexibility over the last period of two years. Speaker 14: () [French :36]. And I think the situation in Ukraine is very important.",
+            "next": "Also, with respect to nuclear weapons, I've spoken to President Putin, and I've communicated with him, and he very much wants to and so do we, work out a treaty of some kind on nuclear weapons. That will probably then include China at some point, and yourselves, by the way. But, it will include China and some other countries. But, we intend to see if we can work something out to stop the proliferation, to stop what's happening because we are making a lot, and we are renovating a lot."
+          }
+        }
+      ],
+      "Harris": [
+        {
+          "match_score": 0.71662164,
+          "metadata": {
+            "speaker": "Harris",
+            "speech_id": "052",
+            "title": "Vice President Harris Speaks at Peace Summit in Ukraine",
+            "date": "20240617",
+            "topics": "Foreign Policy"
+          },
+          "matched_segment": {
+            "segment_id": 5,
+            "text": "() President Zelensky, the United States shares your vision for the end of this war and an end to the suffering of the Ukrainian people. And let us all then commit to the imperative of returning innocent children kidnapped by Russia returning them to their homes. Let us also agree a practical benefit of the work of this Peace Summit is to increase global food and energy security. And let nothing about the end of this war be decided without Ukraine."
+          },
+          "context": {
+            "previous": "() If the world fails to respond when an aggressor invades its neighbor, other aggressors will undoubtedly become emboldened. It leads to the potential of a war of conquest and chaos, not order and stability, which threatens all nations. President Joe Biden and I will continue to support Ukraine and continue to impose costs on Russia, and we will continue to work toward a just and lasting peace based on the principles of the United Nations Charter and the will of the people of Ukraine.",
+            "next": "() By contrast, however, yesterday Putin put forward a proposal, but we must speak truth. He is not calling for negotiations. He is calling for surrender. America stands with Ukraine, not out of charity, but because it is in our strategic interest. We stand with delegations from more than 90 nations who also have a strategic interest in a just peace in Ukraine. Among us, no doubt, exists a diverse range of views on many of the global challenges and opportunities we face."
+          }
+        },
+        {
+          "match_score": 0.70820844,
+          "metadata": {
+            "speaker": "Harris",
+            "speech_id": "052",
+            "title": "Vice President Harris Speaks at Peace Summit in Ukraine",
+            "date": "20240617",
+            "topics": "Foreign Policy"
+          },
+          "matched_segment": {
+            "segment_id": 6,
+            "text": "() By contrast, however, yesterday Putin put forward a proposal, but we must speak truth. He is not calling for negotiations. He is calling for surrender. America stands with Ukraine, not out of charity, but because it is in our strategic interest. We stand with delegations from more than 90 nations who also have a strategic interest in a just peace in Ukraine. Among us, no doubt, exists a diverse range of views on many of the global challenges and opportunities we face."
+          },
+          "context": {
+            "previous": "() President Zelensky, the United States shares your vision for the end of this war and an end to the suffering of the Ukrainian people. And let us all then commit to the imperative of returning innocent children kidnapped by Russia returning them to their homes. Let us also agree a practical benefit of the work of this Peace Summit is to increase global food and energy security. And let nothing about the end of this war be decided without Ukraine.",
+            "next": "We don't always agree, however, regarding Putin's, unprovoked, unjustified war against Ukraine, there is unity and solidarity in support of international norms and rules. For President Joe Biden and me, it is one of our defining missions to uphold the international rules-based order, to defend it, strengthen it, and promote. And no doubt it must be a priority for us all. Thank you. Speaker 2"
+          }
+        },
+        {
+          "match_score": 0.66926384,
+          "metadata": {
+            "speaker": "Harris",
+            "speech_id": "052",
+            "title": "Vice President Harris Speaks at Peace Summit in Ukraine",
+            "date": "20240617",
+            "topics": "Foreign Policy"
+          },
+          "matched_segment": {
+            "segment_id": 7,
+            "text": "We don't always agree, however, regarding Putin's, unprovoked, unjustified war against Ukraine, there is unity and solidarity in support of international norms and rules. For President Joe Biden and me, it is one of our defining missions to uphold the international rules-based order, to defend it, strengthen it, and promote. And no doubt it must be a priority for us all. Thank you. Speaker 2"
+          },
+          "context": {
+            "previous": "() By contrast, however, yesterday Putin put forward a proposal, but we must speak truth. He is not calling for negotiations. He is calling for surrender. America stands with Ukraine, not out of charity, but because it is in our strategic interest. We stand with delegations from more than 90 nations who also have a strategic interest in a just peace in Ukraine. Among us, no doubt, exists a diverse range of views on many of the global challenges and opportunities we face.",
+            "next": null
+          }
+        },
+        {
+          "match_score": 0.65047485,
+          "metadata": {
+            "speaker": "Harris",
+            "speech_id": "028",
+            "title": "Vice President Harris and President Zelenskyy Speak to the Press Transcript",
+            "date": "20240218",
+            "topics": "Foreign Policy"
+          },
+          "matched_segment": {
+            "segment_id": 6,
+            "text": "And I do believe there is consensus within the United States Congress that the American leadership, elected leaders in the United States Congress must be unified in their opposition to Russia's aggression as indicated over the course of the last 2+ years and the last 24 hours. And I do believe also there is consensus within the United States Congress that we must use everything that is available to us to support Ukraine in its fight to become and to maintain itself as an independent and democratic nation."
+          },
+          "context": {
+            "previous": "And it is my full belief that were the supplemental packages security package to make it to the floor of the House of Representatives that it would actually pass. () I also believe that there is consensus across party lines in the United States Congress that recognizes the brutal nature of Moscow's aggression and that there must be a response that includes standing by our friends and supporting those who fight against that aggression.",
+            "next": null
+          }
+        },
+        {
+          "match_score": 0.64876175,
+          "metadata": {
+            "speaker": "Harris",
+            "speech_id": "052",
+            "title": "Vice President Harris Speaks at Peace Summit in Ukraine",
+            "date": "20240617",
+            "topics": "Foreign Policy"
+          },
+          "matched_segment": {
+            "segment_id": 4,
+            "text": "() If the world fails to respond when an aggressor invades its neighbor, other aggressors will undoubtedly become emboldened. It leads to the potential of a war of conquest and chaos, not order and stability, which threatens all nations. President Joe Biden and I will continue to support Ukraine and continue to impose costs on Russia, and we will continue to work toward a just and lasting peace based on the principles of the United Nations Charter and the will of the people of Ukraine."
+          },
+          "context": {
+            "previous": "() Russia's aggression is not only attack on the lives and the freedom of the people of Ukraine, it is not only an attack on global food security and energy supplies. Russia's aggression is also an attack on international rules and norms and the principles embodied in the UN Charter. Russia is a permanent member of the United Nations Security Council, nevertheless, for nearly two-and-a-half years, it has shamelessly violated the core tenets of that charter.",
+            "next": "() President Zelensky, the United States shares your vision for the end of this war and an end to the suffering of the Ukrainian people. And let us all then commit to the imperative of returning innocent children kidnapped by Russia returning them to their homes. Let us also agree a practical benefit of the work of this Peace Summit is to increase global food and energy security. And let nothing about the end of this war be decided without Ukraine."
+          }
+        }
+      ]
+    }
+  }
+}

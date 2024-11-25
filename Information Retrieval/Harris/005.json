@@ -1,0 +1,105 @@
+{
+  "query_id": "005",
+  "query_text": "Donald Trump got on the phone, called up some folks in Congress, and said kill the (border security)bill. ",
+  "query_topics": [
+    "Immigration",
+    "Government Policy"
+  ],
+  "results": {
+    "Donald Trump got on the phone, called up some folks in Congress, and said kill the (border security)bill. ": {
+      "Trump": [
+        {
+          "match_score": 0.68755066,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "377",
+            "title": "Trump Speaks at Event in Miami, Florida",
+            "date": "20241023",
+            "topics": "Economy, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 66,
+            "text": "Speaker 4 I just said, we're closing the border. He keeps talking about they keep bringing up a phony bill. The bill was horrible. 2 million people are allowed and it was a horrible bill, stupid bill, but it has nothing to do. As president, it's called extreme power, you have extreme power, you can just by the fact you say close the border and the border is closed. That's it. Very, very simple. You don't need all of this nonsense that they talked about."
+          },
+          "context": {
+            "previous": "They drive through, by the time they get to the destination, they open the trunk and they're dead, and this horrible incompetent person has allowed this to happen and never one time called anybody from the Border Patrol, they work for her and they work for him, and then they complain about a bill. It's a phony deal. It's a scam. There's no bill. I never had a bill. All you have to do as president, wake him up and say, Joe, we need you to say close the border. That's what I did.",
+            "next": "() But the truth is, for some reason, and I can't figure it out, for some reason, they want open borders. Nobody's been able to tell me why. I don't think they can tell you why. They just want open borders. So we have to win the election. I'm so glad you brought up, you said 300, but the number's actually 325. I'll give you a number that's really bad too. So the Border Patrol, because they've had it, they've never done this before."
+          }
+        },
+        {
+          "match_score": 0.65656924,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "344",
+            "title": "Trump Rally at Coachella",
+            "date": "20241013",
+            "topics": "Economy, Immigration, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 47,
+            "text": "We wondered, what were all those airplanes doing flying into our country? That's how we found them. We had like hundreds of planes flying over the border. They say, \"We're going to make the border tougher.\" How about she said, \"Oh, we had a good border bill, but Trump talked Congress out of it.\" I didn't talk anybody out. The bill was defective. It was terrible. Millions of people would've come in and would've been made citizens, but that's not the point."
+          },
+          "context": {
+            "previous": "A few years ago, one study found that one in four students in LA County schools was from an illegal immigrant-headed household. And after four years of Kamala Harris, the number is now a much higher number than that. Think of that. They come in by the thousands a day, thousands and thousands all over the country. And you've heard the expression, every state is now a border state. They fly them over. That's the one thing nobody knew. () It even took me a little while to figure out one out.",
+            "next": "The point is they slowed it down so the numbers looked a little bit better, not much. But what they didn't do is stop airplanes from pouring in with thousands of people. Hundreds of thousands of people a year are flown into the middle of our country. In other words, they're sick, and that's what they want. () That's their policy. They were trying to convince us, yes... All of a sudden she said, \"Yes, we can do...\" For three and a half years. Think of this. She was saying the other day, \"Yes."
+          }
+        },
+        {
+          "match_score": 0.6426469,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "113",
+            "title": "Donald Trump Delivers Speech in South Carolina",
+            "date": "20240212",
+            "topics": "Immigration, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 11,
+            "text": "This is the worst border plan I've ever seen. You don't need a bill or a plan. All you have to do as president is say, \"Shut the border,\" like I did. I said, \"Shut the border.\" You don't need bills and plans. () Would have allowed millions of illegal aliens a year flooding unchecked across our borders. Virtually unlimited number of illegals from countries such as Somalia, the Congo, Libya, Yemen and Iran. A lot of people coming in from Iran, a lot of people coming from China, a lot of people coming from Russia."
+          },
+          "context": {
+            "previous": "I mean, this is a big place and all, but I think you have four or five times the number of people outside. You can't get them in. Would anybody like to give up their place? No? No, Vernon? The answer is no. We have big screens outside. I made a little, short speech, but we're going to have to come back and maybe use the airport, do something. But we got to get everybody. We got to get everybody in. But among other travesty, Biden's horrendous border plan would have allowed millions and millions...",
+            "next": "It's interesting. They're coming from these places. Sadly, I don't want to say this to the women, I don't want to insult the women, but there are very few women coming in. They're almost all men, 18 to 25. That means fighting age. That's fighting age. So they have something planned and we're not going to stand for it. They are destroying our country, this group of fascists. They're destroying our country. They talk about democracy. Biden is bad for democracy because he's grossly incompetent."
+          }
+        },
+        {
+          "match_score": 0.632928,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "249",
+            "title": "Donald Trump Charlotte, North Carolina Rally Transcript: Trump Holds Rally Before Super Tuesday",
+            "date": "20200302",
+            "topics": "Economy, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 63,
+            "text": "He's building the wall, but Mexico's not paying for it.\" Yes, they are. You'll see. You'll see. You understand. Some of you understand because I told a few people last week, it got linked to the fake news media. If you want to end sanctuary cities in North Carolina and across America, then you have only one choice. You must vote Republican. You have to. You have to. Thanks to our tireless efforts to secure the border, we reduced illegal border crossings by a staggering 75% since last [inaudible :29]."
+          },
+          "context": {
+            "previous": "All it means is you're not able to climb over it. It is very tough. I don't know if you saw. In a part of the wall, a couple of weeks ago, they were climbing the wall, and the fire department had to come and take them down. That's what the no climb is. That's what the no climb is. It's a no climb. It's more money. It's a little more expensive. Thank you. Who is that? What a voice. Pavarotti. So, we're building the wall. It's going great. So, they said, \"All right.",
+            "next": "We've added catch and release, one of the worst loopholes you've ever seen, catch and release. You catch them. You then say, \"Where do you live?\" They don't know because look, let's face it, they don't know. I understand that. It's not even to be laughed at. They don't know. \"Where do you live?\" I don't know. Mexico, maybe, Honduras, Guatemala, who knows? El Salvador. \"Where do you live?\" Like this guy, he's a Mexican. You're about as Mexican as I am. Look at this guy. He's as Mexican as I am. Look at that hat."
+          }
+        },
+        {
+          "match_score": 0.63218415,
+          "metadata": {
+            "speaker": "Trump",
+            "speech_id": "093",
+            "title": "Trump Speaks at Alabama GOP Dinner after New Indictment Transcript",
+            "date": "20230807",
+            "topics": "Immigration, Government Policy"
+          },
+          "matched_segment": {
+            "segment_id": 44,
+            "text": "Trump was right about everything, actually.\" () I will immediately terminate every open borders policy of the Biden administration. What's happening on our border is unthinkable. We had the safest border in the history of our country, and now we have the most unsafe border, I think, anywhere in the world. There's never been anything like it. No third world country would have a border like that. They'd fight people with sticks and stones if they had to."
+          },
+          "context": {
+            "previous": "() We will gain total independence from China, and I will hold the Chinese Communist Party accountable for unleashing the China virus upon the world. It's estimated they can't pay it. Nobody can pay it, $60 trillion in damages and the death, the death, the millions and millions of people all over the world, the damage they did. I always said it came from the Wuhan lab, and it did. It came from the Wuhan lab. They said the other day, \"Trump was right about that one, too.",
+            "next": "Under Biden, other countries are emptying out their prisons and insane asylums and mental institutions and dumping everyone, including terrorists, into the United States of America. () Many terrorists are coming in. Their prisons are emptying out all over the world, not just the three or four countries that we consider more or less neighbors. Guatemala. Guatemala's a very small prison population. El Salvador, very small. Mexico, very small. They're emptying them out."
+          }
+        }
+      ],
+      "Harris": []
+    }
+  }
+}
