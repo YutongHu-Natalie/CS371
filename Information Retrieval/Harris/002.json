@@ -190,7 +190,10 @@
             "next": "Under my plan, more than 100 million Americans will get a middle-class tax break that includes $6,000 for new parents during the first year of their child's life to help families cover everything from car seats to cribs. We'll also cut the cost of child care and elder care. And finally give all working people access to paid leave, which will help everyone caring for children, caring for aging parents, and that sandwich generation, which is caring for both. () So I have a personal experience with caregiving."
           }
         }
-      ]
+      ],
+      "Trump_avg_score": 0.7238,
+      "Harris_avg_score": 0.685,
+      "Combined_avg_score": 0.7044
     }
   }
 }

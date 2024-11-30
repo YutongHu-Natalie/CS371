@@ -155,7 +155,10 @@
             "next": "Think about that. (:55) Well, Tim and I have a message for Trump and others who want to turn back the clock on our fundamental freedoms: we're not going back. We're not going back. We're not going back. We're not going back. We're not going back. We're not going back. And so let me say, about Tim Walz, he has shown up to stand against these attacks long before he stood on the stage with me."
           }
         }
-      ]
+      ],
+      "Trump_avg_score": 0.7409,
+      "Harris_avg_score": 0.6372,
+      "Combined_avg_score": 0.702
     }
   }
 }

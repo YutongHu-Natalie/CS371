@@ -190,7 +190,10 @@
             "next": "The crises we are dealing with. The crisis from this pandemic that is this economic crisis. Where over 30 million Americans, in just the last several months, had to file for unemployment insurance. Where here in Texas, we're looking at one in ten families that has described their household as being hungry. Where here in Texas, one in six households is finding it difficult, if not impossible, to pay rent."
           }
         }
-      ]
+      ],
+      "Trump_avg_score": 0.6654,
+      "Harris_avg_score": 0.6908,
+      "Combined_avg_score": 0.6781
     }
   }
 }

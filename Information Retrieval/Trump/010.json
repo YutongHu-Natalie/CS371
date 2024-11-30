@@ -136,7 +136,10 @@
             "next": "And we remember that generations of Americans before us led the fight for freedom. And now the baton is in our hands. Now it's in our hands. It's in our hands. And so much is on the line in this election. And this is not 2016 or 2020. The stakes are even higher, because remember two months ago, the United States Supreme Court basically told the former President that he will effectively be immune no matter what he does in the White House. But think about that. Think about what that means."
           }
         }
-      ]
+      ],
+      "Trump_avg_score": 0.7849,
+      "Harris_avg_score": 0.6072,
+      "Combined_avg_score": 0.7341
     }
   }
 }

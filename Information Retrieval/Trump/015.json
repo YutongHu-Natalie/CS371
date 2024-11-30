@@ -118,7 +118,10 @@
             "next": "() By contrast, Donald Trump, when he was president, has been described by one of the nation's leading experts on small businesses in a piece he published in a major paper as not being good for small businesses. In fact, the title... The title... Wait, because I'm bearing the lead right now. One of the leading experts on small businesses published a piece in one of the major newspapers, and the title, I'm going to quote, Does Donald Trump Hate Small Businesses? And their answer was yes. Their answer was yes."
           }
         }
-      ]
+      ],
+      "Trump_avg_score": 0.7959,
+      "Harris_avg_score": 0.6021,
+      "Combined_avg_score": 0.7636
     }
   }
 }

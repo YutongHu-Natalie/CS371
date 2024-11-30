@@ -136,7 +136,10 @@
             "next": "We are dealing with an economic crisis, of a proportion that parallels the Great Depression. Over 30 million people in the last several months had to file for unemployment. One in five mothers is describing her children under the age of 12 as being hungry in America. We are in the midst of a hunger crisis. People aren't talking enough about that. Here in Texas, 1 in 10 households is describing members of their family as having been hungry. One in six households is describing an inability to pay the rent."
           }
         }
-      ]
+      ],
+      "Trump_avg_score": 0.7234,
+      "Harris_avg_score": 0.6326,
+      "Combined_avg_score": 0.6975
     }
   }
 }

@@ -62,7 +62,9 @@
           }
         }
       ],
-      "Harris": []
+      "Harris": [],
+      "Trump_avg_score": 0.6174,
+      "Combined_avg_score": 0.6174
     }
   }
 }

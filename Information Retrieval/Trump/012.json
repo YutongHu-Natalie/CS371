@@ -189,7 +189,10 @@
             "next": "() President Zelensky, the United States shares your vision for the end of this war and an end to the suffering of the Ukrainian people. And let us all then commit to the imperative of returning innocent children kidnapped by Russia returning them to their homes. Let us also agree a practical benefit of the work of this Peace Summit is to increase global food and energy security. And let nothing about the end of this war be decided without Ukraine."
           }
         }
-      ]
+      ],
+      "Trump_avg_score": 0.687,
+      "Harris_avg_score": 0.6787,
+      "Combined_avg_score": 0.6828
     }
   }
 }
