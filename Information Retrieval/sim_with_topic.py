@@ -40,7 +40,7 @@ class SpeechSearcher:
         except Exception:
             return None
 
-    def search(self, query: str, speaker: Optional[str] = None, topics: Optional[List[str]] = None, top_k: int = 5) -> Tuple[
+    def search(self, query: str, speaker: Optional[str] = None, topics: Optional[List[str]] = None, top_k: int = 3) -> Tuple[
         List[Dict[str, Any]], List[float]]:
         """
         Perform similarity search and return results with immediate context.
@@ -172,7 +172,7 @@ def main():
         # Get search query
         query = input("\nEnter your search query: ")
 
-        results, all_scores = searcher.search(query, speaker=selected_speaker, topics=topics, top_k=5)
+        results, all_scores = searcher.search(query, speaker=selected_speaker, topics=topics, top_k=3)
 
         # Provide feedback based on search results
         if not results:
