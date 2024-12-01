@@ -17,21 +17,20 @@ def calculate_precision(df):
     features = df.iloc[:, :-1]
     target = df.iloc[:, -1]
 
-    precision_scores = {}
+    precision_scores = []
 
     for column in features.columns:
-        precision = precision_score(
-        target, features[column], average="weighted", zero_division=0
-    )
-        precision = round(precision, 3)
-        precision_scores[column] = precision
+        weighted = precision_score(target, features[column], average="weighted", zero_division=0)
+        macro = precision_score(target, features[column], average="macro", zero_division=0)
+        precision_scores.append((column, round(weighted, 3), round(macro, 3)))
 
-    precision_df = pd.DataFrame(
-    list(precision_scores.items()), columns=["Column", "Precision"]
-)
+    precision_df = pd.DataFrame(precision_scores, columns=["Column", "Weighted Precision", "Macro Precision"])
     print(precision_df)
 
+
+print("Harris")
 calculate_precision(harris)
 print("\n")
 print("----------------")
+print("Trump")
 calculate_precision(trump)
