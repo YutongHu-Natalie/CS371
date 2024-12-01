@@ -1,145 +1,68 @@
 {
   "query_id": "010",
-  "query_text": " include working with the private sector and home builders to increase 3 million homes by the end of my first term.",
+  "query_text": "I will be a President that will protect our fundamental rights and freedoms including the right of a woman to make decisions about her own body and not have her government tell her what to do. ",
   "query_topics": [
-    "Economy",
+    "Healthcare",
+    "Social Justice",
     "Government Policy"
   ],
+  "speaker": "Harris",
   "results": {
-    " include working with the private sector and home builders to increase 3 million homes by the end of my first term.": {
-      "Trump": [
-        {
-          "match_score": 0.672479,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "430",
-            "title": "Donald Trump Rally in Arizona",
-            "date": "20240915",
-            "topics": "Economy, Government Policy, Social Justice"
-          },
-          "matched_segment": {
-            "segment_id": 77,
-            "text": "I understand the problem and I will fix it. I know how to fix it. Nobody else is going to figure it out. My objective will be to cut the cost of building a new home by 30 to 50%, and much of it is regulation. () And in addition, we will open, and this is your great people in this state that are asking me so many times, so many people are asking me to do this. We will open up new tracts of federal land for large-scale housing construction so that we can get housing on the market."
-          },
-          "context": {
-            "previous": "() Upon taking office, I will also sign an executive order directing the immediate termination of every single unnecessary rule that is impeding housing construction and driving up the cost of housing. Government regulations are responsible for more than 25% of the cost of a new single-family home and 40% of the cost of multifamily homes. Think of it. Regulations costing 40% of the cost, and it takes you years to get it done. We're going to end all of that. I have been a builder my entire life.",
-            "next": "About 18% of all land in Arizona is owned by the Bureau of Land Mismanagement. It's actually management. Mismanagement. I have to be careful because with the fake news media, I can go a whole speech. I can go a whole speech, stand up here largely without a teleprompter. I don't read them most of the time, because you'd find it very boring when you read teleprompters. Run, spot, run. Remember I said that? But I could go a whole day. I could go stand up here, talk to you for two hours."
-          }
+    "I will be a President that will protect our fundamental rights and freedoms including the right of a woman to make decisions about her own body and not have her government tell her what to do. ": [
+      {
+        "match_score": 0.75970286,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "112",
+          "title": "Harris Rally in Wisconsin",
+          "date": "20240923",
+          "topics": "Economy, Social Justice, Veterans Affairs"
         },
-        {
-          "match_score": 0.66960406,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "430",
-            "title": "Donald Trump Rally in Arizona",
-            "date": "20240915",
-            "topics": "Economy, Government Policy, Social Justice"
-          },
-          "matched_segment": {
-            "segment_id": 76,
-            "text": "() Upon taking office, I will also sign an executive order directing the immediate termination of every single unnecessary rule that is impeding housing construction and driving up the cost of housing. Government regulations are responsible for more than 25% of the cost of a new single-family home and 40% of the cost of multifamily homes. Think of it. Regulations costing 40% of the cost, and it takes you years to get it done. We're going to end all of that. I have been a builder my entire life."
-          },
-          "context": {
-            "previous": "We will slash the cost of heating, air conditioning, gasoline, electricity, and by bringing down the price of energy, we will defeat inflation and reduce the prices which are through the roof right now. People can't afford cereal. You got to see, it's so sad when you see people being interviewed and they buy three apples and they walk away from the cashier and they bring an apple back because they can't afford it, and it happens all the time.",
-            "next": "I understand the problem and I will fix it. I know how to fix it. Nobody else is going to figure it out. My objective will be to cut the cost of building a new home by 30 to 50%, and much of it is regulation. () And in addition, we will open, and this is your great people in this state that are asking me so many times, so many people are asking me to do this. We will open up new tracts of federal land for large-scale housing construction so that we can get housing on the market."
-          }
+        "matched_segment": {
+          "segment_id": 26,
+          "text": "And when Congress passes the bill to restore reproductive freedom, as President of the United States, I will proudly sign it into law. Proudly. And across our nation, we are witnessing a full-on assault on other hard-fought, hard-won fundamental rights and freedoms like the freedom to vote, the freedom to be safe from gun violence, the freedom to join a union, the freedom to love who you love openly and with pride. () So we know what we are up against. We are clear-eyed about what we are up against."
         },
-        {
-          "match_score": 0.6463969,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "365",
-            "title": "Donald Trump Rally Transcript Prescott, Arizona October 19",
-            "date": "20201019",
-            "topics": "Healthcare"
-          },
-          "matched_segment": {
-            "segment_id": 90,
-            "text": "Under my administration, we built the greatest economy of the history of the world, and now we're doing it again. It's make America great again, right? Now I go, \"Make America great again, again. Make it great again, again.\" That's what we're doing. We're way ahead of schedule. In my first three years, we increased family income by over $6,000, more than five times ... Think of this. Five times the gain. We were actually more than that. More than five times the gain, in all eight years under the last administration."
-          },
-          "context": {
-            "previous": "In the final, he had to wrestle the Russian, who was supposed to be unbeatable, but he was supposed to be unbeatable too. He beat the Russian and never allowed a point. He went through the entire schedule and never allowed one point. Think about that. He won the Olympic Gold Medal and Dan Gable is now getting the Presidential Medal of Freedom. He's coming to the White House. That's pretty cool. Thank you, Jim.",
-            "next": "Five times a gain, in a much shorter period of time. African-American unemployment, and Hispanic-American unemployment, and Asian-American unemployment. Think of that. We all reached the lowest levels in the history of our country. African-American, Asian- American, Hispanic-American. We lifted 6- ... Asian American, Hispanic American. We lifted 6.6 million Americans out of poverty, including more than 1.5 million Hispanic Americans who are liking Trump a lot. I like you too."
-          }
-        },
-        {
-          "match_score": 0.64524645,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "127",
-            "title": "Donald Trump State of the Union Speech Transcript: February 4, 2020",
-            "date": "20200204",
-            "topics": "Economy, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 4,
-            "text": "From the instant I took office, I moved rapidly to revive the US economy, slashing a record number of job killing regulations, enacting historic and record setting tax cuts, and fighting for fair and reciprocal trade agreements. Our agenda is relentlessly pro-worker, pro-family, pro-growth, and most of all pro-American. Thank you. We are advancing with unbridled optimism and lifting our citizens of every race, color, religion and creed very, very high."
-          },
-          "context": {
-            "previous": "And for all of these reasons I say to the people of our great country and to the members of Congress, the state of our union is stronger than ever before. The vision I will lay out this evening demonstrates how we are building the world's most prosperous and inclusive society. One where every citizen can join in America's unparalleled success and where every community can take part in America's extraordinary rise.",
-            "next": "Since my election, we have created 7 million new jobs, 5 million more than government experts projected during the previous administration. The unemployment rate is the lowest in over half a century. And very incredibly, the average unemployment rate under my administration is lower than any administration in the history of our country. If we hadn't reversed the failed economic policies of the previous administration, the world would not now be witnessing this great economic success."
-          }
-        },
-        {
-          "match_score": 0.63906574,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "348",
-            "title": "Donald Trump Addresses Economic Club of New York Transcript October 14",
-            "date": "20201014",
-            "topics": "Economy, Healthcare, Social Justice"
-          },
-          "matched_segment": {
-            "segment_id": 4,
-            "text": "Income for black Americans grew nine times more under my leadership, than during the eight years before I took office. Their policies punish American workers, my policies promote American workers. At the end of the last administration, the Congressional Budget Office projected fewer than 2 million jobs would be created in three years. Well, we did a little bit better than that. We created 7 million, and actually it'll be close to 8 million jobs by the time the final numbers came in."
-          },
-          "context": {
-            "previous": "When I joined you in-person last year, our nation was enjoying the greatest economy in history. There was nothing like it. This was a stark contrast to the prior administration, which delivered the weakest recovery since the Great Depression. It was weak, and it was sad. In my first three years, real income for the typical family increased $6,000, more than five times the gains during the entire previous administration. Think of that. Five times the gains.",
-            "next": "We lifted 6.6 million people out of poverty, achieving the largest poverty reduction in modern U.S history. Poverty rates for our African Americans and Hispanic Americans reached record lows. Inequality declined dramatically, a complete reversal of the Obama years. My policies that benefited those who need it the most. The bottom 50% of households saw an astonishing 40% increase in net worth. Wages rose the fastest for blue collar workers, African American, Hispanic American, Asian American."
-          }
+        "context": {
+          "previous": "And she was so proud that she had worked so hard and she was finally gaining independence, that she found an apartment in a safe community. It had a little pool where her son could play. This is one example of what is happening around our country right now. And this is a healthcare crisis. And Donald Trump is the architect. So I will say to you, because of why we are here, we're going to get Tammy re-elected to the United States Senate.",
+          "next": "And we remember that generations of Americans before us led the fight for freedom. And now the baton is in our hands. Now it's in our hands. It's in our hands. And so much is on the line in this election. And this is not 2016 or 2020. The stakes are even higher, because remember two months ago, the United States Supreme Court basically told the former President that he will effectively be immune no matter what he does in the White House. But think about that. Think about what that means."
         }
-      ],
-      "Harris": [
-        {
-          "match_score": 0.6711364,
-          "metadata": {
-            "speaker": "Harris",
-            "speech_id": "115",
-            "title": "Harris Speech in Pittsburgh",
-            "date": "20240926",
-            "topics": "Economy, Healthcare, Government Policy, Veterans Affairs"
-          },
-          "matched_segment": {
-            "segment_id": 10,
-            "text": "And one of those, some would argue one of the biggest, is the cost of housing. So here's what we will do. We will cut the red tape that stops homes from being built and take on in addition, corporate landlords who are hiking rental prices. And we will work with builders and developers to construct 3 million new homes and rentals for the middle class because increasing the housing supply will help drive down the cost of housing."
-          },
-          "context": {
-            "previous": "And when we lower the cost and ease the burdens people face, we will not only make it then easier for them to meet their obligations as caregivers, we will also make it more possible for them to go to work, and pursue their economic aspirations. And when that happens, our economy as a home, grows stronger. () Now, middle class tax cuts are just the start of my plan. We will also go after the biggest drivers of cost for the middle class and work to bring them down.",
-            "next": "We will also help first-time home buyers just get their foot in the door with the $25,000 down payment assistance. Because the goal is clear, let's help more Americans afford to buy a home, which we know is a critical step in their ability to grow their wealth and intergenerational wealth. () And we will work to reduce other big costs for middle class families. We will take on bad actors who exploit emergencies and drive up grocery prices by enacting the first ever federal ban on corporate price gouging."
-          }
+      },
+      {
+        "match_score": 0.6721225,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "020",
+          "title": "Harris and Walz Hold First Rally",
+          "date": "20240807",
+          "topics": "Economy, Healthcare, Education, Social Justice, Gun Control, Veterans Affairs"
         },
-        {
-          "match_score": 0.6162433,
-          "metadata": {
-            "speaker": "Harris",
-            "speech_id": "115",
-            "title": "Harris Speech in Pittsburgh",
-            "date": "20240926",
-            "topics": "Economy, Healthcare, Government Policy, Veterans Affairs"
-          },
-          "matched_segment": {
-            "segment_id": 5,
-            "text": "I believe an active partnership between government and the private sector is one of the most effective ways to fully unlock economic opportunity. And that is what I'll do when I'm president. I will target the major barriers to opportunity and remove them. We will identify common sense solutions to help Americans buy a home, start a business, and build wealth, and we will adopt them. () So let's start then with the first pillar of an opportunity economy, which is lowering costs."
-          },
-          "context": {
-            "previous": "For 500 heart-pounding miles, these fierce competitors will chase the checkered flag, fight for the Harley J. Earl trophy, and make their play for pure American glory. And that's what it is, pure American glory. As we wait for the green flag, we give thanks to this beloved country, for the heroes who keep us safe, and for the God who made us free. To all of the drivers, technicians, and pit crews here today, good luck and may the best team win. God bless you. God bless our military.",
-            "next": "So I made that our top priority for obvious reasons, because if we want the middle class to be the growth engine of our economy, we need to restore basic economic security for middle-class families. To that end, the most practical thing we can do right now, is to cut taxes for middle-class families and individuals. And that's what we'll do."
-          }
+        "matched_segment": {
+          "segment_id": 20,
+          "text": "After Roe was overturned, he was the first governor in the country to sign a new law that enshrined reproductive freedom as a fundamental right. And with Tim Walz by my side, when I am President of the United States and we win majorities in the United States Congress, we will pass a bill to restore reproductive freedom, and I will properly sign it into law. (:28) Tim Walz has also defended the sacred freedom to vote."
+        },
+        "context": {
+          "previous": "Think about that. (:55) Well, Tim and I have a message for Trump and others who want to turn back the clock on our fundamental freedoms: we're not going back. We're not going back. We're not going back. We're not going back. We're not going back. We're not going back. And so let me say, about Tim Walz, he has shown up to stand against these attacks long before he stood on the stage with me.",
+          "next": "As Governor, he signed the most significant expansion of voting rights in Minnesota in over 50 years. And with Governor Walz's help when I am President, we are going to finally pass the John Lewis Voting Rights Act and the Freedom to Vote Act. We're going to get it done. So Tim is a hunter and a gun owner who believes, as the majority of gun owners do that, we need reasonable gun safety laws in America. So as governor, he expanded background checks and increased penalties for illegal firearm sales."
         }
-      ],
-      "Trump_avg_score": 0.6546,
-      "Harris_avg_score": 0.6437,
-      "Combined_avg_score": 0.6515
-    }
+      },
+      {
+        "match_score": 0.62870884,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "052",
+          "title": "Vice President Harris Speaks at Peace Summit in Ukraine",
+          "date": "20240617",
+          "topics": "Foreign Policy"
+        },
+        "matched_segment": {
+          "segment_id": 1,
+          "text": "On that same day, I addressed the Munich Security Conference and made clear that the United States of America is a steadfast supporter of the principles, that people have a right to choose their own form of government, nations have a right to choose their own alliances. There are inalienable rights governments must protect. The rule of law must be cherished. Sovereignty and territorial integrity of all states must be respected. And national borders should not be changed by force."
+        },
+        "context": {
+          "previous": "Thank you. Thank you, President Amherd and President Zelensky for hosting the summit. It is my honor to be here with all of the leaders today. () I first met President Zelensky in February of 2022, just five days before Russia invaded Ukraine, an outrageous attempt to subjugate a free people and an attempt to wipe a sovereign state off the map.",
+          "next": "() As I discussed with President Zelensky earlier today, President Biden and I have made clear over the past three years we are committed to uphold international rules and norms, to defend democratic values and stand up to dictators, and to stand with our allies and partners. This approach has provided for our security and prosperity for generations, and it continues to do so today. This approach makes America strong and it keeps Americans safe, and this approach bolsters global stability."
+        }
+      }
+    ]
   }
 }

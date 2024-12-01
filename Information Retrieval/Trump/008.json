@@ -1,108 +1,66 @@
 {
   "query_id": "008",
-  "query_text": "I ended the Nord Stream 2 pipeline and Biden put it back on day one but he ended the XL pipeline. The XL pipeline in our country. He ended that. But he let the Russians build a pipeline going all over Europe and heading into Germany. The biggest pipeline in the world. Look, Viktor Orban said it. He said the most respected, most feared person is Donald Trump. We had no problems when Trump was President.",
+  "query_text": "the FBI defraud--they were defrauding statements(that violent crimes come down). They didn't include the worst cities. They didn't include the cities with the worst crime. It was a fraud.",
   "query_topics": [
-    "Foreign Policy",
-    "Infrastructure",
     "Government Policy"
   ],
+  "speaker": "Trump",
   "results": {
-    "I ended the Nord Stream 2 pipeline and Biden put it back on day one but he ended the XL pipeline. The XL pipeline in our country. He ended that. But he let the Russians build a pipeline going all over Europe and heading into Germany. The biggest pipeline in the world. Look, Viktor Orban said it. He said the most respected, most feared person is Donald Trump. We had no problems when Trump was President.": {
-      "Trump": [
-        {
-          "match_score": 0.8295492,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "326",
-            "title": "Donald Trump at \u201cCommit to Caucus\u201d Event in Iowa",
-            "date": "20231120",
-            "topics": "Economy, Immigration, Foreign Policy, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 30,
-            "text": "Which by the way, I stopped his pipeline in Europe. You know that, right? They said, \"Oh, Trump was weak on Russia.\" Putin said to me, \"If you're weak on Russia, I'd hate like hell to see a strong guy.\" I stopped his pipeline and Biden then approved it when Putin said, \"You got to approve it.\" And Biden approved it, but I don't know how many people know. It's called Nord Stream 2. Nobody ever heard of it until I came along."
-          },
-          "context": {
-            "previous": "And the happiest person anywhere in this country right now is Jimmy Carter, because his administration looked brilliant compared to these clowns. It looked brilliant. Jimmy Carter was compared to Biden. Jimmy Carter was a brilliant, brilliant president, and I was never a big fan. He was a brilliant president. () There's never been a president like this. This guy's the worst. Every voter needs to ask themselves, who do you want to have sitting across the table from President Xi or President Putin?",
-            "next": "I said, \" They're building a pipeline to Germany and going to take care of all of Europe,\" and we're defending Europe with NATO where we spent a lot more. () But what I did is I cut it back and I got everybody to now pay because most of them weren't paying. A little thing that the press never likes reporting on. But I ended the pipeline. The biggest thing they ever did. There's nothing bigger than what they did building this massive pipeline. I stopped it."
-          }
+    "the FBI defraud--they were defrauding statements(that violent crimes come down). They didn't include the worst cities. They didn't include the cities with the worst crime. It was a fraud.": [
+      {
+        "match_score": 0.76127505,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "064",
+          "title": "Vance and Trump rally in Asheboro, NC",
+          "date": "20240822",
+          "topics": "Economy, Government Policy"
         },
-        {
-          "match_score": 0.81242114,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "225",
-            "title": "Donald Trump Wellington, Ohio Rally Speech Transcript: First Rally Since Leaving Office",
-            "date": "20210627",
-            "topics": "Economy, Immigration, Education, Foreign Policy, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 62,
-            "text": "Instead, Biden is going to drive our economy and our country into ruin. Biden canceled the American Keystone XL pipeline and its 48,000 jobs for American workers. But he approved the Russian pipeline to Europe. That's great. Remember they said, \"Oh Trump, isn't tough on Russia.\" Really? I stopped the pipeline to Europe. I sanctioned them all over the place, and I had a good relationship with Putin, but that's a good thing. That's not a bad thing. That's a good thing. That's not bad. View that as good."
-          },
-          "context": {
-            "previous": "Take off those tariffs. Take off the taxes that we charged them. When the virus arrived, we produced three vaccines in record time, they said it would take three years to five years. We got it done in less than nine months. Record, record, record time. And we launched the fastest economic recovery anyone has ever seen. We really built the economy twice if you think about it. We built it twice. We set Joe Biden up so beautifully. All he had to do is go to the beach, Joe, go to the beach. Would have been so good.",
-            "next": "And frankly had a great relationship also with President Xi of China, until we got hit with the virus. And then I couldn't look at him quite the same way. Right? You can understand that. And we made a great trade deal that's helping the manufacturers and the farmers like never before. Farmers have never done better because China is living up to that trade deal because they really sort of have to. It's a tough deal, and we got it done, and a lot of people are benefiting. If you look at North Korea, right?"
-          }
+        "matched_segment": {
+          "segment_id": 16,
+          "text": "No, they lied about the crime numbers. The crime numbers, it didn't look bad. Then they found out that many of the worst places weren't included in the numbers, and that was done by the FBI, which is sad. (:07) Four years ago, our country was strong and respected like never before. Our allies admired us. Our enemies feared us because everyone knew that as an American president, I was all about putting America first. That's true."
         },
-        {
-          "match_score": 0.8056158,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "120",
-            "title": "Trump Town Hall on The Ingraham Angle 2/20/24 Transcript",
-            "date": "20240221",
-            "topics": "Foreign Policy, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 36,
-            "text": "That's the biggest deal ever in the history of Russia. They're going to supply Europe with oil and gas. I ended it. Biden comes in and he vetoed what I had done. It was done. Nord Stream 2 was done and he approved it, but he ended the Keystone Pipeline, which is our pipeline, which should have been approved. When people say that about Russia, and Putin would even say to me, he said, \"You Donald J. You treat us very bad. I had sanctions on Russia that nobody's ever put there before. In fact, Biden took them off."
-          },
-          "context": {
-            "previous": "You know with them, it's all misinformation. Everything is dis and miss, little difference, dis and misinformation. I went in, got in, and I stopped Nord Stream 2. Most people don't know what that, that's the Russian pipeline, the most important economic deal plus. I call it economic plus, much more than economic, ever. I stopped it. I told Germany, \"You're not having it.\" I told all of Europe, \"You're not having it. Anybody that wants to have it, they're not dealing with you.\" I ended it.",
-            "next": "It's just misinformation. Anybody that walked in and ended and remember this: Putin took land from every president of our last five except for one, me. And now he's going for the big one. He's going for all of Ukraine. He's going for all of Ukraine, not just a little piece. He's going for all, and that's under Biden. It's happening here. Well, Navalny is a very sad situation and he's very brave. He was a very brave guy because he went back, he could have stayed away."
-          }
-        },
-        {
-          "match_score": 0.8030281,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "465",
-            "title": "Trump Rally in Georgia",
-            "date": "20240925",
-            "topics": "Economy, Foreign Policy"
-          },
-          "matched_segment": {
-            "segment_id": 58,
-            "text": "He terminated our pipeline, but he approved the Russian pipeline, Nord Stream 2 going all over Europe, heading to Germany, but going all over Europe. I just said, \"What the hell is going on?\" () This was early on. This is in the first weeks of his administration. I said, \"What's going on?\" Then they say, so think of it. I terminated the Russian pipeline, and then they said Donald Trump was very friendly with Russia. That was the biggest thing that they've ever done, and I terminated it."
-          },
-          "context": {
-            "previous": "ANWR in Alaska, the biggest field probably in the world, maybe bigger than Saudi Arabia. I got it done. I was so proud of it. I got it done. In his first week, they terminated it. The biggest field anywhere in the world that would supply Asia, we'd make so much money, we'd pay down debt so fast and Biden rejected it. () When I terminated the Russian pipeline, Nord Stream 2, Biden approved it, but he terminated our pipeline, which is Nord Stream. The Nord Stream is the Russia, which is Keystone, the Keystone XL.",
-            "next": "() When he came in, one of the first things he did is he approved the pipeline that I terminated and they say I was nice. That was the biggest... Putin told me, \"If you are like this, I would hate like hell to see if you were bad. They say that you've been nice to me. You have not been nice to me,\" with all the sanctions. We had the fake Russia, Russia, Russia hoax, which by the way, endangers our country when they do that. It turned out to be a total fake. Endangers."
-          }
-        },
-        {
-          "match_score": 0.79165494,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "213",
-            "title": "Donald Trump Campaign Rally in Racine, Wisconsin",
-            "date": "20240620",
-            "topics": "Economy, Immigration, Foreign Policy, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 49,
-            "text": "And Putin actually said, they say that you and I are friends. I'd hate to see you as an enemy. You stopped my pipeline. It was stopped going to Germany, going all over Europe, and Biden immediately approved it, but he killed our pipeline. He stopped our pipeline, the Keystone XL, 48,000 jobs. () He stopped our pipeline. Biden and his party are hell-bent on legalizing every single Biden migrant who has violated our borders, dumping millions of people onto Medicare and social security, and even Obamacare."
-          },
-          "context": {
-            "previous": "They put my speech up, but they took phrases out like peacefully and patriotically. And these are very dishonest people. I say we have problems from the outside and problems from within, and I really believe that you have a smart president. I had no problem with China. I had no problem with Russia. I stopped Russia. Russia would've never gone into Ukraine. I stopped their pipeline going into Germany, which Biden immediately approved, the first week that he was there, he approved it.",
-            "next": "By the way, all of these people going on to social security, Medicare, Obamacare, whatever you want to call it, it's going to destroy all of them. It is not going to be able, it's not sustainable. They're going to ruin your social security. This guy's killing your social security. Biden and the Democrats are wheeling granny off the cliff to give benefits to illegal aliens. They're giving the benefits to the illegals."
-          }
+        "context": {
+          "previous": "Maybe none. They don't talk about the border. Our great border czar doesn't talk about the border, but they mentioned me more than any other category. I'm now a category. They had me down today as a category. (:38) That's all they talk about. Trump. We've driven them crazy. They have Trump derangement syndrome. We've driven them crazy and they should be driven crazy. They've done a terrible job for our country in every single way. There's not a thing they've done well except cheat and lie. They lie about stats.",
+          "next": "Under my leadership, we rebuilt the United States military, created Space Force, and we made our allies pay their fair share and their fair dues. We went to NATO. We say, \"You're not paying. You got to pay.\" If you remember, President Bush would go and he'd make a speech. Obama would go, he'd make a speech. They all made speeches. This one didn't even make a speech, this last one. But I went, I said, \"Nobody is paying. You got to pay.\" And they did pay hundreds of billions of dollars."
         }
-      ],
-      "Harris": [],
-      "Trump_avg_score": 0.8085,
-      "Combined_avg_score": 0.8085
-    }
+      },
+      {
+        "match_score": 0.738201,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "064",
+          "title": "Vance and Trump rally in Asheboro, NC",
+          "date": "20240822",
+          "topics": "Economy, Government Policy"
+        },
+        "matched_segment": {
+          "segment_id": 12,
+          "text": "But their real number is probably 40 to 50% because a lot of the things in their numbers aren't included. (:48) I saw another one where the FBI releases crime statistics and they weren't that bad, and then they left out little things like New York, Chicago. They left out various areas and that wasn't so good. Your life savings will be totally wiped out if you put somebody like that in there with him, how about him? How about him?"
+        },
+        "context": {
+          "previous": "And Comrade Kamala, she's comrade. The most radical left person ever to run for a high political office in our country gets another four years, millions of jobs, and it'll vanish overnight. She gets four more years, you're going to see jobs vanish. Millions and millions will vanish and inflation will completely destroy our country. We'll have inflation worse than they've given us. When I gave it to them, I had virtually no inflation, and now their number's up to 22, 23%.",
+          "next": "She'll destroy our country just like she destroyed San Francisco, just like she destroyed California. (:21) With the Trump victory, we'll once again have the greatest economy in history. We're going to do things that are going to make us so great so fast. We're going to bring it back. We're going to make America strong again. We're going to make America great again. It's going to be fantastic. It's going to be fantastic."
+        }
+      },
+      {
+        "match_score": 0.712504,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "361",
+          "title": "Trump Town Hall in Pennsylvania",
+          "date": "20241017",
+          "topics": "Foreign Policy, Economy, Veterans Affairs"
+        },
+        "matched_segment": {
+          "segment_id": 9,
+          "text": "I'll give you an example on housing and on different things like crime statistics are fake. They were fake statistics. They didn't include some cities that were really bad. So the crime looked like it was just bad as opposed to being horrific. Jobs, 818,000 fake jobs they added, and they padded the job numbers a couple of months ago so that they'd look better on jobs. 818,000, they were fake."
+        },
+        "context": {
+          "previous": "Because when they say, \"Oh...\" Although they had very bad inflation numbers last month, you saw that- Very, very bad inflation numbers, despite the big... They did this big drop, probably too big a drop. I'm not going to get into that, but we're going to get the prices down because the damage has been done. If we had no inflation now, such damage has been done. In my opinion, the biggest inflation in the history of our country. They didn't include a lot of the bad numbers.",
+          "next": "They were fraudulent jobs and they thought they'd announced the real numbers after the election, but we had a whistleblower or somebody that let it out. () So they cheated us on, think of that, 818,000 jobs. They cheated. Usually when you have those numbers, it's 9,000 jobs off it. This is almost 1,000,000 jobs off. It's not even possible. So we're going to bring things and Reid, you're going to buy that house and you're going to pay 2.5%, 3% interest."
+        }
+      }
+    ]
   }
 }

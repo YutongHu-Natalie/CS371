@@ -1,0 +1,65 @@
+{
+  "model": "gpt-4o-mini",
+  "results": [
+    {
+      "Label": 1,
+      "Explanation": "The debate statement claims that the current government cannot remove the tariffs due to financial constraints, while the past speeches suggest that the Biden administration has the desire to remove the tariffs but is unable to do so. This presents a direct logical contradiction regarding the reasons behind the tariffs' persistence."
+    },
+    {
+      "Label": 0,
+      "Explanation": "The debate statement and past speeches consistently assert that the stock market was higher when handed over, indicating no contradiction in the claims about the economic situation post-pandemic."
+    },
+    {
+      "Label": 1,
+      "Explanation": "The debate statement claims there was \"virtually no inflation\" during the candidate's tenure, while past speeches assert that inflation was \"the worst we've ever had.\" These statements are direct logical opposites; one must be true, and the other false."
+    },
+    {
+      "Label": 0,
+      "Explanation": "The debate statement and past speeches consistently express the candidate's view on late-term abortion and the actions of the governor of Virginia, without any contradictions. They both emphasize the candidate's opposition to late-term abortion and the notion of executing a baby after birth."
+    },
+    {
+      "Label": 0,
+      "Explanation": "The statements from the debate and past speeches are consistent in their support for exceptions for rape, incest, and the life of the mother, with no contradictions detected."
+    },
+    {
+      "Label": 1,
+      "Explanation": "The debate statement asserts a refusal to sign any abortion ban, while the past speeches indicate a willingness to negotiate and potentially support bans, such as a five or six-week limit. These statements are direct logical opposites; one must be true, and the other false."
+    },
+    {
+      "Label": 4,
+      "Explanation": "The debate statement claims that the number of undocumented immigrants is \"much higher\" than 11 million, while past speeches suggest numbers ranging from 15 million to 25 million. This presents a specific quantitative contradiction regarding the estimated number of undocumented immigrants."
+    },
+    {
+      "Label": 3,
+      "Explanation": "The debate statement implies that crime in Venezuela is down due to criminals being sent to the U.S., while the past speeches assert that crime is down because criminals have been moved to the U.S. This creates a scope conflict where both statements can be true, but they imply different mechanisms for the decrease in crime."
+    },
+    {
+      "Label": 3,
+      "Explanation": "The debate statement claims that the FBI's crime statistics are fraudulent because they did not include the worst cities, which implies that the overall crime statistics are misleading. This is consistent with the past speeches, which also state that the crime statistics are fake due to the exclusion of certain cities. However, the debate statement suggests a broader scope of fraud by labeling it as a \"fraud\" without specifying the extent, while the past speeches focus on specific exclusions. Thus, there is a scope conflict between the two."
+    },
+    {
+      "Label": 1,
+      "Explanation": "The debate statement claims that Harris has been against fracking and defunding the police for a long time, while the past speeches assert that she has always supported these positions. This represents a direct logical contradiction where one statement must be true and the other false."
+    },
+    {
+      "Label": 1,
+      "Explanation": "The debate statement claims that if Harris wins, fossil fuels will be dead and the country will be destroyed, while the past speeches assert that if Biden wins, he will stop drilling and return to ineffective energy sources. These statements are direct logical opposites regarding the consequences of winning the election, indicating that one must be true and the other false."
+    },
+    {
+      "Label": 0,
+      "Explanation": "The statements made in the debate and past speeches are consistent regarding the candidate's claim of having ended the Nord Stream 2 pipeline and attributing its approval to Biden. There is no contradiction detected."
+    },
+    {
+      "Label": 4,
+      "Explanation": "The debate statement claims the U.S. is in for \"250 billion or more,\" while past speeches indicate amounts ranging from \"200 billion plus\" to \"over $200 billion.\" This represents a specific quantitative contradiction in the stated financial commitments."
+    },
+    {
+      "Label": 4,
+      "Explanation": "The debate statement claims that $85 billion worth of military equipment was left behind, while the past speeches mention $83 billion in one instance and $85 billion in another. This represents a specific quantitative contradiction in the stated amounts."
+    },
+    {
+      "Label": 2,
+      "Explanation": "The debate statement suggests a willingness to improve upon Obamacare if a better plan is found, while past speeches indicate a desire to terminate Obamacare entirely. These positions are mutually exclusive; one cannot both seek to improve and aim to completely eliminate the same plan."
+    }
+  ]
+}

@@ -1,108 +1,66 @@
 {
   "query_id": "014",
-  "query_text": "They(Biden and Harris\u2019 government) lost 10,000 manufacturing jobs this last month. It's going--they're all leaving. They're building big auto plants in Mexico. In many cases owned by China. They're building these massive plants, and they think they're going to sell their cars into the United States because of these people (Biden and Harris\u2019 government). What they have given to China is unbelievable. But we're not going to let that. We'll put tariffs on those cars so they can't come into our country. Because they will kill the United Auto Workers and any auto worker, whether it's in Detroit or South Carolina or any other place.",
+  "query_text": "And what we will do is we're looking at different (health insurance)plans. If we can come up with a plan that's going to cost our people, our population, less money and be better health care than Obamacare, then I would absolutely do it. But until then, I'd run it as good as it can be run.",
   "query_topics": [
-    "Economy",
-    "Foreign Policy",
-    "Government Policy"
+    "Healthcare"
   ],
+  "speaker": "Trump",
   "results": {
-    "They(Biden and Harris\u2019 government) lost 10,000 manufacturing jobs this last month. It's going--they're all leaving. They're building big auto plants in Mexico. In many cases owned by China. They're building these massive plants, and they think they're going to sell their cars into the United States because of these people (Biden and Harris\u2019 government). What they have given to China is unbelievable. But we're not going to let that. We'll put tariffs on those cars so they can't come into our country. Because they will kill the United Auto Workers and any auto worker, whether it's in Detroit or South Carolina or any other place.": {
-      "Trump": [
-        {
-          "match_score": 0.8413977,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "174",
-            "title": "Trump Rally in Grand Rapids, Michigan",
-            "date": "20240722",
-            "topics": "Healthcare, Veterans Affairs"
-          },
-          "matched_segment": {
-            "segment_id": 131,
-            "text": "In Mexico, they're building among the largest plants for auto manufacturing anywhere in the world, in Mexico, near the border. They think that they're going to make cars and sell them into the United States and lose all our jobs. It's not happening. And you know who owns those plants? China. China owns them. And we're not letting it happen. We'll put 200% tariffs on, 400, I don't care what would... Whoever is building your plants, we're not allowing any of those cars to come into the United States, okay?"
-          },
-          "context": {
-            "previous": "\"Well, I don't know if he should continue.\" All of a sudden, where did that come from? She was 100%. All of a sudden she's not sure. Not sure means he's gone. But no, she's crazy as a bedbug. She's a crazy person. I believe we're going to have the four greatest years of the history of our country, I believe it. And I believe that Michigan is going to have the greatest of all of any of the states because I'm going to bring back your auto industry. I'm not going to take this.",
-            "next": "We're telling that to Mexico, right? You want to build those plants? (:40) A friend of mine who builds plants, that's all he can do. He's a great guy, but his strength is plants. If you say, \"Walk across the street,\" he's not that good at it. But to build a plant, he has no problem. He builds a great auto plant. So I said, \"I'd like to see one."
-          }
+    "And what we will do is we're looking at different (health insurance)plans. If we can come up with a plan that's going to cost our people, our population, less money and be better health care than Obamacare, then I would absolutely do it. But until then, I'd run it as good as it can be run.": [
+      {
+        "match_score": 0.82679904,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "271",
+          "title": "Donald Trump Fox News Town Hall Transcript",
+          "date": "20200306",
+          "topics": "Healthcare, Immigration, Government Policy"
         },
-        {
-          "match_score": 0.82464135,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "340",
-            "title": "Trump Rally in Reading, Pennsylvania",
-            "date": "20241010",
-            "topics": "Economy, Immigration, Climate, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 53,
-            "text": "And we're going to stop Mexico and China and all these countries from hurting this country because they're hurting it. And they're killing the automobile industry. You're not going to have any cars manufactured here. If we win, this country will become the automobile manufacturing place. We will bring plants back at levels that haven't been seen for 50 years in this country. (:20) Right now, the Chinese are building big factories, auto plants in Mexico."
-          },
-          "context": {
-            "previous": "You're going to get that additional tax cut, but you have to have your product made in America. Isn't that great? They said, \"Who gave you?\" that's like the paperclip. Somebody came up with the idea of a paperclip many years ago and people saw it. They said, \"Why didn't I think of that?\" But we're going to give a tax cut. You make your product here, because that means jobs, it means a lot of things. It means a lot of great things.",
-            "next": "They think they're going to make cars and send them over to our border and put everybody in Detroit out of business, put everybody in South Carolina out of business. Not going to happen, because I'll put 100 or a 200% tariff. We don't want their cars. We want to make our cars here. And that includes in Pennsylvania. And for those who don't make their product in America, they will be forced to pay a rather stiff tariff for the privilege of competing with our cherished companies that we're going to take care of."
-          }
+        "matched_segment": {
+          "segment_id": 37,
+          "text": "It's a much different plan. And what we'd like to do is totally kill it, but come up, before we do that, with something that's great. What we've done is we've really managed Obamacare, the remaining portion, we get rid of the bad part, but the remaining portion really well. And before I got involved, you know what was happening with the rates on Obamacare. They were going up at levels that nobody's ever seen before. We are managing it. And I had a decision to make. This was very important."
         },
-        {
-          "match_score": 0.8216068,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "470",
-            "title": "Trump Makes Campaign Stop in North Carolina",
-            "date": "20240926",
-            "topics": "Economy, Climate, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 11,
-            "text": "() And to the autoworkers of our country, we love you. I am pinpointing you for greatness. China is right now building major auto plants in Mexico. They didn't start them with me. They knew that it wasn't going to work with me. As soon as I left, they started building. And they think they're going to sell their cars into the United States and destroy Michigan, South Carolina, North Carolina, Georgia, a lot of other places where they make autos or auto parts and it's not going to happen."
-          },
-          "context": {
-            "previous": "It is an electricity-eating monster. And we're going to be able to do that and we'll be more than able to compete. We're going to be able to get it done, but not if somebody else is president. It'll be a disaster. To slash burdens on workers and businesses, we will cut 10 old regulations for every one new regulation. So I cut more regulations during my four-year term than any other president in history during any term, and we're going to keep it going. Some of them have been put back by Biden and Harris.",
-            "next": "We will put a 100% tariff on every single car that they want to come across our border and tell them only that they'll get rid of the tariff under one circumstance; if you build your plant not in Mexico but into the United States and use our people as your workers. I will bring automobile manufacturing back to the highest level in the history of our country. We will be like it was 50 years ago when there was virtually nobody else to compete with us."
-          }
-        },
-        {
-          "match_score": 0.8178265,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "481",
-            "title": "Trump Rally in Walker, Michigan",
-            "date": "20240930",
-            "topics": "Immigration, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 49,
-            "text": "They're building big, giant auto plants in Mexico, owned and financed by China, and they think they're going to come out and they're going to build cars, and they're going to sell them into our country, and they're going to destroy Michigan and all these other places. Not going to happen because we'll put a hundred to 200% tariff on every car coming across the Mexican border. And we'll tell them the only ... And we are going to be strong."
-          },
-          "context": {
-            "previous": "() We're actually allowed to do it as president. We want to make it permanent. We're going to bring jobs, wealth and pride back to Grand Rapids, back to Detroit, back to Milwaukee, and all throughout the Midwest, we're going to bring it back. () And to our incredible auto workers here in Michigan, I'm pinpointing you for greatness. I'm pinpointing you because the industry has been decimated. And right now as we speak, they're building big plants. They wouldn't do it when I was president.",
-            "next": "The only way they'll get rid of that tariff is if you build the plant in the United States, not if you build it in Mexico, which is what China and others do. () If Elon wants to sell a car ... By the way, Elon Musk gave his total endorsement. Elon, he gave me that greatest beautiful, most beautiful. He said, \"We are not going to have a country left if Trump doesn't get in.\" () And you know what? I'm going let Elon do ... Unless you people disagree. I'm going to get Elon, and he's great at this."
-          }
-        },
-        {
-          "match_score": 0.8090303,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "465",
-            "title": "Trump Rally in Georgia",
-            "date": "20240925",
-            "topics": "Economy, Foreign Policy"
-          },
-          "matched_segment": {
-            "segment_id": 16,
-            "text": "It's all going to be made in China. The head of the United Auto Workers ought to be ashamed of himself for what he's done, but we're going to turn it around, and we're going to turn it around fast. () China is right now building major auto plants in Mexico. Did you know that? They were going to start with me. I said, \"No. If you do them, I'm putting a 200% tariff on every car that you make.\" And they decided, \"We'll pass.\" Then they said, \"Wow, now we can build."
-          },
-          "context": {
-            "previous": "To the auto workers in Michigan, Georgia, and all other parts of our country, I am pinpointing you for greatness. Your industry has been decimated by many decades of incompetent leadership, both political and at your company level. You had presidents of your company that sold out our country. They didn't know what they were doing. They were horrible. And you had politicians that were grossly incompetent to let that happen. Your auto industry has been decimated, and again, with the electric car.",
-            "next": "Trump, we won't have to worry about him anymore.\" Well, here I am. Here I am. Here I am. We're leading in the polls. We're leading by a lot. We're leading by a lot. They said, \"Oh, we don't have to worry about him.\" Oh, no, they have to worry about me. That's why they don't like me. They used to like Obama. They like Biden. You know why? Because they got away with murder. That's why they like Biden. They love Biden. Why would you like Biden? Except that you took advantage of him. They took advantage of him."
-          }
+        "context": {
+          "previous": "That's where you paid a fortune not to pay for horrible healthcare and insurance, and it had a tremendous impact. Preexisting conditions, 100% we take care of. But we have many healthcare plans now where it's 60%, even 65% less expensive than Obamacare. It's better than Obamacare, and what we really have left is the carcass of Obamacare or you could call it new healthcare, because without preexisting... without the whole thing with the individual mandate, it's a whole different ball game.",
+          "next": "I said to my people, and we have great people, [Sema :47], Azar, I mean great people that are so good at it. I said, \"You know, I have a little problem. Do we manage it great until we get something much better? Or do we manage it poorly and say Obamacare's horrible.\" And I said, \"We've got to do the right thing."
         }
-      ],
-      "Harris": [],
-      "Trump_avg_score": 0.8229,
-      "Combined_avg_score": 0.8229
-    }
+      },
+      {
+        "match_score": 0.7779731,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "351",
+          "title": "Donald Trump NBC Town Hall Transcript October 15",
+          "date": "20201015",
+          "topics": "Healthcare"
+        },
+        "matched_segment": {
+          "segment_id": 40,
+          "text": "We'd like to terminate it, and we want a much less expensive healthcare that's a much better healthcare, and that's where we're aiming. And if we can do that, and we have a very good chance of doing it, but we've also brought down the price of Obamacare. The problem with Obamacare, it basically is never going to be great, and I want to give great healthcare. So important. And thank you very much. It is a big issue for me too. That's right. That's right."
+        },
+        "context": {
+          "previous": "By the way, we're always protecting people with pre-existing conditions, and I can't say that more strongly, but we've been able to bring healthcare costs way down. Now, I took over Obamacare, got rid of the individual mandate, made it good, managed it much better. Remember, they had the $5 billion website disaster, and all of the problems they had. The problem with Obamacare, it's not good.",
+          "next": "In order to replace it with a much better healthcare at a much lower price. And always, under all circumstances, we are going to protect the Republicans. And maybe I changed the party a lot over the last three years, but we will protect people with preexisting conditions. And Savannah, what I want to do, get rid of the terrible Obamacare. I've already done it to a large extent because as you know, the individual mandate is gone. That was the worst part. No, no. We have done- That's right."
+        }
+      },
+      {
+        "match_score": 0.765926,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "460",
+          "title": "Donald Trump \u2018America First Healthcare\u2019 Speech Transcript September 24",
+          "date": "20200924",
+          "topics": "Healthcare, Immigration"
+        },
+        "matched_segment": {
+          "segment_id": 12,
+          "text": "Simultaneously with all of this, we are joining in a lawsuit to end this ill-conceived plan. I'm in court to terminate this really, really terrible situation. If we win, we will have a better and less expensive plan that will always protect individuals with pre-existing conditions. If we lose, what we have now is better than the original version of Obamacare by far. Much better. Much better. Again, we will always protect patients with pre-existing conditions."
+        },
+        "context": {
+          "previous": "That was Alex and that was Seema, And you did a fantastic job. But it's still unacceptable to me because it's too expensive and doesn't really do the job as well as we could have. So what we have now is a much better plan. It is no longer Obamacare, because we've gotten rid of the worst part of it, the individual mandate, and made it much less expensive. A lot of that was through good management. We manage it properly. We have tremendous people working on it.",
+          "next": "So today, I'm laying out my vision for the future of American healthcare with the America First Healthcare plan. As we restore America to full strength, the first healthcare plan will be a core part of our national renewal. In a few moments, I'll sign an executive order outlining the three pillars of my plan and directing my administration to implement these critical reforms. The first pillar of my plan is more choice, more choice for American patients. Very important."
+        }
+      }
+    ]
   }
 }

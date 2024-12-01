@@ -1,107 +1,67 @@
 {
   "query_id": "013",
-  "query_text": "But she(Harris) won't improve private insurance for people. Private, medical insurance. That's another thing she doesn't want to get.--People are paying privately for insurance that have worked hard and made money and they want to have private. She wants everybody to be on government insurance where you wait six months for an operation that you need immediately.",
+  "query_text": "We did have an agreement(with the Taliban) negotiated by Mike Pompeo. It was a very good agreement. The reason it was good, we were getting out. We wouldn't have lost the soldiers. We wouldn't have left many Americans behind. And we wouldn't have left\u2026$85 billion worth of brand new beautiful military equipment behind. ",
   "query_topics": [
-    "Healthcare",
+    "Foreign Policy",
     "Government Policy"
   ],
+  "speaker": "Trump",
   "results": {
-    "But she(Harris) won't improve private insurance for people. Private, medical insurance. That's another thing she doesn't want to get.--People are paying privately for insurance that have worked hard and made money and they want to have private. She wants everybody to be on government insurance where you wait six months for an operation that you need immediately.": {
-      "Trump": [
-        {
-          "match_score": 0.6783741,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "336",
-            "title": "Trump Speaks in Erie, PA",
-            "date": "20241001",
-            "topics": "Climate, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 108,
-            "text": "(:15) So it makes life a little bit more dangerous, but that's okay. We know what we got into. Kamala pledged to abolish private healthcare and force everyone onto socialist government-run healthcare with high taxes and deadly wait times. We've got to wait six, seven months sometimes. And she even endorsed free sex changes for illegal aliens and detention at taxpayer expense. That's why five weeks from now, we are going to tell her, \"Kamala, you've done a horrible job as vice president."
-          },
-          "context": {
-            "previous": "But he can't say that. Other presidents would say that. He just can't probably get the words out. But I'll tell you what, if it were reversed, if I were president and somebody was threatening a president, even I didn't like that person and he was from the opposite party, I would tell the threatening country, \"You do anything to him, we're going to blow you off the face of the earth.\" And nothing's going to happen. But we haven't had that happen, have we, Mike? We haven't had that happen.",
-            "next": "You are the worst borders czar in the history of the world, not just our country. We have to make a change. Kamala, you are horrible. Kamala, you're fired. You're fired. Get out of here. Get out of here, Kamala. Go back to San Francisco Kamala, which by the way you destroyed.\" (:14) From the moment we take back the White House from Kamala Harris and sleepy Joe, I believe we're going to have the four greatest years in the history of our country. We're going to put our country back together. It's going to go fast."
-          }
+    "We did have an agreement(with the Taliban) negotiated by Mike Pompeo. It was a very good agreement. The reason it was good, we were getting out. We wouldn't have lost the soldiers. We wouldn't have left many Americans behind. And we wouldn't have left\u2026$85 billion worth of brand new beautiful military equipment behind. ": [
+      {
+        "match_score": 0.7419873,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "228",
+          "title": "Donald Trump Interview on the Will Cain Show",
+          "date": "20240604",
+          "topics": "Economy, Immigration, Foreign Policy, Government Policy"
         },
-        {
-          "match_score": 0.6728803,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "314",
-            "title": "Donald Trump Rally Speech Transcript Dubuque, Iowa November 1",
-            "date": "20201101",
-            "topics": "Economy, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 35,
-            "text": "That's the way it's been and that's the way it should be. What's going on in this country? What's going on? We believe that every child is a sacred gift from God. Biden and Harris will eliminate the private health insurance plans of 180 million Americans, their socialist takeover will ration care and force you onto endless wait lists. You're going to have wait lists, you know what we've done by the way for the military has been incredible. We've gotten rid of the wait list for our veterans."
-          },
-          "context": {
-            "previous": "I've seen people where an election got stolen and by the way, we're not going to let that happen to us with these ballots. How about the Supreme Court ruling where the Supreme Court, no, this was not good, the Supreme Court gave them more time, more time. So what does this mean? Does this mean we go and we wait, so it's not November 3rd, it's going to be much later than that? No, no, we should know the result of the election on November 3rd, the evening of November 3rd.",
-            "next": "Our opponents would pack the Supreme court with far-left justices and by the way, we're into the voting now. It's ridiculous, I liked election day and most of you do too, who is going to vote on election day? Okay. And who's already voted? Okay. And you sent ballots in? Be careful with the ballots, be careful. Just be careful with those ballots, I don't know."
-          }
+        "matched_segment": {
+          "segment_id": 44,
+          "text": "We would've left with dignity and strength and then you take out your equipment. They left $85 billion worth of equipment. I rebuilt the entire military. $85 billion of it was left in Afghanistan, and they're one of the biggest of the Taliban, they're one of the biggest sellers of military equipment now. Well, in the whole world, I think they're number two because they're selling... Because they don't need 730,000 rifles. They have 730,000. I mean, I don't know what... We go to fight a war. What did they do? What?"
         },
-        {
-          "match_score": 0.6587727,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "431",
-            "title": "Donald Trump ABC News Town Hall Transcript with George Stephanopoulos in Philadelphia",
-            "date": "20200916",
-            "topics": "Healthcare, Infrastructure, Government Policy, Technology"
-          },
-          "matched_segment": {
-            "segment_id": 56,
-            "text": "The agreement with Bernie is that you're going to go to socialized medicine. If you go to socialized medicine... Well, he agreed. Harris, who he today, said, Harris-Biden, because you think she's president, Harris... Someday, you'll have to explain that one to me, but Harris is all for doing that. She wants to go to socialized medicine. You no longer have your doctor really, and you no longer have your plan."
-          },
-          "context": {
-            "previous": "If you go to Department of Labor, our great secretary as you know, and you know him well, we have other alternatives to Obamacare that are 50% less expensive, and they're actually better. George, it's been 40 years since you had good healthcare. You never really had good healthcare in this country. This country has never had it. But, when you say that Biden doesn't want to do it, everybody else does. Bernie does. He agreed to the manifesto as I call it.",
-            "next": "And, Joe can say all he wants, he's only doing it because he sees his poll numbers going down so substantially. But, Joe can say all he wants about healthcare. Obamacare has been a failure from day one. It's too expensive, whether it's the premium or whether it's the cost generally, and they don't have their doctors, and they don't have their plans. We're going to have a very good healthcare. I think maybe a great healthcare for less money. Thank you. Hi Jim. Good Jim."
-          }
-        },
-        {
-          "match_score": 0.65361315,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "460",
-            "title": "Donald Trump \u2018America First Healthcare\u2019 Speech Transcript September 24",
-            "date": "20200924",
-            "topics": "Healthcare, Immigration"
-          },
-          "matched_segment": {
-            "segment_id": 3,
-            "text": "Their plans will result in rationing care, denying choice, putting Americans on wait lists, driving the best doctors out of medicine permanently, and delaying life saving cures. Over 130 Democrats in Congress including Senator Harris have endorsed legislation to outlaw the private health plans of 180 million Americans. On top of it all, former Vice President Joe Biden promised to give free federal healthcare to anyone in the world who illegally crosses our border."
-          },
-          "context": {
-            "previous": "In short, we're delivering better care with more choice and a much lower cost and working to ensure Americans have access to the care they need. My plan expands affordable insurance options, reduces the cost of prescription drugs, will end surprise medical billing, increases fairness through price transparency, streamlines bureaucracy, accelerates innovation, strongly protects Medicare and always protects patients with pre-existing conditions. By contrast, the Democrat Party is pushing a socialist nightmare.",
-            "next": "His plan to provide government healthcare to illegal immigrants would bankrupt our healthcare system, collapse our hospitals and destroy Medicare, while bringing in millions and millions of people lured into our country. As long as I am president, we will save go to our borders and our seniors. We are pleased to be joined today by Secretary of Health and Human Services, done a great job, Alex Azar. Alex. Hi, Alex. Thank you. And very importantly, CMS Administrator Seema Verma. Thank you, Seema."
-          }
-        },
-        {
-          "match_score": 0.64334893,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "014",
-            "title": "Donald Trump Coronavirus Task Force Briefing April 2",
-            "date": "20200402",
-            "topics": "Economy, Healthcare, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 37,
-            "text": "Can you assure Americans tonight that you will reopen Obamacare marketplace so that they can be covered in this time of combined health and financial crisis? Yeah. I understand the question and we're doing better than that. We're going to try and get a cash payment to the people and we're working out the mechanics of that with legislature, so we're going to try and get them a cash payment because just opening it up doesn't help as much."
-          },
-          "context": {
-            "previous": "Yeah, let's go, please... Journalist 3: (:40) Thank you, sir. Thank you, Mr. President. I want to follow up from a question yesterday regarding your administration's denial of the expansion Obamacare special enrollment period in the wake of this pandemic. In your own words, VP Pence gave a five minute a non answer, but people facing this pandemic illness and even worse, most experts say that having healthcare is critical to our nation's health and financial wellbeing.",
-            "next": "So we're going to work it out so we're going to try and get for that certain group of people... It's a certain group of people, a cash payment. Journalist 2: (:36) I really want to ask you about masks, but I also just meant to follow up on a couple of hanging threads there. Just the question earlier about the bidding. What happens though when States are bidding against each other on those markets? Well, they have that and they have to work that out."
-          }
+        "context": {
+          "previous": "Nevertheless, there were people that helped us take them out. But we have Americans left behind. We have 13 dead soldiers. Incredible. The parents largely, they came here shortly after that and we're going to have them back too. () We sat, they said, \"Well, we won't see President Trump. He'll come maybe for a couple of minutes.\" I stayed with them for four hours. We listened to music up in the deck. It was beautiful. It was just nice. They're great people. They're devastated. That would've never happened.",
+          "next": "37 rifles for every soldier we have, it's crazy, but we had 730 some odd thousand rifles, and then we had 72,000 vehicles. () Many of them armor plated, you know how expensive with four inch armor, four inch like this on the bottom. They sell all that stuff. They're one of the largest because they don't need all of it. They can keep instead of... Think of what 72,000 vehicles is. If you take the biggest used parking lot, used car lot in Texas, think Texas, they have big... They probably have what? 500 cars here."
         }
-      ],
-      "Harris": [],
-      "Trump_avg_score": 0.6614,
-      "Combined_avg_score": 0.6614
-    }
+      },
+      {
+        "match_score": 0.7396097,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "057",
+          "title": "Donald Trump Sean Hannity Interview on Afghanistan August 17: Transcript",
+          "date": "20210818",
+          "topics": "Foreign Policy, Veterans Affairs"
+        },
+        "matched_segment": {
+          "segment_id": 2,
+          "text": "That blows the helicopters in Vietnam away. That's not even a contest. This has been the most humiliating period of time I have ever seen. Yeah, we had a great deal. We worked on it very hard. Mike Pompeo, a brilliant guy, and many others worked on it endlessly, meetings with the Taliban. Of course, you have to meet with the Taliban. They're the ones that you're negotiating with. I spoke on numerous occasions to the head of the Taliban and we had a very strong conversation."
+        },
+        "context": {
+          "previous": "And you're dealing with thousands and thousands of Americans and others that are stranded and very dangerously really stranded in Afghanistan. So, it's something that you can't even believe that a thing like this could... I looked at that big monster cargo plane yesterday with people grabbing the side and trying to get flown out of Afghanistan because of their fear, their incredible fear. And they're blowing off the plane from 2,000 feet up in the air. Nobody's ever seen anything like that.",
+          "next": "I told him up front, I said: \"Look, before we start, let me just tell you right now that if anything bad happens to Americans or anybody else, or if you ever come over to our land, we will hit you with a force that no country has ever been hit with before, a force so great that you won't even believe it. And your village, and we know where it is...\" and I named it, \"will be the first one.\" \"The first bombs will be dropped right there.\" Yeah. To Mullah Baradar, who is probably the top person now."
+        }
+      },
+      {
+        "match_score": 0.73004293,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "063",
+          "title": "Donald Trump Cullman, Alabama Rally Speech Transcript",
+          "date": "20210822",
+          "topics": "Immigration, Foreign Policy, Government Policy"
+        },
+        "matched_segment": {
+          "segment_id": 50,
+          "text": "I could just see this, the leadership of the Taliban standing there, somebody walking up, \"Sir, the soldiers have left Afghanistan.\" He goes, \"What?\" \"The soldiers have left.\" And they've left all of their citizens behind and they've left $83 billion worth of equipment behind, including brand new Apache helicopters, thousands of Humvee vehicles with armor guard, equipment that nobody has ever even seen before, it was so sophisticated and good."
+        },
+        "context": {
+          "previous": "They were tired of being blasted. They were tired. They're tough. Everybody's tough. But you know what? We're tougher, he just said it. But nobody would know it. Nobody would know it. When you look at what's happening, nobody would know it. But we're tougher, I'd like to explain that to Abdul and to everybody else. We're much tougher. Please remember that. It's hard for them to understand that now after watching this. Think of that, the soldiers have left.",
+          "next": "So can you imagine these guys Abdul and his friends sitting there, that the United States soldiers, our military, has left. They walked in, they walked in and they took everything. It's crazy. It's crazy. I've never seen anything so stupid in my life. Somebody said, \"Don't say it, Sir. It's not good.\" I asked yesterday, I was with a group of people and there was a five year old child. And I explained the situation to the five year old child."
+        }
+      }
+    ]
   }
 }

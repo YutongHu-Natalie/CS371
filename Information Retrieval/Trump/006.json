@@ -1,107 +1,67 @@
 {
   "query_id": "006",
-  "query_text": "We did have an agreement(with the Taliban) negotiated by Mike Pompeo. It was a very good agreement. The reason it was good, we were getting out. We would have been out faster than them, but we wouldn't have lost the soldiers. We wouldn't have left many Americans behind. And we wouldn't have left--we wouldn't have left $85 billion worth of brand new beautiful military equipment behind. ",
+  "query_text": "It(the number of undocumented immigrants in my largest domestic deportation plan) is much higher (than 11 million), because of them(Biden and Harris\u2019 government). They allowed criminals. Many, many, millions of criminals. They allowed terrorists. They allowed common street criminals. They allowed people to come in, drug dealers, to come into our country, and they're now in the United States.",
   "query_topics": [
-    "Foreign Policy",
+    "Immigration",
     "Government Policy"
   ],
+  "speaker": "Trump",
   "results": {
-    "We did have an agreement(with the Taliban) negotiated by Mike Pompeo. It was a very good agreement. The reason it was good, we were getting out. We would have been out faster than them, but we wouldn't have lost the soldiers. We wouldn't have left many Americans behind. And we wouldn't have left--we wouldn't have left $85 billion worth of brand new beautiful military equipment behind. ": {
-      "Trump": [
-        {
-          "match_score": 0.7446617,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "411",
-            "title": "Donald Trump Des Moines, Iowa Rally Speech Transcript October 9",
-            "date": "20211009",
-            "topics": "Economy, Immigration, Foreign Policy, Education"
-          },
-          "matched_segment": {
-            "segment_id": 144,
-            "text": "We want our equipment back, and then we can start talking about that. So leaving Afghanistan was a good thing. I was going to leave. We should have left however, under the symbols of strength and dignity, not weakness and surrender. We could have left under strength and dignity in the same period of time. It didn't have to take long. We could have been respected right now. I don't know that we'll ever recover from this, from allies to everything else. And you know what? Every ally's take an advantage of us."
-          },
-          "context": {
-            "previous": "Let Russia give them money, by the way, let Iran give them money. That's their territory. And they're right there. We're doing their work for them. And then we're supposed to keep them going. Biden's giving them $10 billion so that he doesn't look bad. Because they're tough, and they'll do numbers on us. Now, we want our hostages back immediately and we want our equipment back immediately. And then we can start talking about doing what we could do. I wouldn't mind doing it under those ... We want our hostages back.",
-            "next": "So I'm less concerned about. They all take advantage. Or NATO, they take advantage, Germany, France, all of them. We're like the stupid people. We're like a country run by stupid people. Every single nation and every deal that I've looked at, and I looked at countries that many people have never even heard of, we made bad deals. Every single country. It's almost, you wonder, how do you sustain? How does it keep going? Our soldiers are heartbroken at what happened in Afghanistan. They wanted to win."
-          }
+    "It(the number of undocumented immigrants in my largest domestic deportation plan) is much higher (than 11 million), because of them(Biden and Harris\u2019 government). They allowed criminals. Many, many, millions of criminals. They allowed terrorists. They allowed common street criminals. They allowed people to come in, drug dealers, to come into our country, and they're now in the United States.": [
+      {
+        "match_score": 0.759609,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "381",
+          "title": "Donald Trump Speaks at Campaign Event in Derry, New Hampshire Transcript",
+          "date": "20231024",
+          "topics": "Veterans Affairs"
         },
-        {
-          "match_score": 0.7426239,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "057",
-            "title": "Donald Trump Sean Hannity Interview on Afghanistan August 17: Transcript",
-            "date": "20210818",
-            "topics": "Foreign Policy, Veterans Affairs"
-          },
-          "matched_segment": {
-            "segment_id": 2,
-            "text": "That blows the helicopters in Vietnam away. That's not even a contest. This has been the most humiliating period of time I have ever seen. Yeah, we had a great deal. We worked on it very hard. Mike Pompeo, a brilliant guy, and many others worked on it endlessly, meetings with the Taliban. Of course, you have to meet with the Taliban. They're the ones that you're negotiating with. I spoke on numerous occasions to the head of the Taliban and we had a very strong conversation."
-          },
-          "context": {
-            "previous": "And you're dealing with thousands and thousands of Americans and others that are stranded and very dangerously really stranded in Afghanistan. So, it's something that you can't even believe that a thing like this could... I looked at that big monster cargo plane yesterday with people grabbing the side and trying to get flown out of Afghanistan because of their fear, their incredible fear. And they're blowing off the plane from 2,000 feet up in the air. Nobody's ever seen anything like that.",
-            "next": "I told him up front, I said: \"Look, before we start, let me just tell you right now that if anything bad happens to Americans or anybody else, or if you ever come over to our land, we will hit you with a force that no country has ever been hit with before, a force so great that you won't even believe it. And your village, and we know where it is...\" and I named it, \"will be the first one.\" \"The first bombs will be dropped right there.\" Yeah. To Mullah Baradar, who is probably the top person now."
-          }
+        "matched_segment": {
+          "segment_id": 76,
+          "text": "We will put all of us together, but I will be the leader on this. Put America first. We're going to put America first. Very simple. Under Biden, 270,000 illegal aliens were detected charging across our border. It was like an invasion. In September alone, it's a record, nobody's ever seen that. 270,000. It's larger than most cities. Millions have infiltrated since he took office. I believe the real number is 15 million people. You hear 3, 4, 5, sometimes. I believe the number is 15 million. Many are terrorists."
         },
-        {
-          "match_score": 0.7394614,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "228",
-            "title": "Donald Trump Interview on the Will Cain Show",
-            "date": "20240604",
-            "topics": "Economy, Immigration, Foreign Policy, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 44,
-            "text": "We would've left with dignity and strength and then you take out your equipment. They left $85 billion worth of equipment. I rebuilt the entire military. $85 billion of it was left in Afghanistan, and they're one of the biggest of the Taliban, they're one of the biggest sellers of military equipment now. Well, in the whole world, I think they're number two because they're selling... Because they don't need 730,000 rifles. They have 730,000. I mean, I don't know what... We go to fight a war. What did they do? What?"
-          },
-          "context": {
-            "previous": "Nevertheless, there were people that helped us take them out. But we have Americans left behind. We have 13 dead soldiers. Incredible. The parents largely, they came here shortly after that and we're going to have them back too. () We sat, they said, \"Well, we won't see President Trump. He'll come maybe for a couple of minutes.\" I stayed with them for four hours. We listened to music up in the deck. It was beautiful. It was just nice. They're great people. They're devastated. That would've never happened.",
-            "next": "37 rifles for every soldier we have, it's crazy, but we had 730 some odd thousand rifles, and then we had 72,000 vehicles. () Many of them armor plated, you know how expensive with four inch armor, four inch like this on the bottom. They sell all that stuff. They're one of the largest because they don't need all of it. They can keep instead of... Think of what 72,000 vehicles is. If you take the biggest used parking lot, used car lot in Texas, think Texas, they have big... They probably have what? 500 cars here."
-          }
-        },
-        {
-          "match_score": 0.72622085,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "126",
-            "title": "Donald Trump Coronavirus Update Transcript Feb 29: Warns Not to Travel to Italy, South Korea",
-            "date": "20200229",
-            "topics": "Foreign Policy, Veterans Affairs"
-          },
-          "matched_segment": {
-            "segment_id": 38,
-            "text": "You pride yourself on a deal maker, but your former National Security Advisor, John Bolton has said that this is an Obama-style deal and sends the wrong message to ISIS and Al Qaeda. What did the Taliban give up here- Well first of all- Speaker 16: () And will you be hosting the Taliban in Washington, at Camp David, or will you meet them abroad? We'll look at that. Look, nobody should be criticizing this deal after 19 years. He had his chance. He didn't do it. He was very much in favor of going in."
-          },
-          "context": {
-            "previous": "They've been talking to our people. We've been talking to their people having to do with the virus. No, our relationship with China is very good. Maybe it's closer because of what's happened here because it was... In a certain way, this can bring the world closer. If you want to know, it can really do that. Go ahead. Speaker 16: () If I could just follow up.",
-            "next": "We should have never gone in, in the first place. When they went into Iraq... Listen, listen. When they went into Iraq, when they went into the Middle East in such a fashion, I was very much against it. Shouldn't have gone in. He thought we should have. That's been proven wrong. I'm surprised that anybody would be against something where we try and end a 19 year war. We're 8,000 miles away from our home, we've done a great job in the sense that we've killed a lot of terrorists. We've put them out of commission."
-          }
-        },
-        {
-          "match_score": 0.7207462,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "411",
-            "title": "Donald Trump Des Moines, Iowa Rally Speech Transcript October 9",
-            "date": "20211009",
-            "topics": "Economy, Immigration, Foreign Policy, Education"
-          },
-          "matched_segment": {
-            "segment_id": 140,
-            "text": "I mean, you hate to give them 10, but it's ... I wouldn't give many money unless they gave us back the equipment. I wouldn't do anything. And remember this, we also have American hostages over there. They haven't played that game yet. They will. That's why they're doing ... They're paying the 10 billion, because we have so many people over there. And I guarantee the Taliban, very tough, very smart. Afghans, great negotiators."
-          },
-          "context": {
-            "previous": "Despite the fact that when Biden, hopelessly surrendered to them just a month ago and moved our military out first, we left them with the $85 billion of the finest military equipment in the world. And now he wants to give them $10 billion of your taxpayer money on top of everything else. And we shouldn't do that, unless ... here's an idea. We have breaking news, unless they're willing to give back 100% of the military equipment that our television generals left behind. Isn't that a good idea?",
-            "next": "And they say, \"What are you going to do, if we give back the people that automatically would've just walked out with us very easily?\" And they weren't doing anything. We could have taken six months, a year, two years, five years, or we could have taken two months, could have done it as fast as we want. They were leaving us alone. They didn't like jets over their heads, with machine guns and bombs. They didn't like it, as tough as they may be. But you know what's happened?"
-          }
+        "context": {
+          "previous": "We're the only ones doing well. But she flip-flopped. Last week you saw that disaster after proposing to flood America with refugees from Gaza. Oh, that sounds like a wonderful idea, doesn't it? So, DeSanctus and bird brain are too weak and too timid and politically ... We need people that are going to defend our country. Our country is in trouble. We need people that are going to defend our country. And I'm the only candidate who says it with relish. I say it with pride.",
+          "next": "Hannibal Lecter was from an insane asylum.\" They said, \"Sir, that's very tough.\" \"Of course, it's true, right?\" \"Yes, it's true, but it's a very tough...\" I said, \"Then I'll say it if it's true.\" They're emptying out their mental institutions, insane asylums, their prisons and their jails, and you have many, many thousands of terrorists pouring into our country. And I'll tell you, does anybody want to hear the snake? Speaker 8 Because we have it and people, they always want to hear the snake. But I love it."
         }
-      ],
-      "Harris": [],
-      "Trump_avg_score": 0.7347,
-      "Combined_avg_score": 0.7347
-    }
+      },
+      {
+        "match_score": 0.75259364,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "492",
+          "title": "Trump Rally in Wisconsin",
+          "date": "20240909",
+          "topics": "Economy, Immigration, Government Policy"
+        },
+        "matched_segment": {
+          "segment_id": 83,
+          "text": "Thank you, Gretchen. Great. That's great. Thank you very much. Appreciate it Gretchen. As borders are, Kamala Harris let in over 20 million, they're now saying the number could be 25 million illegal aliens from 168 different countries. Most people don't even know that you have that many countries, coming from prisons and jails and insane asylums and mental institutions, and terrorists at a level that we've never seen before. I told this a few times."
+        },
+        "context": {
+          "previous": "Also with us is famed country singer and she wrote some songs that have been top of the line and a winner of awards all over the place. Gretchen Wilson, where's Gretchen? Gretchen, thank you very much. Great job. Great job. Do you want to come up Gretchen? Okay, come up. Come up. Come up. What the hell? It's a Saturday. We have all day, right? Come on. Thank you. Thank you, it's a great honor, thank you, Gretchen, very nice. Yes, it sure [inaudible :41] Thank you, Gretchen. [inaudible :49] Beautiful words, thank you.",
+          "next": "We were, during the border patrol is fantastic, and ICE, and our whole thing with the police officers, they're all, these are people that are brave and great, and they really want to do their job, but they came out with the border patrol, a study on terrorism, and they said in 2019, my year, they said, not one terrorist came into the country. Now I don't really believe that, it can't be that good. It can't be, because now we have thousands coming in."
+        }
+      },
+      {
+        "match_score": 0.745394,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "230",
+          "title": "Donald Trump Speech Transcript at North Carolina GOP Convention Dinner June 5",
+          "date": "20210605",
+          "topics": "Immigration, Government Policy"
+        },
+        "matched_segment": {
+          "segment_id": 52,
+          "text": "I think around 92% had criminal records. Now, they're all being set free and released back into your communities. They don't want to bring them back. If they are back, they actually have a new policy that, if we took them out, they're going to let them come back in. It's the most incredible thing I've ever heard. But the border is just the beginning of the Biden disasters. As you know, we handed the new administration the greatest economy in the history of the world. We passed massive tax cuts. The largest ever."
+        },
+        "context": {
+          "previous": "And these are some of the finest people you'll ever meet. I got to know so many of them and they're among the finest people you'll ever, ever meet. It's true. They love our country. Despite the worst border crisis in history, we've had the smallest number of illegal alien removals ever. ... had the smallest number of illegal alien removals ever recorded. 92% of illegal aliens we removed in 2020 had criminal records. You believe that? Over 90 and very substantially probably higher than that.",
+          "next": "Larger than our great friend, Ronald Reagan. Record regulation cuts, historic pro-American trade deals, and achieved American energy independence. How's your gasoline price doing? Actually, I guess, you were hit worse than any state from what I understand on the cyber attack. It's incredible. It's a lack of respect. After the pandemic began, we launched the fastest economic recovery on record. We produced three vaccines and numerous therapeutics to defeat the virus."
+        }
+      }
+    ]
   }
 }

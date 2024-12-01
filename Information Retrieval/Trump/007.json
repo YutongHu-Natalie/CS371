@@ -1,107 +1,67 @@
 {
   "query_id": "007",
-  "query_text": "And just to finish, they(Biden and Harris\u2019 government) blew it(agreement with the Taliban). The agreement said you have to do this, this, this, this, this, and they didn't do it. The agreement was--was terminated by us because they didn't do what they were supposed to do.And these people(Biden and Harris\u2019 government) did the worst withdrawal and in my opinion the most embarrassing moment in the history of our country. And by the way, that's why Russia attacked Ukraine. Because they saw how incompetent she and her boss are.",
+  "query_text": "And told by their(undocumented immigrants\u2019) countries like Venezuela don't ever come back or we're going to kill you. Do you know that crime in Venezuela and crime in countries all over the world is way down? You know why? Because they've taken their criminals off the street and they've given them to her(Harris) to put into our country. ",
   "query_topics": [
-    "Foreign Policy",
-    "Government Policy"
+    "Immigration",
+    "Foreign Policy"
   ],
+  "speaker": "Trump",
   "results": {
-    "And just to finish, they(Biden and Harris\u2019 government) blew it(agreement with the Taliban). The agreement said you have to do this, this, this, this, this, and they didn't do it. The agreement was--was terminated by us because they didn't do what they were supposed to do.And these people(Biden and Harris\u2019 government) did the worst withdrawal and in my opinion the most embarrassing moment in the history of our country. And by the way, that's why Russia attacked Ukraine. Because they saw how incompetent she and her boss are.": {
-      "Trump": [
-        {
-          "match_score": 0.7471112,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "064",
-            "title": "Vance and Trump rally in Asheboro, NC",
-            "date": "20240822",
-            "topics": "Economy, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 27,
-            "text": "(:54) Exactly three years ago this month, the weakness and incompetence of Kamala Harris and Crooked Joe Biden delivered the most humiliating event in the history of our country and one of the biggest military disasters in the history of the world as far as I'm concerned. No one will ever forget the horrifying images of their catastrophic retreat from Afghanistan."
-          },
-          "context": {
-            "previous": "In that case, it was Republicans that were copying me because they happened to be right so I don't mind if a Republican copies me. Any of you guys want to copy me. But it's a sad thing to have to say, but they copy me. The resolute desk. He never mentioned that. He doesn't even know what the hell the resolute desk is.",
-            "next": "Desperate Afghans fell to their deaths from the wheels of US cargo planes that were 3,000 feet up in the air, blood-thirsty terrorists poured out of the prisons after Biden and Harris surrendered Bagram, one of the largest air military bases anywhere in the world. We spent billions and billions of dollars building it many years ago, and it was important to keep it. I was never leaving that. I would've been out faster than them. I said..."
-          }
+    "And told by their(undocumented immigrants\u2019) countries like Venezuela don't ever come back or we're going to kill you. Do you know that crime in Venezuela and crime in countries all over the world is way down? You know why? Because they've taken their criminals off the street and they've given them to her(Harris) to put into our country. ": [
+      {
+        "match_score": 0.8051547,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "481",
+          "title": "Trump Rally in Walker, Michigan",
+          "date": "20240930",
+          "topics": "Immigration, Government Policy"
         },
-        {
-          "match_score": 0.72566307,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "476",
-            "title": "Donald Trump Latrobe, Pennsylvania Rally Speech Transcript September 3",
-            "date": "20200903",
-            "topics": "Economy, Immigration, Foreign Policy, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 107,
-            "text": "We got losses, we got nothing. It was a terrible deal, I renegotiated, now it's a good deal. They also gave and want to give mass amnesty for illegal aliens. Biden supported cutting Social Security. He voted for the Iraq War, he opposed the mission to take out Osama bin Laden. He opposed the killing of Soleimani, when I did that, he said, \"That's a terrible thing. That's a terrible thing.\" Everybody in the Middle East, they couldn't believe it. They celebrated, some of them quite quietly I must add."
-          },
-          "context": {
-            "previous": "Together we've been rapidly fixing a half a century of disasters and Biden was there for every one of them. Joe Biden supported NAFTA, China's entry into the World Trade. He supported the Korean deal, the Korean deal was so bad, it was so bad. This was a deal that was going to produce to South Korea done by Crooked Hillary Clinton, this was a deal that was going to produce 250,000 jobs. She said, \" This will be 250,000,\" and she was right, for South Korea. It produced 250,000 jobs. For us, we got nothing.",
-            "next": "President Donald J. He oversaw the rise of ISIS and he cheered the rise of China as a positive development for America and the entire world. Remember that? Now he's trying to say, \"Well I can be tough on China too.\" No he can't. China owns him. China owns Sleepy Joe. He's not going to be tough on China and he said all these wonderful things and then all of a sudden his poll numbers started going down. How about law enforcement? He's like so bad."
-          }
+        "matched_segment": {
+          "segment_id": 18,
+          "text": "() Now because in Venezuela, their crime is down 72% because they've taken their criminals, they're gang members, they're drug dealers, and they brought them into the United States of America, and they're also releasing almost all of their prisoners. Soon the almost will be gone, their prisons will be empty, their mental institutions and insane asylums will be empty. They're dumping them in our country. And I never had proof."
         },
-        {
-          "match_score": 0.7150653,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "063",
-            "title": "Donald Trump Cullman, Alabama Rally Speech Transcript",
-            "date": "20210822",
-            "topics": "Immigration, Foreign Policy, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 62,
-            "text": "The issue here is not about whether to leave Afghanistan. The issue is Joe Biden's staggering incompetence and gross negligence. He doesn't know where the hell he is. You think, he's running the government? He's not running the government. Creating the greatest strategic humiliation that we've ever seen as a country. And it was something that we should've stopped and the general should have done something. They should have done something."
-          },
-          "context": {
-            "previous": "And you got to get your kids back to school. And the mask issue is interesting because Fauci said, \"Masks are bad,\" and now he's a radical masker. Now he wants you to wear 15 different masks at one time. I don't know. He also told me he was a great athlete. Then I saw him throw out a pitch at the baseball game. \"I used to be a great athlete, Sir.\" \"You did, really? Oh, that's good.\" Then I watch him on television. That's not [inaudible :04]. The ball almost went to first base, didn't it?",
-            "next": "They should have talked to him and said, \"Look, Commander in Chief,\" but you just couldn't have done that. If he had that evacuate... If he just moved the people out, he should have done it and he should have done it first. He had to have done it first. Sometimes in life decisions are made and when those decisions are made, if they're bad decisions, you've got to get away from them and you've got to get away from them fast. And if you don't get away from them, you're not going to have a country anymore."
-          }
-        },
-        {
-          "match_score": 0.7104307,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "022",
-            "title": "Donald Trump Delivers Keynote Speech in Florida 4/21/22 Transcript",
-            "date": "20220424",
-            "topics": "Immigration, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 23,
-            "text": "They tried to say, \"Oh we didn't,\" but they did. Under Biden, they got everything. So you look at Georgia, you look at Crimea, and under Biden, they got everything. And under me, they got nothing, except we pulled troops out of other countries. They always said that I was very nice to Russia, the fake news, these people back there. They said that I was always very nice, but I was the one that killed the pipeline, the biggest thing they've ever done."
-          },
-          "context": {
-            "previous": "We did it through weakness. We were going to keep Bagram, but everybody was going to be out. The reason we were keeping Bagram is because of China. It's one hour away from where China makes its nuclear weapons. It cost billions of and billions of dollars to build many years ago. And right now, it looks to me like China's going to end up owning and operating Bagram. We fled, left the lights on late at night and we fled, and they did leave all the dogs behind, by the way, for those people that loved dogs.",
-            "next": "I funded NATO with $$430 billion by saying, if you don't pay up, we're not going to defend you. And they all paid up, or most of them paid up, but the rest is coming in. They never saw anything like it. The Secretary General said that it's the most incredible thing he's ever seen because his Bush made a speech, Obama made a couple of speeches. They never mentioned the fact that everybody was delinquent, they didn't pay."
-          }
-        },
-        {
-          "match_score": 0.7049126,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "057",
-            "title": "Donald Trump Sean Hannity Interview on Afghanistan August 17: Transcript",
-            "date": "20210818",
-            "topics": "Foreign Policy, Veterans Affairs"
-          },
-          "matched_segment": {
-            "segment_id": 15,
-            "text": "It was an agreement where, actually, we wanted to get out by May 1, and they violated the agreement. So, we didn't. It's a great agreement from a lot of different standpoints. And, frankly, Biden didn't have to even go by that agreement. He could have done... Look what he's done to the border. We had the greatest border, Southern border, in the history of our country. We stopped drugs. We stopped human trafficking. We stopped people from coming in, prisoners from coming in."
-          },
-          "context": {
-            "previous": "But we have had situations where you have two or three or four hostages. We could have 40,000 Americans, not to mention others, like people that helped us in Afghanistan. So, we have never had a situation like this. We have 40,000 potential hostages, a minimum- ... of 11,000, but it could be as many as 40. No, they have no idea how many. Nobody knows how many. They don't know anything. We would have hit them very hard. Again, the words are conditions, plural, conditions-based.",
-            "next": "Now- We stopped people from coming in, prisoners from coming in. Now you have the worst people in the world. They're emptying their jails into our country. This is like the Southern border but it's handled even worse. Nobody handled the Southern border worse than him. We had the most secure border we've ever had. Now we have, by far the worst border we've ever had. Well, Afghanistan is the exact same thing. To think of this, we have a military, it's holding it."
-          }
+        "context": {
+          "previous": "Their crime rate is down in Caracas. () In fact, I suggest if I lose, I'll tell you what it's possible because they cheat. That's the only way we're going to lose because they cheat. They cheat like hell. If we lose the next time, we're going to have the same group of people in Caracas Venezuela because it's much safer than any place in our country if she wins, much safer. So let's go to Caracas. It was a very unsafe place.",
+          "next": "And those fake news reporters back there, they never, they say \"Trump, what would he know about that? What would he know?\" You know why? It's common sense. We're a party of common sense, by the way, just so you know, common sense. () So these numbers just came out. Nobody's ever seen these numbers for years. Nobody's ever seen them. And probably some patriot in ICE or somebody just did something. They just said, the country's going bad. You can't have a country like that."
         }
-      ],
-      "Harris": [],
-      "Trump_avg_score": 0.7206,
-      "Combined_avg_score": 0.7206
-    }
+      },
+      {
+        "match_score": 0.7865354,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "228",
+          "title": "Donald Trump Interview on the Will Cain Show",
+          "date": "20240604",
+          "topics": "Economy, Immigration, Foreign Policy, Government Policy"
+        },
+        "matched_segment": {
+          "segment_id": 63,
+          "text": "They're streetwise and they're smart and they love their country, or they want to do a good job for their country or themselves, doesn't matter because whatever it is, and they're moving all of their bad people into our country. And Venezuela just reported that their crime is down 72% in a year. You know why? Because they moved all their criminals into the United States. And the next time we do an interview, we'll do it in Venezuela because it'll be much safer than being in our country."
+        },
+        "context": {
+          "previous": "What we're doing, what we're going on. I got to know that leaders of all the countries, and they're at the top of their game. () They're very sharp, they're vicious. That's why they're doing so well, Honduras, all of them. I know every one of them. And they're very streetwise people. You know that better than anybody.",
+          "next": "Well, the second part of that question is so great and so tough because the radical left is going to start saying, oh, look. So you'll get rid of 10 really bad ones and one beautiful mother who they think is guilty of something, and maybe she is, maybe, and it'll become a story or a family that's a good family and came in wrong and they're going to show it, then it's going to always be tough. It's not going to be easy, and we have to use a lot of good judgment."
+        }
+      },
+      {
+        "match_score": 0.7865314,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "492",
+          "title": "Trump Rally in Wisconsin",
+          "date": "20240909",
+          "topics": "Economy, Immigration, Government Policy"
+        },
+        "matched_segment": {
+          "segment_id": 101,
+          "text": "I will get these monster criminals out of Wisconsin. I will get them out of our country. We're going to get them out fast. We're going to get them out fast, very fast. They'll soon be back on the streets and jails of Caracas, Venezuela and other places from where they came. Think of it though. Venezuela crime is down 72%. People are saying, oh, isn't it wonderful, Venezuela? In fact, if they win, we're never going to lose touch with each other if they win, but we won't come here. It'll be too dangerous."
+        },
+        "context": {
+          "previous": "They're in the real estate business. Isn't that nice? They were in jail two months ago. Now they're in the real estate business in Colorado just two days ago, right here in small town Wisconsin. (:16) What a beautiful place. However, a member of a savage Venezuela gang was arrested for sexually assaulting a woman and attacking viciously a child. He's charged with suffocation, child abuse, sexual assault, and many other things. Bad guy, shouldn't be in the country, came out of jail, came out of jail in his country.",
+          "next": "We will have a meeting. (:15) We will have a rally in Caracas, Venezuela, because it will be safe by comparison to Wisconsin. So we'll all hop in a flight. We'll go over to Caracas, Venezuela or one of hundreds of other countries that are safer than the US because our country is a very unsafe country now, and we're really subject to what these people want to do. And these are violent people. These are people that were criminals at the worst level in their cities all over the world."
+        }
+      }
+    ]
   }
 }

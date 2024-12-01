@@ -1,164 +1,67 @@
 {
   "query_id": "001",
-  "query_text": "I'm not signing a ban (on abortion). And there's no reason to sign a ban. Because we've gotten what everybody wanted. Democrats, Republicans and everybody else and every legal scholar wanted it to be brought back into the states. And the states are voting. And it may take a little time, but for 52 years this issue has torn our country apart. ",
+  "query_text": "We handed them(pandemic) over a country where the economy and where the stock market was higher than it was before the pandemic came in.",
   "query_topics": [
-    "Healthcare",
-    "Government Policy",
-    "Social Justice"
+    "Economy",
+    "Healthcare"
   ],
+  "speaker": "Trump",
   "results": {
-    "I'm not signing a ban (on abortion). And there's no reason to sign a ban. Because we've gotten what everybody wanted. Democrats, Republicans and everybody else and every legal scholar wanted it to be brought back into the states. And the states are voting. And it may take a little time, but for 52 years this issue has torn our country apart. ": {
-      "Trump": [
-        {
-          "match_score": 0.7570212,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "044",
-            "title": "Trump Holds News Conference at Mar-a-Lago",
-            "date": "20240812",
-            "topics": "Economy, Immigration, Foreign Policy, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 61,
-            "text": "What I've done is I've done what every Democrat and every Republican wanted to have done, and we brought that issue back to the States, and now the States are voting on it, and frankly, some of the votes are a lot different than people would've thought, but it's the vote of the people that's taking care of it. () And when you think about the radical, the Democrats are really the radical ones on this because they're allowed to do abortion on the eighth and ninth month and even after birth."
-          },
-          "context": {
-            "previous": "And then you have Texas and you have other places where it may be different. () But the issue has been brought back to the States now, and like Ronald Reagan, I believe in the exceptions for rape, incest, and life of the mother, I believe strongly. I think that that's a very important thing. I think when you don't... You have to follow your heart, but when you don't believe, and the exceptions, I think it's much tougher, it's a much tougher issue.",
-            "next": "If you look at your new governor from Minnesota, he's talking about... He's like the governor previous, the former governor. I don't want to get him mixed up because Glenn is doing a good job and he's leading our whole campaign in Virginia, Glenn Youngkin, but previous to Glenn, the governor, he said, \"The baby will be born, we will put the baby aside and we will decide the mother what we're going to do,\" in other words, whether or not we're going to kill the baby."
-          }
+    "We handed them(pandemic) over a country where the economy and where the stock market was higher than it was before the pandemic came in.": [
+      {
+        "match_score": 0.76568544,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "360",
+          "title": "Trump Town Hall on Univision",
+          "date": "20241017",
+          "topics": "Economy, Government Policy"
         },
-        {
-          "match_score": 0.74291366,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "441",
-            "title": "Meet The Press Full Donald Trump Interview Transcript",
-            "date": "20230918",
-            "topics": "Economy, Immigration, Foreign Policy, Veterans Affairs, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 48,
-            "text": "We have to bring the country together on this issue. I care about it, too. Oh, I care about it, too. No, I don't think you should be allowed to have abortions well into a pregnancy. No. We're going to agree to a number of weeks or months or however you want to define it. And both sides are going to come together. And both sides, and this is a big statement. Both sides will come together and for the first time in 52 years, you'll have an issue that we can put behind us. It could be state or it could be federal."
-          },
-          "context": {
-            "previous": "And Kristen, you have to look at this because you said no. You have some states that are allowed to kill the child after birth, and you can't allow that. But you have legislation. Kristen, you have legislation in certain states, where it's allowed. The governor of Virginia, previous governor, who was a wack... I call him the Michael Jackson governor. Excuse me. That governor said you can kill the baby after birth. We'll agree to a number of weeks, where both sides will be happy.",
-            "next": "I don't frankly care. I would say this, everybody and including the great legal scholars love the idea of Roe v. Wade terminated, so it'd be brought back to the states. I would say this, from a pure standpoint, from a legal standpoint, I think, it's probably better, but I can live with it either way. It's much more important the number of weeks, but something will happen with the number of weeks, the amount of time after which you can't do it. And you know what?"
-          }
+        "matched_segment": {
+          "segment_id": 19,
+          "text": "() We did a great job in keeping it all going. We ended up where the stocks were higher, despite all of the COVID, China virus that came into our country. The stocks ... When I handed over, the stocks were higher than they were previous to the COVID coming in. So we had to focus on that obviously, but we had the best economy that we've ever had. We're going to have that again. () What's going to solve the problem is growth."
         },
-        {
-          "match_score": 0.7401855,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "441",
-            "title": "Meet The Press Full Donald Trump Interview Transcript",
-            "date": "20230918",
-            "topics": "Economy, Immigration, Foreign Policy, Veterans Affairs, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 46,
-            "text": "I would sit down with both sides, and I'd negotiate something, and we'll end up with peace in that issue for the first time in 52 years. I'm not going to say I would, or I wouldn't. I mean, the Sanctus is willing to sign a five week and six week ban. I think what he did is a terrible thing and a terrible mistake. But we'll come up with a number. But at the same time, Democrats won't be able to go out in six months, seven months, eight months, and allow an abortion."
-          },
-          "context": {
-            "previous": "What's going to happen is, you're going to come up with a number of weeks or months? You're going to come up with a number that's going to make people happy, because 92% of the Democrats don't want to see abortion after a certain period of time. Are you talking about a complete ban? Well, people are starting to think of 15 weeks. That seems to be a number that people are talking about right now.",
-            "next": "And Kristen, you have to look at this because you said no. You have some states that are allowed to kill the child after birth, and you can't allow that. But you have legislation. Kristen, you have legislation in certain states, where it's allowed. The governor of Virginia, previous governor, who was a wack... I call him the Michael Jackson governor. Excuse me. That governor said you can kill the baby after birth. We'll agree to a number of weeks, where both sides will be happy."
-          }
-        },
-        {
-          "match_score": 0.73758805,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "457",
-            "title": "Trump Rally in North Carolina",
-            "date": "20240923",
-            "topics": "Economy, Immigration"
-          },
-          "matched_segment": {
-            "segment_id": 70,
-            "text": "() At long last, this national nightmare that we're going through will be over. Women will be happy, healthy, confident, and free. You'll no longer be thinking about abortion because it is now where it always had to be with the states and with the vote of the people. The people are now voting and many of those votes are far more liberal than we thought, but every legal scholar, every Republican and Democrat for years didn't want it in federal."
-          },
-          "context": {
-            "previous": "Women are poorer than they were four years ago. Are less healthy than they were four years ago. Are less safe on the streets than they were four years ago. Are paying much higher prices for groceries and everything else than they were four years ago. Are more stressed and depressed and unhappy than they were four years ago. Are less optimistic and confident in the future than they were just four years ago. I will fix all of that, women, I will fix all of that and I will fix it fair.",
-            "next": "They wanted it in the states and a vote of the people, and that's what's happening right now and with the powerful exceptions like those that Ronald Reagan insisted on. () Ronald Reagan insisted on the exceptions for rape, incest, and life of the mother, but not allowing for Democrat-demanded late-term abortion in the seventh, eighth, and ninth month, or even execution of a baby after birth, which is what they want. I asked her about it during the debate and she didn't want to answer it."
-          }
-        },
-        {
-          "match_score": 0.72676134,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "044",
-            "title": "Trump Holds News Conference at Mar-a-Lago",
-            "date": "20240812",
-            "topics": "Economy, Immigration, Foreign Policy, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 64,
-            "text": "I think the abortion issue has been taken down many notches. I don't think it's a big factor anymore, really, and when people hear what I said in the debate, and I think I said it very well during the debate, we've brought it back to the States, everybody wanted it in the States, and very importantly, and you think about this, assuming you have exceptions... If you don't have exceptions, it's a more difficult thing."
-          },
-          "context": {
-            "previous": "() The Minnesota gentleman, this guy, agrees with that. He is the most liberal... Look, between her and him, there's never been anything like this. There's never been a combination so, I'll use the word, progressive. They want to go... They don't like the word liberal. I like liberal better, I think it's more appropriate, because nobody knows what progressive means, but they now like to use the word progressive. But there's certainly never been anybody so liberal like these two or even close.",
-            "next": "At the same time, there are people that strongly feel that way and you have to follow your heart and you should follow your heart, but that issue is very much subdued. Yeah. Thank you, About who? Yes. No, I didn't. Look, if you take away guns... She wants to take away everyone's gun. If you take away guns, can't do it because people need the guns for protection. Now, entertainment, they wanted hunting, different things, but they need weapons for protection in this country."
-          }
+        "context": {
+          "previous": "Good question. So we do, we have record national debt. We've never had anything like it before. We were getting ready to start paying down debt, and then we got hit with a thing called COVID or the China virus, and that had to be the focus. We needed to help businesses stay in business. If we didn't do the job we did ... Linda McMahon did a great job, Small Business Association. If we didn't do the job that we did, you wouldn't have any companies. You would've been in a depression like in 1929.",
+          "next": "It's a thing called growth that nobody even talks about from the Democrat standpoint because they don't know about growth. But we're going to bring companies in, we're going to bring tremendous business to our country, and that's going to solve that. () Also, waste, fraud, and abuse. We have Elon Musk, who's a fantastic guy and a fantastic genius. He's a genius at a lot of things, but he's a great business person also in addition to sending rockets. You saw his rocket come down the other day and land."
         }
-      ],
-      "Harris": [
-        {
-          "match_score": 0.6514312,
-          "metadata": {
-            "speaker": "Harris",
-            "speech_id": "020",
-            "title": "Harris and Walz Hold First Rally",
-            "date": "20240807",
-            "topics": "Economy, Healthcare, Education, Social Justice, Gun Control, Veterans Affairs"
-          },
-          "matched_segment": {
-            "segment_id": 20,
-            "text": "After Roe was overturned, he was the first governor in the country to sign a new law that enshrined reproductive freedom as a fundamental right. And with Tim Walz by my side, when I am President of the United States and we win majorities in the United States Congress, we will pass a bill to restore reproductive freedom, and I will properly sign it into law. (:28) Tim Walz has also defended the sacred freedom to vote."
-          },
-          "context": {
-            "previous": "Think about that. (:55) Well, Tim and I have a message for Trump and others who want to turn back the clock on our fundamental freedoms: we're not going back. We're not going back. We're not going back. We're not going back. We're not going back. We're not going back. And so let me say, about Tim Walz, he has shown up to stand against these attacks long before he stood on the stage with me.",
-            "next": "As Governor, he signed the most significant expansion of voting rights in Minnesota in over 50 years. And with Governor Walz's help when I am President, we are going to finally pass the John Lewis Voting Rights Act and the Freedom to Vote Act. We're going to get it done. So Tim is a hunter and a gun owner who believes, as the majority of gun owners do that, we need reasonable gun safety laws in America. So as governor, he expanded background checks and increased penalties for illegal firearm sales."
-          }
+      },
+      {
+        "match_score": 0.7424863,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "011",
+          "title": "Donald Trump Addresses NRA Meeting in Indianapolis Transcript",
+          "date": "20230417",
+          "topics": "Gun Control"
         },
-        {
-          "match_score": 0.6464981,
-          "metadata": {
-            "speaker": "Harris",
-            "speech_id": "112",
-            "title": "Harris Rally in Wisconsin",
-            "date": "20240923",
-            "topics": "Economy, Social Justice, Veterans Affairs"
-          },
-          "matched_segment": {
-            "segment_id": 26,
-            "text": "And when Congress passes the bill to restore reproductive freedom, as President of the United States, I will proudly sign it into law. Proudly. And across our nation, we are witnessing a full-on assault on other hard-fought, hard-won fundamental rights and freedoms like the freedom to vote, the freedom to be safe from gun violence, the freedom to join a union, the freedom to love who you love openly and with pride. () So we know what we are up against. We are clear-eyed about what we are up against."
-          },
-          "context": {
-            "previous": "And she was so proud that she had worked so hard and she was finally gaining independence, that she found an apartment in a safe community. It had a little pool where her son could play. This is one example of what is happening around our country right now. And this is a healthcare crisis. And Donald Trump is the architect. So I will say to you, because of why we are here, we're going to get Tammy re-elected to the United States Senate.",
-            "next": "And we remember that generations of Americans before us led the fight for freedom. And now the baton is in our hands. Now it's in our hands. It's in our hands. And so much is on the line in this election. And this is not 2016 or 2020. The stakes are even higher, because remember two months ago, the United States Supreme Court basically told the former President that he will effectively be immune no matter what he does in the White House. But think about that. Think about what that means."
-          }
+        "matched_segment": {
+          "segment_id": 9,
+          "text": "() We put it into high gear, like we did for four years when this country had no problems, and then COVID came in and we got it back. When you think about it, it was amazing. We actually left it with a stock market that was higher than just pre-COVID coming in. It was an amazing job that we did. We built it twice, but there was nothing like it. There was nothing like it."
         },
-        {
-          "match_score": 0.6135981,
-          "metadata": {
-            "speaker": "Harris",
-            "speech_id": "020",
-            "title": "Harris and Walz Hold First Rally",
-            "date": "20240807",
-            "topics": "Economy, Healthcare, Education, Social Justice, Gun Control, Veterans Affairs"
-          },
-          "matched_segment": {
-            "segment_id": 18,
-            "text": "(:47) So Pennsylvania, ours is a fight for the future of the middle class, and it is a fight for freedom. In this moment, we are witnessing a full-on attack against hard fought, hard won freedoms and rights. Take reproductive freedom. Now think about this, Donald Trump said he wants to punish women. And as a result of his actions today in America, one out of three women live in a state with a Trump abortion ban, one out of three. Some of these bans go back to the 1800s, even before women had a right to vote."
-          },
-          "context": {
-            "previous": "As governor, Tim has continued to fight for working families. He secured paid leave for workers in Minnesota and he refused as governor to allow any student in their public schools to go hungry, so he made school breakfast and lunch free for every child. And Tim Walz and I, we agree about many things including when our middle class is strong, America is strong. And strengthening in the middle class will be my defining goal as I am President of the United States.",
-            "next": "Think about that. (:55) Well, Tim and I have a message for Trump and others who want to turn back the clock on our fundamental freedoms: we're not going back. We're not going back. We're not going back. We're not going back. We're not going back. We're not going back. And so let me say, about Tim Walz, he has shown up to stand against these attacks long before he stood on the stage with me."
-          }
+        "context": {
+          "previous": "I'll tell you what, if I weren't running, which isn't going to happen, or if I was doing badly in the polls, and we're not going to let that happen either, we're killing them in the polls, are you seeing the numbers? They wouldn't be doing anything. They'd be after somebody else. They wouldn't be talking. But we're going to show you some of the polls in a little while, you're going to be amazed. We really made a lot of progress over the last month.",
+          "next": "Even right to try, I hope nobody needs it, right to try, where you can use this advanced medical treatments that won't be approved for five or six years by the FDA, but we got them to move a lot faster, I will tell you, on everything, but won't be approved by the FDA for years, and we've saved thousands and thousands of lives with right to try. But we did a lot, we did a lot. () 2024 is the year that we will defeat these nation-wrecking globalists, Marxists, RINOs, and tyrants once and for all."
         }
-      ],
-      "Trump_avg_score": 0.7409,
-      "Harris_avg_score": 0.6372,
-      "Combined_avg_score": 0.702
-    }
+      },
+      {
+        "match_score": 0.7371171,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "169",
+          "title": "Donald Trump Speech Transcript at Spirit of America Showcase",
+          "date": "20200702",
+          "topics": "Economy, Education, Healthcare, Social Justice"
+        },
+        "matched_segment": {
+          "segment_id": 13,
+          "text": "We had 50 days the likes of which we've never had in the history of the stock market, which to me means jobs. And it's lifting up 401Ks and retirement savings for American workers. We're doing numbers like nobody's ever seen before, take a look at 401Ks. In a pandemic, we're almost even with where we were before the pandemic started and nobody would have said that was possible, nobody at all. We built the greatest economy in the history of the world and we're now doing it again."
+        },
+        "context": {
+          "previous": "But only that strong foundation allowed us to be up here today talking about these records, setting job numbers and other numbers that we're producing. Because America's economy is now roaring back to life like nobody's ever seen before nobody's ever seen numbers like this. In May retail sales surge by nearly 18%, that's a record. We recently saw the best 50 day increase in the history of the stock market. So we had 50 days, go back a couple of weeks.",
+          "next": "And I think we'll do even better the second time than we did the first time, unless somebody comes along and says, let's raise taxes on everybody. And they're raising taxes, not only on cooperations, they'll just go to another country and they'll do just fine. But they're raising taxes on people and middle income people and they're losing jobs. So you can't allow that to happen. All of this incredible job that we've done will go down like that. It will be a terrible, terrible sight."
+        }
+      }
+    ]
   }
 }

@@ -1,0 +1,67 @@
+{
+  "query_id": "012",
+  "query_text": "My passion, one of them, is small businesses. My plan is to give a $50,000 tax deduction to start up small businesses, knowing they are part of the backbone of America's economy. ",
+  "query_topics": [
+    "Economy",
+    "Government Policy"
+  ],
+  "speaker": "Harris",
+  "results": {
+    "My passion, one of them, is small businesses. My plan is to give a $50,000 tax deduction to start up small businesses, knowing they are part of the backbone of America's economy. ": [
+      {
+        "match_score": 0.61896336,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "115",
+          "title": "Harris Speech in Pittsburgh",
+          "date": "20240926",
+          "topics": "Economy, Healthcare, Government Policy, Veterans Affairs"
+        },
+        "matched_segment": {
+          "segment_id": 13,
+          "text": "A survey of top economists by the Financial Times and the University of Chicago found that by an overwhelming 70 to 3% margin, my plan would be better for keeping inflation low. Objective economists have been very clear. And they create nearly 50% of private sector jobs and they strengthen our middle class. And if we can harness the entrepreneurialism of the American people and unlock the full potential of aspiring founders and small business owners, I am optimistic that no one will be able to outpace us."
+        },
+        "context": {
+          "previous": "I had the experience of dealing with that when I was Attorney General. We will take on big pharma, and cap the cost of prescription drugs for all Americans just like we did for our seniors. Now, by contrast, Donald Trump has no intention of lowering costs for the middle class. In fact, his economic agenda would actually raise prices. And listen, that's not just my opinion.",
+          "next": "() By contrast, Donald Trump, when he was president, has been described by one of the nation's leading experts on small businesses in a piece he published in a major paper as not being good for small businesses. In fact, the title... The title... Wait, because I'm bearing the lead right now. One of the leading experts on small businesses published a piece in one of the major newspapers, and the title, I'm going to quote, Does Donald Trump Hate Small Businesses? And their answer was yes. Their answer was yes."
+        }
+      },
+      {
+        "match_score": 0.61791307,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "076",
+          "title": "Biden and Harris Deliver Remarks for National Small Business Week Transcript",
+          "date": "20230502",
+          "topics": "Economy, Government Policy"
+        },
+        "matched_segment": {
+          "segment_id": 4,
+          "text": "() And as District Attorney of San Francisco, in my career, as Attorney General California and United States Senator, and now as Vice President, I have worked with and met with thousands of small business owners. Folks like you who are here, who fight every day to build a better future for the people you love, for the community you call home, and for our country."
+        },
+        "context": {
+          "previous": "And when she did, my sister Maya and I would go a couple doors over to Ms. Shelton's house. So Ms. Shelton ran a nursery school, and we actually lived in the apartment above the nursery school, and Ms. Shelton was our second mother. She was a small business owner and I would not be here today without her. Because you see, Mrs. Shelton was a fixture in our community. She gave support and advice to the young parents in the neighborhood and folks who are going through challenges just as so many of you do.",
+          "next": "() You power the ambition and aspirations of our nation and that is why we are fighting every day to make sure you have the resources and the support that you need. For example, we know there are so many small businesses owners who hire employees but want to hire more because your business is growing. Small business owners who want to stock the shelves and make sure you have enough in terms of the supply you need, to do what you need to do in your community."
+        }
+      },
+      {
+        "match_score": 0.6161274,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "076",
+          "title": "Biden and Harris Deliver Remarks for National Small Business Week Transcript",
+          "date": "20230502",
+          "topics": "Economy, Government Policy"
+        },
+        "matched_segment": {
+          "segment_id": 2,
+          "text": "Through your creativity, tenacity and determination, you help create prosperity and opportunity for millions of people in our country. Our small business owners are business leaders and our small business owners are community leaders and civic leaders. You train young people and hire locally. You support the local softball team. You are role models and mentors. And I'll tell you, I've seen it my whole life. () Growing up, my mother worked long hours and long days, and weekends from time to time."
+        },
+        "context": {
+          "previous": "And I will tell you, working with him and having the honor of doing that, no matter what room he is in, when the cameras are on or when they are off, President Biden is always fighting for America's small business owners and entrepreneurs. And so we all thank him, of course, for his leadership in that regard. () Small business owners are the backbone of America's economy. You are.",
+          "next": "And when she did, my sister Maya and I would go a couple doors over to Ms. Shelton's house. So Ms. Shelton ran a nursery school, and we actually lived in the apartment above the nursery school, and Ms. Shelton was our second mother. She was a small business owner and I would not be here today without her. Because you see, Mrs. Shelton was a fixture in our community. She gave support and advice to the young parents in the neighborhood and folks who are going through challenges just as so many of you do."
+        }
+      }
+    ]
+  }
+}

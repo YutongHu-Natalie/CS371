@@ -1,199 +1,67 @@
 {
   "query_id": "006",
-  "query_text": "When Donald Trump was president, 60 times he tried to get rid of the Affordable Care Act. 60 times. ",
+  "query_text": "I have a plan that is about allowing people to be able to pursue what has been fleeting in terms of the American dream, by offering a help with down payment of $25,000, down payment assistance for first-time home buyers. ",
   "query_topics": [
-    "Healthcare",
+    "Economy",
     "Government Policy"
   ],
+  "speaker": "Harris",
   "results": {
-    "When Donald Trump was president, 60 times he tried to get rid of the Affordable Care Act. 60 times. ": {
-      "Trump": [
-        {
-          "match_score": 0.68079424,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "415",
-            "title": "Donald Trump North Carolina Rally Transcript in Fayetteville, NC September 9, 2019",
-            "date": "20190910",
-            "topics": "Economy, Foreign Policy, Government Policy, Veterans Affairs"
-          },
-          "matched_segment": {
-            "segment_id": 66,
-            "text": "28 times, remember 28 times, they counted them and there's much more than that I would imagine, that you can choose your plan, you can choose your doctor. It didn't work out that way, did it? Obamacare, and we're keeping Obamacare alive. We got rid of the individual mandate, the worst part of Obamacare. We're keeping it and running it as well as it can, but the premiums are too high. The deductibles are through the roof."
-          },
-          "context": {
-            "previous": "President, I'm fighting for your victory.\" I said, \"You got to be kidding.\" He goes, \"Honestly, you're doing a great job, but also if this radical left gets in they're going to take away everything, and they're going to destroy our country.\" And for the first time I like this guy. My administration is defending your right to choose the plan and the doctor that is best for you. Remember President Obama?",
-            "next": "It's ridiculous, and we're coming up with Lindsey Graham and all of the folks, we're coming up with a great healthcare plan that if we take back to the house. That's why Dan and Greg, if we take back the House, if we keep the Senate, and maybe even increase it a little bit, wouldn't be bad, and on the assumption we keep the presidency, you're going to have great healthcare. Thank you. We almost had it."
-          }
+    "I have a plan that is about allowing people to be able to pursue what has been fleeting in terms of the American dream, by offering a help with down payment of $25,000, down payment assistance for first-time home buyers. ": [
+      {
+        "match_score": 0.73018265,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "115",
+          "title": "Harris Speech in Pittsburgh",
+          "date": "20240926",
+          "topics": "Economy, Healthcare, Government Policy, Veterans Affairs"
         },
-        {
-          "match_score": 0.672203,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "295",
-            "title": "Donald Trump Speaks at Libertarian Event",
-            "date": "20240526",
-            "topics": "Economy, Healthcare, Education, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 3,
-            "text": "I said, you don't respect the First Amendment. We're taking away all of your federal funding. Trump torpedoed Obamacare's individual mandate and got rid of many of its taxes, medical price transparency, empowered consumers to shop for healthcare services and compare costs. And this is one of the biggest thing that's happened. And it's reducing the price of drugs and everything related to drugs and medical care at levels not seen before. () This will soon be happening."
-          },
-          "context": {
-            "previous": "Trump's education department repealed the so-called guidance letter that turned on campus sexual harassment accusations into de facto criminal convictions. You know all about that. Who else would do that for you? Trump restored due process to the he said, she said minefield for your children. I know many, many people, what they've gone through with that is they've gone through hell in a powerful blow. Trump required universities to respect the First Amendment lest they lose their federal funds.",
-            "next": "The competition is now slowing what were ballooning healthcare expenses. Trump signed Right to Try, terminally ill patients now can receive experimental and possibly life-saving treatments. And when at death's door, what do these suffering Americans have to lose? What do they have to lose you ask? They are so thousands and thousands of people are now living because of Right to Try."
-          }
+        "matched_segment": {
+          "segment_id": 11,
+          "text": "We will also help first-time home buyers just get their foot in the door with the $25,000 down payment assistance. Because the goal is clear, let's help more Americans afford to buy a home, which we know is a critical step in their ability to grow their wealth and intergenerational wealth. () And we will work to reduce other big costs for middle class families. We will take on bad actors who exploit emergencies and drive up grocery prices by enacting the first ever federal ban on corporate price gouging."
         },
-        {
-          "match_score": 0.666838,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "124",
-            "title": "Donald Trump Charleston, South Carolina Rally Transcript \u2013 February 28, 2020",
-            "date": "20200228",
-            "topics": "Economy, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 81,
-            "text": "We should impeach him. We should impeach him for that. He lied 28 times. \"You'll keep your doctor, keep your plan. It's wonderful. Great.\" Went through the roof. We're doing a great job. We killed the individual mandate, which is the most unbelievable, horrible. It's not really Obamacare anymore, but we're running the hulk of it and we're trying to kill it entirely, and then we will put it back. You'll have great health care, and preexisting conditions will be totally protected."
-          },
-          "context": {
-            "previous": "While the Washington Democrats are trying to destroy your healthcare and to destroy your social security. That's what's going to happen. My administration is protecting your social security, your Medicare, and is fighting to give you great healthcare. We are defending your right to keep the doctor and to keep your plan of choice. Remember when President Obama would say, \"You can keep your doctor. You could keep your plan.\" 28 times. He said, \"You can keep your doctor and you can keep your plan.\" Well, he lied.",
-            "next": "Preexisting conditions will be totally protected. We're making healthcare better and much cheaper. While premiums more than doubled in the five years before I took office, we are now offering plans already that are up to 60% less expensive than the old Obamacare. Think of that and better. And better. We are stopping surprise medical billing, a disgrace."
-          }
-        },
-        {
-          "match_score": 0.6607255,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "471",
-            "title": "Donald Trump White House Press Conference Transcript September 27: Calls NY Times Tax Returns Report \u201cFake News\u201d",
-            "date": "20200927",
-            "topics": "Gun Control, Immigration, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 35,
-            "text": "It doesn't work. We've made the best of it. We got rid of the individual mandate, which is great. We are going to protect people with pre-existing conditions 100%, but if we can end Obamacare and come up with a much better health care system that's much cheaper, much cheaper and much better, which is what we'll do."
-          },
-          "context": {
-            "previous": "They think it's inappropriate to talk about them. I don't know that it's inappropriate, but I've gone by that custom. Go ahead, [inaudible :34]. Speaker 2: () Thank you sir. Democrats are arguing that ACB puts in danger not only Roe v. Wade, but a number of other decisions. Do you think that they are correct? No, I don't know. I don't think she's going to ruin the law. I think she's going to be a great Justice for many years to come, but I can say they also bring up healthcare. I mean, Obamacare is terrible.",
-            "next": "On the other hand, if the court rules against we will manage the system better, but don't forget, we've already essentially gotten rid of Obamacare because we got rid of the individual mandate and it was all based on that. So we've done a tremendous amount, because the individual mandate was the most unpopular aspect of Obamacare. You had to pay a lot of money for the privilege of not paying for bad health care. So that was a terrible thing for people."
-          }
-        },
-        {
-          "match_score": 0.6464077,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "436",
-            "title": "Donald Trump Mosinee, WI  Rally Speech Transcript September 17",
-            "date": "20200917",
-            "topics": "Economy, Foreign Policy, Immigration"
-          },
-          "matched_segment": {
-            "segment_id": 149,
-            "text": "Remember Obama 28 times, you can keep your doctor, you can keep your plan, that didn't work out too well, right. Why haven't they looked into that one, 28 times. Well, under Medicare for All, but it's basically socialized healthcare, you will never have your doctor, you will never have your plan. You'll have horrible healthcare. You're going to wait long times, long times. And, he wants to wipe out 180 million private healthcare plans that people love, 180 million plans. I don't think so."
-          },
-          "context": {
-            "previous": "Through our historic relief programs, we saved more than 1 million Wisconsin jobs and 87,000 Wisconsin businesses, that's not too bad. And, Biden would demolish all of those games, and we've done similar things in other states. He would destroy your social security, totally destroy it, and destroy protections for preexisting conditions. They want to go to social medicine, they want to go to social... You know that, right. You do know that. They want social healthcare where you don't...",
-            "next": "I don't think he's going to make it. How do you get elected? Let's say you're doing, not only here, let's say Texas, right, he's against oil, he's against God and he's against guns. That's a tough combination in Texas. How does that apply? Now, he's against religion. They won't open these blue states, they will not open your churches. They won't open them. And, I think they have an ulterior motive. One thing they have is, probably everything opens on November 4th, you understand that."
-          }
+        "context": {
+          "previous": "And one of those, some would argue one of the biggest, is the cost of housing. So here's what we will do. We will cut the red tape that stops homes from being built and take on in addition, corporate landlords who are hiking rental prices. And we will work with builders and developers to construct 3 million new homes and rentals for the middle class because increasing the housing supply will help drive down the cost of housing.",
+          "next": "I had the experience of dealing with that when I was Attorney General. We will take on big pharma, and cap the cost of prescription drugs for all Americans just like we did for our seniors. Now, by contrast, Donald Trump has no intention of lowering costs for the middle class. In fact, his economic agenda would actually raise prices. And listen, that's not just my opinion."
         }
-      ],
-      "Harris": [
-        {
-          "match_score": 0.73603094,
-          "metadata": {
-            "speaker": "Harris",
-            "speech_id": "103",
-            "title": "Kamala Harris Campaign Speech Transcript McAllen, Texas October 30",
-            "date": "20201030",
-            "topics": "Economy, Healthcare, Social Justice, Climate"
-          },
-          "matched_segment": {
-            "segment_id": 13,
-            "text": "And you see, Barack Obama, together with Vice President Biden, created the Affordable Care Act knowing people with preexisting conditions, including the 10 million Texans who have preexisting conditions, should be protected. But Donald Trump's in court right now trying to get rid of that. And part of the issue that I see, let's remember this, from the time the guy was running for office until now, Donald Trump has had this weird obsession with trying to get rid of whatever Barack Obama and Joe Biden created."
-          },
-          "context": {
-            "previous": "And in the midst of this public health pandemic, where hundreds of thousands of people have died, where nine million people have contracted the virus, Donald Trump and his boy, Bill Barr, are in the United States Supreme Court suing to get rid of the Affordable Care Act that brought health care to over 20 million people, including protecting people with preexisting conditions. Honk if you know anybody who has diabetes. Honk if you know anybody who has high blood pressure. Lupus. Breast cancer.",
-            "next": "Joe Biden, who was saying, \"We will expand health coverage, we will bring down the cost of premiums, we wil bring down the cost of prescription drugs, we will lower Medicare eligibility to age 60, we know that health care means understanding the body doesn't just start from the neck down, it includes the neck up, and that's called mental health care.\" There are clear choices in this election. And on the other hand, you have the current president who's trying to get rid of coverage for over 20 million people."
-          }
+      },
+      {
+        "match_score": 0.6107197,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "102",
+          "title": "Kamala Harris Campaign Event Speech Transcript Houston, TX October 30",
+          "date": "20201030",
+          "topics": "Economy, Social Justice, Government Policy"
         },
-        {
-          "match_score": 0.7104465,
-          "metadata": {
-            "speaker": "Harris",
-            "speech_id": "020",
-            "title": "Harris and Walz Hold First Rally",
-            "date": "20240807",
-            "topics": "Economy, Healthcare, Education, Social Justice, Gun Control, Veterans Affairs"
-          },
-          "matched_segment": {
-            "segment_id": 16,
-            "text": "So on that last topic, if Donald Trump gets the chance, he will end the Affordable Care Act and take us back to a time when insurance companies have the power to deny people with pre-existing conditions. You remember what that was like? Children with asthma, breast cancer survivors, grandparents with diabetes. Well, Governor Walz and I will not let that happen because we believe healthcare should be a right and not just a privilege for those who can afford it."
-          },
-          "context": {
-            "previous": "(:44) In Washington, Tim worked to raise the minimum \u00a7wage, to protect the freedom of workers to join a union, and he cast one of the critical votes to pass the Affordable Care Act, which of course gave health insurance to tens of millions of Americans. I'm going to tell you, when we win, Tim and I will continue to make the Affordable Care Act even stronger. We will. (:46) Now let's talk about what we're dealing with on the other side.",
-            "next": "As governor, Tim has continued to fight for working families. He secured paid leave for workers in Minnesota and he refused as governor to allow any student in their public schools to go hungry, so he made school breakfast and lunch free for every child. And Tim Walz and I, we agree about many things including when our middle class is strong, America is strong. And strengthening in the middle class will be my defining goal as I am President of the United States."
-          }
+        "matched_segment": {
+          "segment_id": 16,
+          "text": "Joe Biden says we will not raise taxes on anyone that makes less than $400,000 a year and we will cut middle class taxes. Joe Biden says you're a first time homeowner, you will get a home, first time home buyer, you will get a $15,000 tax credit with downpayment and closing cost because we know home ownership is one of the greatest ways that any American family accumulates wealth."
         },
-        {
-          "match_score": 0.69976413,
-          "metadata": {
-            "speaker": "Harris",
-            "speech_id": "103",
-            "title": "Kamala Harris Campaign Speech Transcript McAllen, Texas October 30",
-            "date": "20201030",
-            "topics": "Economy, Healthcare, Social Justice, Climate"
-          },
-          "matched_segment": {
-            "segment_id": 12,
-            "text": "And in the midst of this public health pandemic, where hundreds of thousands of people have died, where nine million people have contracted the virus, Donald Trump and his boy, Bill Barr, are in the United States Supreme Court suing to get rid of the Affordable Care Act that brought health care to over 20 million people, including protecting people with preexisting conditions. Honk if you know anybody who has diabetes. Honk if you know anybody who has high blood pressure. Lupus. Breast cancer."
-          },
-          "context": {
-            "previous": "Imagine what people would've done knowing our children might miss critical stages, critical amounts of education time. And what people might have done to prepare for that. Not to mention what people might've done to prepare to buy a couple of extra rolls of toilet paper. If we had known what he knew on January 28th.",
-            "next": "And you see, Barack Obama, together with Vice President Biden, created the Affordable Care Act knowing people with preexisting conditions, including the 10 million Texans who have preexisting conditions, should be protected. But Donald Trump's in court right now trying to get rid of that. And part of the issue that I see, let's remember this, from the time the guy was running for office until now, Donald Trump has had this weird obsession with trying to get rid of whatever Barack Obama and Joe Biden created."
-          }
-        },
-        {
-          "match_score": 0.6920539,
-          "metadata": {
-            "speaker": "Harris",
-            "speech_id": "102",
-            "title": "Kamala Harris Campaign Event Speech Transcript Houston, TX October 30",
-            "date": "20201030",
-            "topics": "Economy, Social Justice, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 11,
-            "text": "And on top of all of this, in the midst of a public health pandemic, the president of the United States with his boy, Bill Barr are in the United States Supreme Court suing to get rid of Obamacare, the Affordable Care Act brought to us by President Obama and Vice President Biden, that brought healthcare to over 20 million people who didn't have it and covered people with pre-existing conditions. Raise your hand if you know somebody with diabetes. Raise your hand if you love someone with high blood pressure."
-          },
-          "context": {
-            "previous": "What folks might've done to prepare to frankly to buy a couple of extra rolls of toilet paper? But, we didn't have the information. He covered it up. He called it a hoax. He said you're on one side of his ledger if you wear a mask, you're on the other side of his ledger if you don't.",
-            "next": "Raise your hand if your relative has lupus. Raise your hand if you know somebody who has breast cancer and is surviving. Raise your hand if you know somebody who got COVID. And the man's in court trying to get rid of the protection for people with pre-existing conditions here in Texas, 10 million people have preexisting conditions. So, there is a real choice in this election, on this point. Because you see, on the other hand, you have Joe Biden, who is saying we need to expand Obamacare."
-          }
-        },
-        {
-          "match_score": 0.6155234,
-          "metadata": {
-            "speaker": "Harris",
-            "speech_id": "103",
-            "title": "Kamala Harris Campaign Speech Transcript McAllen, Texas October 30",
-            "date": "20201030",
-            "topics": "Economy, Healthcare, Social Justice, Climate"
-          },
-          "matched_segment": {
-            "segment_id": 14,
-            "text": "Joe Biden, who was saying, \"We will expand health coverage, we will bring down the cost of premiums, we wil bring down the cost of prescription drugs, we will lower Medicare eligibility to age 60, we know that health care means understanding the body doesn't just start from the neck down, it includes the neck up, and that's called mental health care.\" There are clear choices in this election. And on the other hand, you have the current president who's trying to get rid of coverage for over 20 million people."
-          },
-          "context": {
-            "previous": "And you see, Barack Obama, together with Vice President Biden, created the Affordable Care Act knowing people with preexisting conditions, including the 10 million Texans who have preexisting conditions, should be protected. But Donald Trump's in court right now trying to get rid of that. And part of the issue that I see, let's remember this, from the time the guy was running for office until now, Donald Trump has had this weird obsession with trying to get rid of whatever Barack Obama and Joe Biden created.",
-            "next": "The crises we are dealing with. The crisis from this pandemic that is this economic crisis. Where over 30 million Americans, in just the last several months, had to file for unemployment insurance. Where here in Texas, we're looking at one in ten families that has described their household as being hungry. Where here in Texas, one in six households is finding it difficult, if not impossible, to pay rent."
-          }
+        "context": {
+          "previous": "Here in Texas, one in four small businesses is describing having to shut down with concerns they will never be able to reopen. And then on the one hand, you have a Joe Biden who says on the issue of the economy, if you want to know about how I think the economy is doing, then tell me how working people are doing, how are working families doing. Joe Biden says let's get $150 billion in low interest loans and access to capital to our small businesses with an emphasis on minority owned businesses.",
+          "next": "Joe Biden says if you are a student that wants to go to college coming from a family that makes less than $125,000 a year, you will go to a four year public college for free including an HBCU and a private HBCU. On the other hand, you have Donald Trump who when asked about the economy asks, well, how are rich people doing? How is the stock market doing?"
         }
-      ],
-      "Trump_avg_score": 0.6654,
-      "Harris_avg_score": 0.6908,
-      "Combined_avg_score": 0.6781
-    }
+      },
+      {
+        "match_score": 0.60411614,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "115",
+          "title": "Harris Speech in Pittsburgh",
+          "date": "20240926",
+          "topics": "Economy, Healthcare, Government Policy, Veterans Affairs"
+        },
+        "matched_segment": {
+          "segment_id": 5,
+          "text": "I believe an active partnership between government and the private sector is one of the most effective ways to fully unlock economic opportunity. And that is what I'll do when I'm president. I will target the major barriers to opportunity and remove them. We will identify common sense solutions to help Americans buy a home, start a business, and build wealth, and we will adopt them. () So let's start then with the first pillar of an opportunity economy, which is lowering costs."
+        },
+        "context": {
+          "previous": "For 500 heart-pounding miles, these fierce competitors will chase the checkered flag, fight for the Harley J. Earl trophy, and make their play for pure American glory. And that's what it is, pure American glory. As we wait for the green flag, we give thanks to this beloved country, for the heroes who keep us safe, and for the God who made us free. To all of the drivers, technicians, and pit crews here today, good luck and may the best team win. God bless you. God bless our military.",
+          "next": "So I made that our top priority for obvious reasons, because if we want the middle class to be the growth engine of our economy, we need to restore basic economic security for middle-class families. To that end, the most practical thing we can do right now, is to cut taxes for middle-class families and individuals. And that's what we'll do."
+        }
+      }
+    ]
   }
 }

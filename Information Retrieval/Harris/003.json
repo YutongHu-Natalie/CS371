@@ -1,127 +1,66 @@
 {
   "query_id": "003",
-  "query_text": "Donald Trump hand-selected three members of the United States Supreme Court with the intention that they would undo the protections of Roe v. Wade. And they did exactly as he intended.",
+  "query_text": "And my focus then, on protecting women and children from violent crime, is based on a value that is deeply grounded in the importance of standing up for those who are most vulnerable. ",
   "query_topics": [
-    "Social Justice",
-    "Government Policy"
+    "Social Justice"
   ],
+  "speaker": "Harris",
   "results": {
-    "Donald Trump hand-selected three members of the United States Supreme Court with the intention that they would undo the protections of Roe v. Wade. And they did exactly as he intended.": {
-      "Trump": [
-        {
-          "match_score": 0.6764329,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "221",
-            "title": "Trump Campaigns at Faith & Freedom Conference",
-            "date": "20240625",
-            "topics": "Gun Control, Immigration, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 45,
-            "text": "Thanks to these justices we have also achieved what the pro-life movement fought to get for 49 years, and we've gotten abortion out of the federal government and back to the states, the way everybody and all legal scholars always said it should be. Nobody thought that would happen. That's the way they wanted. The whole thing was they wanted the Roe v. Wade was federal and they wanted it all back in the states where the people could vote and make their decisions."
-          },
-          "context": {
-            "previous": "In my first four years, we totally transformed the federal bench, and putting in all of these judges and nobody's ever seen anything like it actually, our record, pro-constitution judges. I withstood vicious attacks to pick and confirm three great Supreme Court justices, Neil Gorsuch, Brett Kavanaugh, and Amy Coney Barrett. Good people too. () I took a lot of heat. I took a lot of heat, a lot of hits, but we did the right thing. They're great people.",
-            "next": "It's now up to the will of the people in each state. Some states will be more conservative, other states will be more liberal. It's happening now. You see the votes are all taking place, and it's the way every legal scholar and just about all the Democrats and all the Republicans and conservatives and liberals, they all wanted it that way and we did something that was amazing. () The big problem was it was caught up in the federal government, but the people will decide and that's the way it should be."
-          }
+    "And my focus then, on protecting women and children from violent crime, is based on a value that is deeply grounded in the importance of standing up for those who are most vulnerable. ": [
+      {
+        "match_score": 0.5669009,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "068",
+          "title": "Kamala Harris speaks after meeting with Guatemalan President",
+          "date": "20240326",
+          "topics": "Economy, Foreign Policy, Government Policy, Social Justice, Immigration"
         },
-        {
-          "match_score": 0.6689038,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "488",
-            "title": "Donald Trump Speech on Judicial Appointments, Bob Woodward Recordings Transcript September 9",
-            "date": "20200909",
-            "topics": "Government Policy, Gun Control, Social Justice"
-          },
-          "matched_segment": {
-            "segment_id": 4,
-            "text": "In the recent past, many of our most treasured freedoms, including religious liberty, free speech, and the right to keep and bear arms have been saved by a single vote on the United States Supreme Court. Our cherished rights are at risk, including the right to life and our great Second Amendment. Over the next four years, America's President will choose hundreds of federal judges and in all likelihood, one, two, three, and even four Supreme Court Justices."
-          },
-          "context": {
-            "previous": "If this extreme movement is granted a majority on the Supreme Court, it will fundamentally transform America without a single vote of Congress. Radical Justices will erase the Second Amendment, silence political speech, and require taxpayers to fund extreme late term abortion. They will give unelected bureaucrats the power to destroy millions of American jobs.",
-            "next": "The outcome of these decisions will determine whether we hold fast to our nation's founding principles or whether they are lost forever. That is why today I am announcing 20 additions to my original list of candidates for the United States Supreme Court. Should there be another vacancy on the Supreme Court during my presidency, my nominee will come from the names I have shared with the American public, including the original list and these 20 additions."
-          }
+        "matched_segment": {
+          "segment_id": 3,
+          "text": "That strategy rests on five pillars. One, to invest in economic development in the region. Two, to combat corruption and promote good governance. Three, to respect human rights and labor rights. In addition to reduced violence. And finally, to address gender-based violence. This work is improving lives and livelihoods in the region and addressing the factors that drive people to migrate to the United States. Mr."
         },
-        {
-          "match_score": 0.66780245,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "383",
-            "title": "Donald Trump Rally Speech Transcript Allentown, PA October 26",
-            "date": "20201026",
-            "topics": "Economy, Healthcare, Climate"
-          },
-          "matched_segment": {
-            "segment_id": 83,
-            "text": "You know, Jim, this should be over very quickly. Donald Trump. At that time, it was just Donald, no president. Donald Trump will not be able to get the women vote. The end of the evening, they said, \"Man, did he do well with the women vote? What the hell happened?\" So true. And then Biden's going to pack the Supreme Court with radical justices who will shred your second amendment and pro-life. And so many other things, he were shredded it. To defend our God-given freedoms."
-          },
-          "context": {
-            "previous": "They don't want to have Antifa and anarchists running through the streets. Okay. So if they agree with what I just said, I have a feeling they're going to be voting for Trump. It was the same time, last I remember. They said he will not get the women's vote. He will not get the women's vote. And then at the end of the evening, you remember how great I did. Right? One of my best group, women. So I said, \"Am I that bad? Am I that bad?\" He will not receive the women's vote.",
-            "next": "How do you like Amy, by the way, isn't Amy great? I nominated Amy Coney Barrett to the Supreme Court of the United States. And tonight she will be confirmed by the Senate. And become the newest member of the Supreme Court. It's a big deal. He wants to pack the court, maybe 16, maybe 18, maybe 20. Why don't you put a couple of hundred people in there. He wants to pack up the court with radical left judges. And I've been saying, I'd go a step further. I have a list of 45 great people. Great people."
-          }
-        },
-        {
-          "match_score": 0.66535556,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "380",
-            "title": "Donald Trump Circleville, Ohio Rally Speech Transcript October 24",
-            "date": "20201024",
-            "topics": "Economy, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 83,
-            "text": "And if you happen to be pro-life, you can forget that. You can forget that. They will change everything. They will change it. We took our time. I have three Supreme Court justices. We have a great one coming, a great one coming. Three great ones. Many presidents have had none. Think of it. And me, their worst nightmare, has three. Their heads are exploding."
-          },
-          "context": {
-            "previous": "Can't do that. So the federal government's been doing a great job. Now the state governments have to get tougher, and the state governments have to call in the federal government when they have a problem. It's very simple. The mayor is right. They could use some help. The first thing they'll do if they win this office, and I don't think it's going to happen based on everything I'm seeing, is they're going to pack the Supreme Court with far left judges who will eliminate your Second Amendment.",
-            "next": "No, but just of equal importance in my opinion, by the end of my first term, we'll have 300, give or take a little bit, 300 federal judges, including court of appeal, 300. A record, it's a record. No, it's a record. So think of that. 300 federal judges, I think, close to 60 court of appeals judges, and three Supreme Court justices. I mean, can you believe it? Even I can't believe it. Even I. It's a record. If I don't sound like a typical Washington politician, it's because I'm not a politician."
-          }
-        },
-        {
-          "match_score": 0.64838254,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "277",
-            "title": "CNN Donald Trump Town Hall 5/10/23 Transcript",
-            "date": "20230511",
-            "topics": "Economy, Immigration, Foreign Policy, Government Policy, Veterans Affairs"
-          },
-          "matched_segment": {
-            "segment_id": 54,
-            "text": "And then we'll decide essentially whether or not to execute the baby. These are the radical people. It's not the pro-life people that are radical. What I'll do is negotiate so that people are happy. But the fact that we were able... I was able, I'm so proud of it. We put three great justices on the Supreme Court. We have almost 300 federal judges on the Supreme Court. I said this. I said this. I want to do what's right. And we're looking and we want to do what's right for everybody."
-          },
-          "context": {
-            "previous": "But the way I look, I think it's very important to say this. I consider the other side to be radical. Because the other side under Roe v, Wade and other things, the other side, they're radical because they will remember the debate with Hillary Clinton. I said, rip the baby out of the womb at the end of the ninth month. They will kill the baby in the ninth month. If you look at that crazy Governor of Virginia from the former governor where he said, no, the baby will be born.",
-            "next": "But now, for the first time, the people that are pro-life have negotiating capability, because you didn't have it before. They could kill the baby in the ninth month or after the baby was born. Now they won't be able to do that. Yeah. And many of them are going to give you the same answer as I am. First of all, I am honored to have done what I did. And a lot of people said, they said in 150 years, he's now the most consequential president because he saved so many lives. And I'm honored to have done it."
-          }
+        "context": {
+          "previous": "() And despite the challenges that have been posed to Guatemala's democratic process, the United States was proud to stand with you, Mr. President, following a free and fair election and throughout your transition. And the will of the people of Guatemala via our observation has triumphed. For the past three years, I have led our administration's efforts to address the root causes of migration from Northern Central America and to create what we have named the Root Causes Strategy.",
+          "next": "President, I believe your presidency offers an important opportunity for us to strengthen US-Guatemalan relations and make further progress on each of the five pillars I have outlined. () In particular, Mr. President, I commend you for your steadfast commitment to combat corruption. Corruption, of course, erodes trust in democracy and prevents governments from responding to the needs of their people. Corruption is also an impediment to US investment and threatens economic growth."
         }
-      ],
-      "Harris": [
-        {
-          "match_score": 0.67130077,
-          "metadata": {
-            "speaker": "Harris",
-            "speech_id": "112",
-            "title": "Harris Rally in Wisconsin",
-            "date": "20240923",
-            "topics": "Economy, Social Justice, Veterans Affairs"
-          },
-          "matched_segment": {
-            "segment_id": 28,
-            "text": "So before at least there was some threat of consequence, and now the court has made this decision. Think about that. Just imagine Donald Trump with no guardrails. He who has vowed to be a dictator on day one, he who has called for \"the termination of the Constitution of the United States of America.\" And let us be very clear, someone who suggests we should terminate the Constitution of the United States should never again stand behind the seal of the President of the United States. Never again. Never again."
-          },
-          "context": {
-            "previous": "And we remember that generations of Americans before us led the fight for freedom. And now the baton is in our hands. Now it's in our hands. It's in our hands. And so much is on the line in this election. And this is not 2016 or 2020. The stakes are even higher, because remember two months ago, the United States Supreme Court basically told the former President that he will effectively be immune no matter what he does in the White House. But think about that. Think about what that means.",
-            "next": "Never again. () So Wisconsin, it all comes down to this. We are here together because we love our country. We love our country. And we understand the awesome responsibility that comes with the greatest privilege on earth, the privilege and pride of being an American, the privilege and pride of being an American. And I do believe that it is one of the highest forms of patriotism to fight for the ideals of our country and to fight to realize the promise of America. So Madison, election day, yes, in 46 days."
-          }
+      },
+      {
+        "match_score": 0.55541986,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "070",
+          "title": "VP Kamala Harris Speech During Meeting with Religious Leaders Transcript",
+          "date": "20210331",
+          "topics": "Economy, Social Justice, Government Policy"
+        },
+        "matched_segment": {
+          "segment_id": 23,
+          "text": "And that is one of the first areas that I'd like to discuss with you, but also on my mind today or what we need to do and collectively what we can do informed by you around what we're seeing around hate crime in America, what we are seeing around people turning on each other, treating their fellow human being as the other, and what we have the ability to do to see this moment of crisis in that regard as also an opportunity for coalition building. So that's on my mind. I'm doing work on the Northern Triangle."
+        },
+        "context": {
+          "previous": "The work we are doing to hopefully help people survive through this moment so they can get back up on their feet. So we see light at the end of the tunnel, and in large part because of the vaccinations that are happening, because of the vaccine. And so I want to talk with you about your thoughts, about how we can, and you in particular as our faith-based leaders, can help us to make sure that everyone, when it is their turn, gets a vaccine.",
+          "next": "Part of the reason I was a bit delayed for this meeting is I was just meeting with our secretary of state. And I know that a lot of you are working on this issue in many ways, but to the extent that you have thoughts and experience about what we can do to address some of the root causes that cause people to flee their home, because as we all know, most people like being at home. They like being where they grew up, they like being in a place where they understand the culture."
         }
-      ],
-      "Trump_avg_score": 0.6654,
-      "Harris_avg_score": 0.6713,
-      "Combined_avg_score": 0.6664
-    }
+      },
+      {
+        "match_score": 0.55541986,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "070",
+          "title": "VP Kamala Harris Speech During Meeting with Religious Leaders Transcript",
+          "date": "20210331",
+          "topics": "Economy, Social Justice, Government Policy"
+        },
+        "matched_segment": {
+          "segment_id": 9,
+          "text": "And that is one of the first areas that I'd like to discuss with you, but also on my mind today or what we need to do and collectively what we can do informed by you around what we're seeing around hate crime in America, what we are seeing around people turning on each other, treating their fellow human being as the other, and what we have the ability to do to see this moment of crisis in that regard as also an opportunity for coalition building. So that's on my mind. I'm doing work on the Northern Triangle."
+        },
+        "context": {
+          "previous": "The work we are doing to hopefully help people survive through this moment so they can get back up on their feet. So we see light at the end of the tunnel, and in large part because of the vaccinations that are happening, because of the vaccine. And so I want to talk with you about your thoughts, about how we can, and you in particular as our faith-based leaders, can help us to make sure that everyone, when it is their turn, gets a vaccine.",
+          "next": "Part of the reason I was a bit delayed for this meeting is I was just meeting with our secretary of state. And I know that a lot of you are working on this issue in many ways, but to the extent that you have thoughts and experience about what we can do to address some of the root causes that cause people to flee their home, because as we all know, most people like being at home. They like being where they grew up, they like being in a place where they understand the culture."
+        }
+      }
+    ]
   }
 }

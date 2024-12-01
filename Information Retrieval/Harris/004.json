@@ -1,71 +1,66 @@
 {
   "query_id": "004",
-  "query_text": "Understand, in his(Trump\u2019s) Project 2025 there would be a national abortion--a monitor that would be monitoring your pregnancies, your miscarriages. ",
+  "query_text": "What we know is that this war(Israel-Hamas war) must end. It must when--end immediately, and the way it will end is we need a cease-fire deal and we need the hostages out. ",
   "query_topics": [
-    "Healthcare",
-    "Government Policy"
+    "Foreign Policy"
   ],
+  "speaker": "Harris",
   "results": {
-    "Understand, in his(Trump\u2019s) Project 2025 there would be a national abortion--a monitor that would be monitoring your pregnancies, your miscarriages. ": {
-      "Trump": [
-        {
-          "match_score": 0.61198187,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "224",
-            "title": "Trump Speaks at Faith & Freedom Coalition Gala Transcript",
-            "date": "20230626",
-            "topics": "Foreign Policy, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 83,
-            "text": "Remember I said that during my campaign? Everyone said, \"That's not going to happen.\" Nobody thought that was going to happen. But I will fight for you like no president has ever fought before. We'll get something done for the country. We're going to be for the country. We will defeat the radical Democrat policy of extreme late-term abortion, and we will bring everybody together to protect our precious unborn babies in a very, very big way. And now you have the power to do it because we terminated Roe v. Wade."
-          },
-          "context": {
-            "previous": "But the three exceptions, and Ronald Reagan was there a long time ago. And I got through two very successful campaigns. Actually, my second campaign was much more successful. I got 12 million more votes. So I wonder what happened. I wonder what happened. However, there of course remains a vital role for the federal government in protecting unborn life. And it's very important. And I propose for you tonight, just as I did when I said that we will win the Supreme Court decision on abortion ...",
-            "next": "Every child born and unborn is sacred gift from God. (:36) Thank you. Thank you. But you're in a much different position than you were before. Before you had nothing to negotiate with. Today you're you're in the driver's seat, very much in the driver's seat. Under my leadership, the United States will also rejoin the Geneva Consensus Declaration, created by my administration and signed by 36 nations, to reject the globalist claim of an international right to abortion."
-          }
+    "What we know is that this war(Israel-Hamas war) must end. It must when--end immediately, and the way it will end is we need a cease-fire deal and we need the hostages out. ": [
+      {
+        "match_score": 0.5839732,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "061",
+          "title": "Vice President Harris Delivers Remarks at Israel\u2019s Independence Day Celebration Transcript",
+          "date": "20230607",
+          "topics": "Foreign Policy"
         },
-        {
-          "match_score": 0.6108045,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "441",
-            "title": "Meet The Press Full Donald Trump Interview Transcript",
-            "date": "20230918",
-            "topics": "Economy, Immigration, Foreign Policy, Veterans Affairs, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 51,
-            "text": "You go, life of the mother, rape, incest. I think most of them are there. That's a big statement. Well, I don't know what he's saying, because before he wanted you can't have abortion. Excuse me. Now, all of a sudden, he's saying 15 weeks. I said, wow, where did that come from? That's a radical change. Look, something is going to happen that's going to be good for everybody. I'm, almost like, a mediator in this case. They wanted Roe v. Wade terminated, because it was inappropriate. We got it done."
-          },
-          "context": {
-            "previous": "The most powerful people that are anti- abortion are okay with that now. And you know what? They weren't okay with that even a year ago. Well, Mike Pence said something about 15 weeks, too, which was a big change for Mike Pence, because Mike Pence had no exceptions. I have exceptions, by the way. I think people should have exceptions. I think if it's rape or incest or the life of the mother, I think, you have to have exceptions. Now, I will tell you that I think most people, most Republicans are willing.",
-            "next": "Something's going to happen. It's going to be a number of weeks. Something's going to happen where both sides are going to be able to come together, and then we'll be able to go onto other things like the economy or military. What I say is very, simple because you can't put words in my mouth like that. Because you've been hearing me talk about this issue, and I think, I talk about it very productively. It could be a state ban, it could be a federal ban, but Democrats want that too."
-          }
+        "matched_segment": {
+          "segment_id": 10,
+          "text": "That is why we will continue to build on Israel's peace treaties with Egypt and Jordan, and on Israel's historic agreements with the UAE, Bahrain, and Morocco. Also understanding this all is to support Israel's normalization with countries in the region and beyond. As we do that, the Biden-Harris administration will continue to work toward a world where Israelis and Palestinians can live safely and securely and enjoy equal measures of freedom, prosperity, and democracy."
         },
-        {
-          "match_score": 0.6024802,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "441",
-            "title": "Meet The Press Full Donald Trump Interview Transcript",
-            "date": "20230918",
-            "topics": "Economy, Immigration, Foreign Policy, Veterans Affairs, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 48,
-            "text": "We have to bring the country together on this issue. I care about it, too. Oh, I care about it, too. No, I don't think you should be allowed to have abortions well into a pregnancy. No. We're going to agree to a number of weeks or months or however you want to define it. And both sides are going to come together. And both sides, and this is a big statement. Both sides will come together and for the first time in 52 years, you'll have an issue that we can put behind us. It could be state or it could be federal."
-          },
-          "context": {
-            "previous": "And Kristen, you have to look at this because you said no. You have some states that are allowed to kill the child after birth, and you can't allow that. But you have legislation. Kristen, you have legislation in certain states, where it's allowed. The governor of Virginia, previous governor, who was a wack... I call him the Michael Jackson governor. Excuse me. That governor said you can kill the baby after birth. We'll agree to a number of weeks, where both sides will be happy.",
-            "next": "I don't frankly care. I would say this, everybody and including the great legal scholars love the idea of Roe v. Wade terminated, so it'd be brought back to the states. I would say this, from a pure standpoint, from a legal standpoint, I think, it's probably better, but I can live with it either way. It's much more important the number of weeks, but something will happen with the number of weeks, the amount of time after which you can't do it. And you know what?"
-          }
+        "context": {
+          "previous": "And know this, whether replenishing Iron Dome, working together to develop a new laser defense system or countering Iran and its proxies, the commitment of the United States and its commitment to Israel's security will remain unwavering. () Our administration believes that in order to promote the security of Israel, the region, and the United States, we must continue to create a more integrated and interconnected Middle East.",
+          "next": "And under President Joe Biden and our administration, America will continue to stand for the values that have been the bedrock of the US-Israel relationship, which includes continuing to strengthen our democracies, which as the ambassador has said, are both built on strong institutions, checks and balances, and I'll add, an independent judiciary."
         }
-      ],
-      "Harris": [],
-      "Trump_avg_score": 0.6084,
-      "Combined_avg_score": 0.6084
-    }
+      },
+      {
+        "match_score": 0.5666273,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "061",
+          "title": "Vice President Harris Delivers Remarks at Israel\u2019s Independence Day Celebration Transcript",
+          "date": "20230607",
+          "topics": "Foreign Policy"
+        },
+        "matched_segment": {
+          "segment_id": 15,
+          "text": "It says, and I'll quote, \"It is not your duty to finish the work, but neither are you at liberty to neglect it.\" I'm going to repeat. \"It is not your duty to finish the work, but neither are we at liberty to neglect it.\" While Israel and the United States have achieved so much together, there is still so much more work to do. Previous generations willed the dream of Israel into reality and established enduring bonds between our nations and our people."
+        },
+        "context": {
+          "previous": "Israel is a nation full of innovators, entrepreneurs and visionaries, whether on autonomous vehicles, cybersecurity, or FinTech, it is clear Israel helps point the world toward the future. () So I will conclude by looking toward the future and quoting one of my favorite lines from the Talmud, a line that inspired an extended discussion during our first Seder at the Vice President's residence.",
+          "next": "And now for our generation, we have the baton in the long relay race of history, and it is then up to us to strengthen these bonds even further. President Biden and I look forward to the next 75 years of progress and partnership. And so congratulations on this momentous anniversary and let us celebrate all that our nations have achieved together and all that is yet to come. Thank you all."
+        }
+      },
+      {
+        "match_score": 0.55906266,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "052",
+          "title": "Vice President Harris Speaks at Peace Summit in Ukraine",
+          "date": "20240617",
+          "topics": "Foreign Policy"
+        },
+        "matched_segment": {
+          "segment_id": 5,
+          "text": "() President Zelensky, the United States shares your vision for the end of this war and an end to the suffering of the Ukrainian people. And let us all then commit to the imperative of returning innocent children kidnapped by Russia returning them to their homes. Let us also agree a practical benefit of the work of this Peace Summit is to increase global food and energy security. And let nothing about the end of this war be decided without Ukraine."
+        },
+        "context": {
+          "previous": "() If the world fails to respond when an aggressor invades its neighbor, other aggressors will undoubtedly become emboldened. It leads to the potential of a war of conquest and chaos, not order and stability, which threatens all nations. President Joe Biden and I will continue to support Ukraine and continue to impose costs on Russia, and we will continue to work toward a just and lasting peace based on the principles of the United Nations Charter and the will of the people of Ukraine.",
+          "next": "() By contrast, however, yesterday Putin put forward a proposal, but we must speak truth. He is not calling for negotiations. He is calling for surrender. America stands with Ukraine, not out of charity, but because it is in our strategic interest. We stand with delegations from more than 90 nations who also have a strategic interest in a just peace in Ukraine. Among us, no doubt, exists a diverse range of views on many of the global challenges and opportunities we face."
+        }
+      }
+    ]
   }
 }

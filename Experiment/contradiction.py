@@ -3,90 +3,136 @@ import json
 from pathlib import Path
 from openai import OpenAI
 from dotenv import load_dotenv
+from anthropic import Anthropic
+
 
 def load_processed(directory_path, speaker):
     statement = []
     segment1 = []
     segment2 = []
     segment3 = []
-    segment4 = []
-    segment5 = []
     path_dir = Path(directory_path)
 
     # Check if the directory exists
     if not path_dir.exists():
         raise FileNotFoundError(f"Directory not found: {directory_path}")
-    
+
     # Get all JSON files in the directory
     files = sorted(path_dir.glob('*.json'))
 
     # Warn if no files are found
     if not files:
         print(f"Warning: No JSON files found in {directory_path}")
-        return statement, segment1, segment2, segment3, segment4, segment5
+        return statement, segment1, segment2, segment3
 
     # Process each JSON file
     for file_path in files:
-        with open(file_path, 'r') as f:
-            data = json.load(f)
-            
-            # Extract the main statement
-            query_text = data.get("query_text", "")
-            statement.append(query_text)
-            
-            # Extract matched segments for the specified speaker
-            results = data.get("results", {})
-            speaker_results = results.get(query_text, {}).get(speaker, [])
-            for i, result in enumerate(speaker_results[:5]):  # Only take up to 5 segments
-                segment = result.get("matched_segment", {}).get("text", "")
-                if i == 0:
-                    segment1.append(segment)
-                elif i == 1:
-                    segment2.append(segment)
-                elif i == 2:
-                    segment3.append(segment)
-                elif i == 3:
-                    segment4.append(segment)
-                elif i == 4:
-                    segment5.append(segment)
-            
-            # Fill missing segments with empty strings to align with the statement length
-            while len(segment1) < len(statement): segment1.append("")
-            while len(segment2) < len(statement): segment2.append("")
-            while len(segment3) < len(statement): segment3.append("")
-            while len(segment4) < len(statement): segment4.append("")
-            while len(segment5) < len(statement): segment5.append("")
-    
-    return statement, segment1, segment2, segment3, segment4, segment5
+        try:
+            with open(file_path, 'r') as f:
+                data = json.load(f)
+
+                # Extract the main statement (query_text)
+                query_text = data.get("query_text", "")
+                statement.append(query_text)
+
+                # Extract matched segments
+                # The results structure is: {"query_text": [{"matched_segment": {"text": "..."}}, ...]}
+                results = data.get("results", {})
+                matched_segments = results.get(query_text, [])
+
+                # Process up to 3 segments
+                current_segments = []
+                for segment in matched_segments:
+                    if "matched_segment" in segment:
+                        segment_text = segment["matched_segment"].get("text", "")
+                        current_segments.append(segment_text)
+                        if len(current_segments) == 3:  # Only take first 3 segments
+                            break
+
+                # Add segments or empty strings if fewer than 3 segments
+                segment1.append(current_segments[0] if len(current_segments) > 0 else "")
+                segment2.append(current_segments[1] if len(current_segments) > 1 else "")
+                segment3.append(current_segments[2] if len(current_segments) > 2 else "")
+
+        except Exception as e:
+            print(f"Error processing file {file_path}: {str(e)}")
+            # Add empty entries to maintain alignment
+            statement.append("")
+            segment1.append("")
+            segment2.append("")
+            segment3.append("")
+
+    return statement, segment1, segment2, segment3
 
 
-def load_client():
+def load_client(model_provider):
     """
-    Load and initialize the OpenAI client using API key from environment variables.
+    Load and initialize client based on the model provider.
     """
     load_dotenv()
-    key = os.getenv('OPEN_AI_API')
-    if not key:
-        raise ValueError("OPEN_AI_API not found in environment variables")
-    
-    client = OpenAI(api_key=key)
-    print("OpenAI client initialized.")
-    return client
 
-def Contradiction_detection(statements, seg1, seg2, seg3, seg4, seg5, gpt_client):
+    if model_provider == "openai":
+        key = os.getenv('gpt_key')
+        if not key:
+            raise ValueError("OPENAI_API_KEY not found in environment variables")
+        return OpenAI(api_key=key)
+
+    elif model_provider == "anthropic":
+        key = os.getenv('Claude_key')
+        if not key:
+            raise ValueError("ANTHROPIC_API_KEY not found in environment variables")
+        return Anthropic(api_key=key)
+
+    else:
+        raise ValueError(f"Unsupported model provider: {model_provider}")
+
+
+def get_model_response(model_name, prompt, client):
     """
-    Detect and classify contradictions between statements from the debate and past speeches.
-
-    Args:
-    - statements (list): Debate statements to analyze.
-    - seg1, seg2, seg3, seg4, seg5 (list): Segments from past speeches.
-    - gpt_client: OpenAI GPT client for text analysis.
-
-    Returns:
-    - List of dictionaries with contradiction label and explanation.
+    Get response from specified model with strictly formatted output.
     """
+    formatted_prompt = prompt + "\n\nIMPORTANT: Your response must start with 'Label: ' followed by a number (0-4), then a new line with 'Explanation: ' followed by your analysis. Do not include any other text before these lines."
 
-    # Examples of contradictions for GPT to reference
+    if model_name in ["gpt-4o-mini", "gpt-4o"]:
+        response = client.chat.completions.create(
+            model=model_name,
+            messages=[
+                {"role": "system",
+                 "content": "You are an expert in political science analyzing contradictions. Provide responses in the exact format: 'Label: [0-4]\\nExplanation: [analysis]'"},
+                {"role": "user", "content": formatted_prompt}
+            ],
+            temperature=0.1,
+            max_tokens=150
+        )
+        return response.choices[0].message.content
+
+    elif model_name in ["claude-3-5-haiku-latest", "claude-3-5-sonnet-latest"]:
+        response = client.messages.create(
+            model=model_name,
+            system="You are an expert in political science analyzing contradictions. IMPORTANT: Your response must start with 'Label: ' followed by a number (0-4), then a new line with 'Explanation: ' followed by your analysis. Do not include any other text.",
+            max_tokens=150,
+            temperature=0.1,
+            messages=[{"role": "user", "content": formatted_prompt}]
+        )
+        return response.content[0].text
+
+    else:
+        raise ValueError(f"Unsupported model: {model_name}")
+
+
+def create_output_directory(base_path, speaker, model_name):
+    """
+    Create and return path to model-specific output directory.
+    """
+    dir_name = f"{speaker}_{model_name.replace('-', '_')}"
+    output_dir = os.path.join(base_path, dir_name)
+    os.makedirs(output_dir, exist_ok=True)
+    return output_dir
+
+def Contradiction_detection(statements, seg1, seg2, seg3, model_name, client, speaker, output_base_path):
+    """
+    Detect contradictions using the specified model and save results.
+    """
     examples = (
         "Examples:\n"
         "1. Contradictory (Label: 1):\n"
@@ -111,15 +157,14 @@ def Contradiction_detection(statements, seg1, seg2, seg3, seg4, seg5, gpt_client
         "   Analysis: These statements are consistent and do not conflict.\n\n"
     )
 
-    size = len(statements)
+    output_dir = create_output_directory(output_base_path, speaker, model_name)
     results = []
 
-    for i in range(size):
+    for i in range(len(statements)):
         debate_statement = statements[i]
-        segments = [seg1[i], seg2[i], seg3[i], seg4[i], seg5[i]]
-        segments = [seg for seg in segments if seg]  # Remove empty segments
+        segments = [seg1[i], seg2[i], seg3[i]]
+        segments = [seg for seg in segments if seg]
 
-        # Skip if no segments to compare
         if not segments:
             results.append({
                 "Label": 0,
@@ -127,7 +172,6 @@ def Contradiction_detection(statements, seg1, seg2, seg3, seg4, seg5, gpt_client
             })
             continue
 
-        # Construct the input for GPT analysis
         input_prompt = (
             "You are an expert in political science tasked with detecting and classifying contradictions between "
             f"statements of a candidate from the 2024 Presidential Debate and their past speeches.\n\n"
@@ -141,33 +185,14 @@ def Contradiction_detection(statements, seg1, seg2, seg3, seg4, seg5, gpt_client
             "3: Subaltern - When one statement logically contains or implies the other but they conflict (usually about scope).\n"
             "4: Numeric Mismatch - Specific quantitative contradictions in numbers, statistics, or data claims.\n"
             "0: No contradiction detected.\n\n"
-            "When analyzing statements, ensure you:\n"
-            "1. Identify potential contradictions between the debate statement and past speeches.\n"
-            "2. Classify each contradiction using the corresponding labels.\n"
-            "3. Explain the logical basis for the contradiction and its classification.\n"
-            "4. Focus on substantive policy or factual contradictions.\n"
-            "5. Ignore past accomplishments and future proposals on similar topics as contradictions.\n"
-            "6. Ignore trivial implementation timelines, rhetoric, and procedural details unless they fundamentally alter the contradiction.\n\n"
             + examples +
-            "Output format (maximum 150 tokens):\n"
+            "Provide your output in exact this format:\n"
             "Label: [0-4]\n"
             "Explanation: [Your concise analysis of the contradiction, if any]\n\n"
         )
 
-        # Use GPT to analyze the contradiction
-        response = gpt_client.chat.completions.create(
-            model="gpt-4o",
-            messages=[
-                {"role": "system", "content": "You are an expert in political science analyzing contradictions."},
-                {"role": "user", "content": input_prompt}
-            ],
-            temperature=0.1
-        )
-
-        # Extract the response content
-        result_text = response.choices[0].message.content
         try:
-            # Parse the response into label and explanation
+            result_text = get_model_response(model_name, input_prompt, client)
             label_line, explanation_line = result_text.split("\n", 1)
             label = int(label_line.replace("Label:", "").strip())
             explanation = explanation_line.replace("Explanation:", "").strip()
@@ -175,41 +200,60 @@ def Contradiction_detection(statements, seg1, seg2, seg3, seg4, seg5, gpt_client
         except Exception as e:
             results.append({
                 "Label": -1,
-                "Explanation": f"Error processing GPT response: {str(e)}"
+                "Explanation": f"Error processing response: {str(e)}"
             })
 
-    return results
+    # Save results for this model
+    output_file = os.path.join(output_dir, f"contradiction_results.json")
+    with open(output_file, 'w') as f:
+        json.dump({
+            "model": model_name,
+            "results": results
+        }, f, indent=2)
+
+    return f"Analysis completed for {model_name}"
 
 
+if __name__ == "__main__":
+    # Available models
+    MODELS = {
+        "gpt4o": "gpt-4o",
+        "gpt4o-mini": "gpt-4o-mini",
+        "claude-sonnet": "claude-3-5-sonnet-latest",
+        "claude-haiku": "claude-3-5-haiku-latest"
+    }
 
+    # Get model selection from user
+    print("Available models:")
+    for key, value in MODELS.items():
+        print(f"- {key}: {value}")
 
-script_dir = os.path.dirname(os.path.abspath(__file__))
-root_dir = os.path.dirname(os.path.dirname(script_dir))
-harris_path = os.path.join(root_dir, "CS371\Information Retrieval\Harris")
-speaker = "Harris"
-gpt_client = load_client()
-statements, seg1, seg2, seg3, seg4, seg5 = load_processed(harris_path, speaker)
+    model_key = input("Select a model (enter the key, e.g., 'gpt4'): ").strip()
 
-"""
-# Example data
-statements = ["I have always supported universal healthcare."]
-seg1 = ["I opposed universal healthcare in 2019."]
-seg2 = [""]
-seg3 = [""]
-seg4 = [""]
-seg5 = [""]
-"""
-# for testing purposes
-results = Contradiction_detection(statements, seg1, seg2, seg3, seg4, seg5, gpt_client)
+    if model_key not in MODELS:
+        raise ValueError(f"Invalid model selection. Choose from: {', '.join(MODELS.keys())}")
 
-print(statements[0])
-print("\n", seg1[0])
-print("\n", seg2[0])
-print("\n", seg3[0])
-print("\n", seg4[0])
-print("\n", seg5[0])
+    model_name = MODELS[model_key]
+    model_provider = "openai" if model_name.startswith("gpt") else "anthropic"
+    #initialize the speaker
+    speaker = "Trump"
 
-# Print results
-for result in results:
-    print(result)
-    print("\n--------------------------------------------------------------------")
+    # Set up paths
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    root_dir = os.path.dirname(os.path.dirname(script_dir))
+    speaker_path = os.path.join(root_dir, "CS371", "Information Retrieval", speaker)
+    output_base_path = os.path.join(root_dir, "CS371", "Results")
+
+    # Initialize
+
+    client = load_client(model_provider)
+    statements, seg1, seg2, seg3 = load_processed(speaker_path, speaker)
+
+    # Run analysis
+    results = Contradiction_detection(
+        statements, seg1, seg2, seg3,
+        model_name, client,
+        speaker, output_base_path
+    )
+
+    print(results)

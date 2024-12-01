@@ -1,106 +1,67 @@
 {
   "query_id": "004",
-  "query_text": "I have been a leader on IVF which is fertilization. In fact, when they got a very negative decision on IVF from the Alabama courts, I saw the people of Alabama and the legislature two days later voted it in. They know that and everybody else knows that I have been a leader on fertilization, IVF. ",
+  "query_text": "Now, I believe in the exceptions for rape, incest, and life of the mother. I believe strongly in it. Ronald Reagan did also. Eighty-five percent of Republicans do--exceptions. It's very important. But we were able to get it.",
   "query_topics": [
-    "Healthcare"
+    "Healthcare",
+    "Government Policy"
   ],
+  "speaker": "Trump",
   "results": {
-    "I have been a leader on IVF which is fertilization. In fact, when they got a very negative decision on IVF from the Alabama courts, I saw the people of Alabama and the legislature two days later voted it in. They know that and everybody else knows that I have been a leader on fertilization, IVF. ": {
-      "Trump": [
-        {
-          "match_score": 0.6475117,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "377",
-            "title": "Trump Speaks at Event in Miami, Florida",
-            "date": "20241023",
-            "topics": "Economy, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 20,
-            "text": "We could end up, I don't want to use numbers, but we could end up surprisingly good right, Rick? It could be a number that people would be shocked at if you would've said it even two months ago. And I'm helping all of them, every one of them. And we had some great results. We've had some results that are really surprising. () But this is the one, this woman is the worst. The lying, it's just unbelievable. Like the IVF, the fertilization. I came out totally in favor right from the beginning. She said I'm against it."
-          },
-          "context": {
-            "previous": "I mean, things like I'm in favor of, or let's say they even say it differently, I'm against fracking. That's the first time I've ever heard it. Trump is against fracking. They do things that is just... And she's against fracking. But now she says she's for it. () So I've had Hillary. I've had Sleepy Joe. I've had a lot of people that I've run against now. And on a different scale, I work with senators and trying to get them elected. We're doing very well, the Republicans.",
-            "next": "Carlos, she goes, \"He's totally against it.\" Every single item having to do with energy, having to do with everything. And then she's got the worst governor in the country, probably the worst. I think she made a horrible mistake. We'll see what happens on November 5th. Let's see what happens. () But there's something wrong with him. Honestly. There's something wrong and there's something wrong with her too. She's slow, low IQ, something. I don't know what the hell it is, but they lie."
-          }
+    "Now, I believe in the exceptions for rape, incest, and life of the mother. I believe strongly in it. Ronald Reagan did also. Eighty-five percent of Republicans do--exceptions. It's very important. But we were able to get it.": [
+      {
+        "match_score": 0.81463885,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "093",
+          "title": "Trump Speaks at Alabama GOP Dinner after New Indictment Transcript",
+          "date": "20230807",
+          "topics": "Immigration, Government Policy"
         },
-        {
-          "match_score": 0.6125872,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "093",
-            "title": "Trump Speaks at Alabama GOP Dinner after New Indictment Transcript",
-            "date": "20230807",
-            "topics": "Immigration, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 1,
-            "text": "() Today I'm also greatly honored to receive the endorsements of so many outstanding Alabama leaders. We have just about all of them that we were looking for. They've been warriors with me and they know how we fight and they know how to fight, and they know that we win. Most of whom, though, are with us tonight, including your great senator who just introduced me, Tommy Tuberville. What a great man. He's strong, he's smart, he's loyal, and then he's truly a fantastic guy and he's my friend, and we love Tommy."
-          },
-          "context": {
-            "previous": "I want to thank Governor Kay Ivey for being with us tonight, and Kay, you look great, Kay. I'm not surprised. Doing a good job too. We appreciate it very much. Thank you. Also, Chairman John Wall. He broke all sorts of records tonight. They wrote the attendance and the fundraising records. They broke every record in the book, so John, really good job. Please sit down. We're going to be here for a little while, right? Sit down. Thank you very much. John's been a friend really from the beginning.",
-            "next": "Treat him good. You have one of the really ... thank you. We have one of the great ones there. () Representatives, Jerry Carl, Barry Moore, Mike Rogers, Robert Adderholt, Dale Strong and Gary Palmer. These are warriors. Gary's feeling better now. He had a little problem with the back, but he's feeling good and he wanted to be here and I appreciate it. These are fantastic people. Lieutenant Governor Will Ainsworth, thank you, Will, very much, for being with us. You're doing a great job."
-          }
+        "matched_segment": {
+          "segment_id": 29,
+          "text": "On both sides, they felt it should be. Now, like President Ronald Reagan before me, I support the three exceptions for rape, incest, and the life of the mother. I will say that in terms of running, you have to go with your heart. You have to go with what you want. () But the three exceptions, to me, are very important, and the three exceptions, I think, to a large portion of the people on this issue, are very important. Very, very important."
         },
-        {
-          "match_score": 0.60662687,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "132",
-            "title": "Iowa Town Hall with Donald Trump 1/10/24",
-            "date": "20240111",
-            "topics": "Economy, Veterans Affairs, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 50,
-            "text": "You wouldn't be asking that question even talking about the issue because for 54 years they were trying to get Roe. V. Wade terminated and I did it and I'm proud to have done it. They wanted to get it back, right? You wouldn't have that because there would be no question. Nobody else was going to get that done. And we did it and we did something that was a miracle."
-          },
-          "context": {
-            "previous": "It's not a bad idea, I guess if you can get away with it. When I heard that one, I said, there's no way they get away with that. But they got away with that. I guess they got away with it. No, there was an [inaudible :57] lawsuit against me where the radical left sued me for that and I won the suit and the judge said, \"They go to his hotels. What's he going to do?\" Okay. So, that's a great question. I appreciate it too.",
-            "next": "When I walked onto the stage today, a gentleman in the back, probably works for Fox, nice guy said, \"Sir, I'd like to thank you.\" I said, \"For what?\" He said, \"You saved 2 million lives in the last three years. You saved 2 million lives.\" And I said, \"Thank you very much.\" I knew exactly what he meant. 2 million lives, and nobody's done more in that regard than me. Now, I happen to be, for the exceptions, like Ronald Reagan with the life of the mother, rape, incest, I just have to be there."
-          }
-        },
-        {
-          "match_score": 0.60565805,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "224",
-            "title": "Trump Speaks at Faith & Freedom Coalition Gala Transcript",
-            "date": "20230626",
-            "topics": "Foreign Policy, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 69,
-            "text": "They've been fighting, good people, strong people, smart people have been fighting for 50 years, and it never even came close to getting done. I don't believe they've ever even taken a vote. I mean it never even came close. It was something that wasn't going to happen. I got it done. I get a kick out of these candidates, and even the other side, \"Well, I don't know. I think I'm more pro-life on this.\" And somebody stood up, a woman stood up and said, \"This guy ended Roe v. Wade?"
-          },
-          "context": {
-            "previous": "I don't know, did you set this up on purpose? Was that done purposeful? This is the day one year. I mean, today is the birthday of that decision. Did you do that? I mean, it wasn't just by a fluke, right? I assume you did. Whether you did or not, this is the birthday, so it was pretty good. And Ralph's birthday too, that was set up too. Something strange is going on here. You know what they'll say, \"It's Trump's fault, Trump's fault.\" () But I got it done and nobody thought it was even a possibility.",
-            "next": "How the hell can you go against him?\" And I sort of said that myself, actually. But I'm proud to be the most pro-life president in American history. () Thank you. Thank you. () From my first day in office, I took historic action to protect the unborn. Very historic, nobody else did anything near what we did. And it put us in such a great position, that victory. That victory, we'll go into it, but that victory is a tremendous victory in so many different ways because they are the radical people."
-          }
-        },
-        {
-          "match_score": 0.6003001,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "044",
-            "title": "Trump Holds News Conference at Mar-a-Lago",
-            "date": "20240812",
-            "topics": "Economy, Immigration, Foreign Policy, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 61,
-            "text": "What I've done is I've done what every Democrat and every Republican wanted to have done, and we brought that issue back to the States, and now the States are voting on it, and frankly, some of the votes are a lot different than people would've thought, but it's the vote of the people that's taking care of it. () And when you think about the radical, the Democrats are really the radical ones on this because they're allowed to do abortion on the eighth and ninth month and even after birth."
-          },
-          "context": {
-            "previous": "And then you have Texas and you have other places where it may be different. () But the issue has been brought back to the States now, and like Ronald Reagan, I believe in the exceptions for rape, incest, and life of the mother, I believe strongly. I think that that's a very important thing. I think when you don't... You have to follow your heart, but when you don't believe, and the exceptions, I think it's much tougher, it's a much tougher issue.",
-            "next": "If you look at your new governor from Minnesota, he's talking about... He's like the governor previous, the former governor. I don't want to get him mixed up because Glenn is doing a good job and he's leading our whole campaign in Virginia, Glenn Youngkin, but previous to Glenn, the governor, he said, \"The baby will be born, we will put the baby aside and we will decide the mother what we're going to do,\" in other words, whether or not we're going to kill the baby."
-          }
+        "context": {
+          "previous": "Pro-lifers have a tremendous power now with that termination to negotiate. They had none. They didn't have any before that ruling. They had no power whatsoever. They could kill babies at any time they wanted, including after what we would call birth. They could kill babies. () Now they have tremendous power to negotiate because they don't have Roe v. Wade. This moves the issue back to the states where all legal scholars felt it should be, out of the federal government and back to the states. That's a big deal.",
+          "next": "Remember, the Democrats are the radicals on this issue, and you have to remember that. We're not the radicals on this issue. The Democrats are the radicals because they're willing to kill babies in their fifth and sixth and seventh and eighth and ninth month and even after birth. () Remember the governor of Virginia, that whack job who thought he was Michael Jackson, remember?"
         }
-      ],
-      "Harris": [],
-      "Trump_avg_score": 0.6145,
-      "Combined_avg_score": 0.6145
-    }
+      },
+      {
+        "match_score": 0.79144907,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "044",
+          "title": "Trump Holds News Conference at Mar-a-Lago",
+          "date": "20240812",
+          "topics": "Economy, Immigration, Foreign Policy, Government Policy"
+        },
+        "matched_segment": {
+          "segment_id": 60,
+          "text": "And then you have Texas and you have other places where it may be different. () But the issue has been brought back to the States now, and like Ronald Reagan, I believe in the exceptions for rape, incest, and life of the mother, I believe strongly. I think that that's a very important thing. I think when you don't... You have to follow your heart, but when you don't believe, and the exceptions, I think it's much tougher, it's a much tougher issue."
+        },
+        "context": {
+          "previous": "They wanted to get rid of Roe v. Wade, and that's Democrats, Republicans and Independents and everybody, liberals, conservatives, everybody wanted it back in the States, and I did that. Now, the states are voting, and frankly some of the votes are much more, if you could say liberal than you would think. Ohio turned out to be... They had a big vote and it turned out to be a much more liberal standing than people would've thought. Kansas, the same thing.",
+          "next": "What I've done is I've done what every Democrat and every Republican wanted to have done, and we brought that issue back to the States, and now the States are voting on it, and frankly, some of the votes are a lot different than people would've thought, but it's the vote of the people that's taking care of it. () And when you think about the radical, the Democrats are really the radical ones on this because they're allowed to do abortion on the eighth and ninth month and even after birth."
+        }
+      },
+      {
+        "match_score": 0.7912005,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "277",
+          "title": "CNN Donald Trump Town Hall 5/10/23 Transcript",
+          "date": "20230511",
+          "topics": "Economy, Immigration, Foreign Policy, Government Policy, Veterans Affairs"
+        },
+        "matched_segment": {
+          "segment_id": 52,
+          "text": "This has been going on, actually a couple of Democrats too. But for 50 years this has been going on. I was able to do it and I was very honored to do it. But by doing it, things are happening that are very, very positive. And I happen to believe in the exceptions. The life of the mother, rape, incest, like Ronald Reagan believed in the exceptions. But I happen to believe that. I think it's frankly important to do that. But a lot of people are against that. A relatively small number."
+        },
+        "context": {
+          "previous": "They were walking into people's homes and killing people. They had no protection. Said, \"Go out and buy guns.\" People went out and bought guns and it went way down. The numbers went way down because they had security. If you look at Chicago, Chicago has the single toughest gun policies in the nation. They are so tough, you can't breathe. New York too and other places also. All of those places are the worst and most dangerous places. So that's not the answer. It's such a great question. Republicans. For 50 years.",
+          "next": "But the way I look, I think it's very important to say this. I consider the other side to be radical. Because the other side under Roe v, Wade and other things, the other side, they're radical because they will remember the debate with Hillary Clinton. I said, rip the baby out of the womb at the end of the ninth month. They will kill the baby in the ninth month. If you look at that crazy Governor of Virginia from the former governor where he said, no, the baby will be born."
+        }
+      }
+    ]
   }
 }

@@ -1,107 +1,68 @@
 {
   "query_id": "009",
-  "query_text": "He(Trump) bypassed the Afghan government. He negotiated directly with a terrorist organization called the Taliban. The negotiation involved the Taliban getting 5,000 terrorists, Taliban terrorists, released.",
+  "query_text": "And I am proud that as Vice President over the last four years we have invested a trillion dollars in a clean energy economy while we have also increased domestic gas production to historic levels. ",
   "query_topics": [
-    "Foreign Policy",
+    "Economy",
+    "Climate",
     "Government Policy"
   ],
+  "speaker": "Harris",
   "results": {
-    "He(Trump) bypassed the Afghan government. He negotiated directly with a terrorist organization called the Taliban. The negotiation involved the Taliban getting 5,000 terrorists, Taliban terrorists, released.": {
-      "Trump": [
-        {
-          "match_score": 0.68693805,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "265",
-            "title": "President Trump Meeting Transcript with the National Institute of Health",
-            "date": "20200303",
-            "topics": "Healthcare, Foreign Policy, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 14,
-            "text": "Other presidents have tried, and they have been unable to get any kind of an agreement. The relationship is very good that I have with Mullah, and we had a good long conversation today and they want to cease the violence. They'd like to see cease violence also. Speaker 12: () The Afghan government seems reluctant to turn over those 5000 prisoners. Well, they may be reluctant they've done very well with the United States for many years, far beyond military."
-          },
-          "context": {
-            "previous": "No, I have no reaction. Short term missiles? No. No. Speaker 12: () And then on the Afghanistan, was that your first conversation with the leader of the Taliban? I don't want to say that, but we had a very good conversation with the leader of the Taliban today, and they're looking to get this ended, and we're looking to get it ended. I think we all have a very common interest, we'll find out about the country itself, but the country really has to get it ended. We've been there for 20 years.",
-            "next": "If you look at all the money that we've spent in Afghanistan, we've spent trillions of dollars, trillions of dollars, and we're really a police force. We're really not fighting per se. It's a fight that if we had to, we'd win, but I don't want to kill millions of people. We would win it fairly quickly, but I don't want to kill millions of people. I think it's crazy. And so we've been there, will be very, very soon it'll be 20 years. And I said right from the beginning, not easy to get out of these conflicts."
-          }
+    "And I am proud that as Vice President over the last four years we have invested a trillion dollars in a clean energy economy while we have also increased domestic gas production to historic levels. ": [
+      {
+        "match_score": 0.62840253,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "089",
+          "title": "Kamala Harris Joins Family Care Town Hall Transcript",
+          "date": "20211014",
+          "topics": "Economy, Healthcare, Social Justice, Government Policy"
         },
-        {
-          "match_score": 0.66436696,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "057",
-            "title": "Donald Trump Sean Hannity Interview on Afghanistan August 17: Transcript",
-            "date": "20210818",
-            "topics": "Foreign Policy, Veterans Affairs"
-          },
-          "matched_segment": {
-            "segment_id": 2,
-            "text": "That blows the helicopters in Vietnam away. That's not even a contest. This has been the most humiliating period of time I have ever seen. Yeah, we had a great deal. We worked on it very hard. Mike Pompeo, a brilliant guy, and many others worked on it endlessly, meetings with the Taliban. Of course, you have to meet with the Taliban. They're the ones that you're negotiating with. I spoke on numerous occasions to the head of the Taliban and we had a very strong conversation."
-          },
-          "context": {
-            "previous": "And you're dealing with thousands and thousands of Americans and others that are stranded and very dangerously really stranded in Afghanistan. So, it's something that you can't even believe that a thing like this could... I looked at that big monster cargo plane yesterday with people grabbing the side and trying to get flown out of Afghanistan because of their fear, their incredible fear. And they're blowing off the plane from 2,000 feet up in the air. Nobody's ever seen anything like that.",
-            "next": "I told him up front, I said: \"Look, before we start, let me just tell you right now that if anything bad happens to Americans or anybody else, or if you ever come over to our land, we will hit you with a force that no country has ever been hit with before, a force so great that you won't even believe it. And your village, and we know where it is...\" and I named it, \"will be the first one.\" \"The first bombs will be dropped right there.\" Yeah. To Mullah Baradar, who is probably the top person now."
-          }
+        "matched_segment": {
+          "segment_id": 21,
+          "text": "It is wonderful to have, but it does require a lot of work, especially for the generation that's in the middle of those multi-generations. And so we appreciate all that you all are doing. And thank you. And we're going to keep fighting for you. We got to build back better. Thank you. Speaker 2: () Thank vice president. Thank you. Speaker 1: () That's right. We got to build back better. And I don't know about all of you, but I'm feeling energized and inspired. Next up."
         },
-        {
-          "match_score": 0.65963036,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "126",
-            "title": "Donald Trump Coronavirus Update Transcript Feb 29: Warns Not to Travel to Italy, South Korea",
-            "date": "20200229",
-            "topics": "Foreign Policy, Veterans Affairs"
-          },
-          "matched_segment": {
-            "segment_id": 38,
-            "text": "You pride yourself on a deal maker, but your former National Security Advisor, John Bolton has said that this is an Obama-style deal and sends the wrong message to ISIS and Al Qaeda. What did the Taliban give up here- Well first of all- Speaker 16: () And will you be hosting the Taliban in Washington, at Camp David, or will you meet them abroad? We'll look at that. Look, nobody should be criticizing this deal after 19 years. He had his chance. He didn't do it. He was very much in favor of going in."
-          },
-          "context": {
-            "previous": "They've been talking to our people. We've been talking to their people having to do with the virus. No, our relationship with China is very good. Maybe it's closer because of what's happened here because it was... In a certain way, this can bring the world closer. If you want to know, it can really do that. Go ahead. Speaker 16: () If I could just follow up.",
-            "next": "We should have never gone in, in the first place. When they went into Iraq... Listen, listen. When they went into Iraq, when they went into the Middle East in such a fashion, I was very much against it. Shouldn't have gone in. He thought we should have. That's been proven wrong. I'm surprised that anybody would be against something where we try and end a 19 year war. We're 8,000 miles away from our home, we've done a great job in the sense that we've killed a lot of terrorists. We've put them out of commission."
-          }
-        },
-        {
-          "match_score": 0.6575341,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "202",
-            "title": "Donald Trump Rally in Nevada",
-            "date": "20240610",
-            "topics": "Immigration, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 9,
-            "text": "There always has been. Under the Trump administration, if you cross our border illegally, we caught you and we brought you back. We took you back from where you came. It was very simple. () We had the greatest... Think of it, all he had to do was leave my people in place, leave everybody in place, and he wouldn't be going through this right now. I think it's one of his many big problems. I think the Afghan situation was the most embarrassing day in the history of our country, actually. He has a lot of bad days."
-          },
-          "context": {
-            "previous": "And he has that little chair that weighs about seven ounces. It's meant so children can lift it and very old people can lift it. And you know what? He's not old. He's incompetent. He's not old. He's not old. I know people that are 88, 89, 92. A man named Bernie Marcus, founder of Home Depot. Bernie Marcus is 95, I think. And he is 100, you talk to him, he's 100% sharp. This guy, there's just something missing. And there always has been, by the way. He always had the worst and dumbest foreign policy.",
-            "next": "I could name them. But we don't have enough time. We only have a few hours. We don't have enough time. And now, by the way, it's 110, but it doesn't feel it to me, right? So we'll stay out here for a little while. If anybody gets tired, you'll let me know. And if anybody goes down, if you start going down, we have people, they'll pick you up right away. They'll throw water. They were so worried. Everybody was so worried yesterday about you, and they never mentioned me. () I'm up here sweating like a dog."
-          }
-        },
-        {
-          "match_score": 0.64019036,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "114",
-            "title": "Geraldo Rivera Donald Trump Podcast Transcript: Donald Trump Talks Ukraine, Roger Stone, and More",
-            "date": "20200214",
-            "topics": "Economy, Foreign Policy, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 61,
-            "text": "Maybe Trump will lose and you'll make a deal with a stiff. You'll make a deal with a Biden or somebody because just don't make a deal because just wait, wait,\" because it makes him look bad if they make a deal. That's most of it in my opinion. But he's, in my opinion, he's violated the Logan Act and violated it seriously. And we'll see what happens on that. Oh, I have plenty of back channels. Look, they are desperate to make a deal. Their economy is crashed. They're not funding terrorism like they were."
-          },
-          "context": {
-            "previous": "Don't forget, in Iran, they kill many, many people. You know the protests, they kill people. They shoot people with snipers. They shoot them. Because in my opinion, John Kerry has made it very tough because, and I think he's totally violated the Logan Act. John Kerry's made it very tough because he's telling them or he has told them, I think now he knows that we're looking at the Logan Act with respect to him. He's told them, \"Don't make a deal. Don't make a deal.",
-            "next": "When I took over, they were a terror. There were 18 sites of confliction. Now they just want to survive. Their economy went down 25% last year. Their GDP is down so much that nobody's ever seen anything like it. They should talk. They don't know how to go about it. We're going to find out. But I think they want to try and wait it out until after the election hoping that some stiff gets elected and they can have their way and take over the world. I was right. I am. I love the people of Puerto Rico, you know that."
-          }
+        "context": {
+          "previous": "And it ranges on the scale of support and care, right? Sometimes it's a little bit of one, sometimes it's more of the other. But families need help doing that. And it should be our collective interest in supporting that approach because it's just simply the right thing to do. And so, again, I want to thank you all for your courage to tell your story. It's great to see all three of you. I know you are a multi-generational family and there's so much that is great about that.",
+          "next": "We're going to hear from [Nelia Calda :20], who is a home care worker in Scottsdale, Arizona and owns her own home care agency. Welcome, Nelia. Thank you. Nelia, well, first let me just give you a little background on my perspective. One, I spent a day with a home healthcare worker, a member of SEIU by the name of Wendy [Cogh :19] years ago. I spent the whole day with her. The work she did during those long hours of that day was extraordinary."
         }
-      ],
-      "Harris": [],
-      "Trump_avg_score": 0.6617,
-      "Combined_avg_score": 0.6617
-    }
+      },
+      {
+        "match_score": 0.5978279,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "070",
+          "title": "VP Kamala Harris Speech During Meeting with Religious Leaders Transcript",
+          "date": "20210331",
+          "topics": "Economy, Social Justice, Government Policy"
+        },
+        "matched_segment": {
+          "segment_id": 21,
+          "text": "And then wanted to talk with you about some of the light that we are seeing as an administration. And I, of course, bring you greetings from the president, from President Biden. And we are seeing light that also comes from the work that we have a responsibility to do as elected leaders around, for example, the American Rescue Plan and the $1,400 checks lifting half of America's children out of poverty. We're so excited about that."
+        },
+        "context": {
+          "previous": "And so I wanted to bring you together in this season to, first of all, thank you and by extension all of the leaders and our faith leaders around the country for the work you have done to be part of the strength and the guideposts and the pillars that in this moment of such turbulence, they've been holding up our ability to retain our faith and maintain our sense of hope. So first, I want to thank you for all of that.",
+          "next": "The work we are doing to hopefully help people survive through this moment so they can get back up on their feet. So we see light at the end of the tunnel, and in large part because of the vaccinations that are happening, because of the vaccine. And so I want to talk with you about your thoughts, about how we can, and you in particular as our faith-based leaders, can help us to make sure that everyone, when it is their turn, gets a vaccine."
+        }
+      },
+      {
+        "match_score": 0.5978279,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "070",
+          "title": "VP Kamala Harris Speech During Meeting with Religious Leaders Transcript",
+          "date": "20210331",
+          "topics": "Economy, Social Justice, Government Policy"
+        },
+        "matched_segment": {
+          "segment_id": 7,
+          "text": "And then wanted to talk with you about some of the light that we are seeing as an administration. And I, of course, bring you greetings from the president, from President Biden. And we are seeing light that also comes from the work that we have a responsibility to do as elected leaders around, for example, the American Rescue Plan and the $1,400 checks lifting half of America's children out of poverty. We're so excited about that."
+        },
+        "context": {
+          "previous": "And so I wanted to bring you together in this season to, first of all, thank you and by extension all of the leaders and our faith leaders around the country for the work you have done to be part of the strength and the guideposts and the pillars that in this moment of such turbulence, they've been holding up our ability to retain our faith and maintain our sense of hope. So first, I want to thank you for all of that.",
+          "next": "The work we are doing to hopefully help people survive through this moment so they can get back up on their feet. So we see light at the end of the tunnel, and in large part because of the vaccinations that are happening, because of the vaccine. And so I want to talk with you about your thoughts, about how we can, and you in particular as our faith-based leaders, can help us to make sure that everyone, when it is their turn, gets a vaccine."
+        }
+      }
+    ]
   }
 }

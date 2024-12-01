@@ -1,107 +1,66 @@
 {
   "query_id": "002",
-  "query_text": "Well, the reason I'm doing that vote is because the plan is, as you know, the vote is, they have abortion in the ninth month. They even have, and you can look at the previous governor of West Virginia, he said the baby will be born and we will decide what to do with the baby. In other words, we'll execute the baby.And that's why I did that, because that predominates. Because they're radical. The Democrats are radical in that. ",
+  "query_text": "I had no inflation, virtually no inflation, they had the highest inflation, perhaps in the history of our country because I've never seen a worse period of time. ",
   "query_topics": [
-    "Healthcare",
-    "Social Justice"
+    "Economy"
   ],
+  "speaker": "Trump",
   "results": {
-    "Well, the reason I'm doing that vote is because the plan is, as you know, the vote is, they have abortion in the ninth month. They even have, and you can look at the previous governor of West Virginia, he said the baby will be born and we will decide what to do with the baby. In other words, we'll execute the baby.And that's why I did that, because that predominates. Because they're radical. The Democrats are radical in that. ": {
-      "Trump": [
-        {
-          "match_score": 0.826169,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "286",
-            "title": "Donald Trump Speaks at NRA Convention",
-            "date": "20240520",
-            "topics": "Gun Control, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 127,
-            "text": "This is a Democrat, radical Democrat. They want abortion and they fully allow, and in some cases they have a mandate. They allow abortions in the seventh, eighth, ninth month, and even after birth. And you can't have that. So, the fact is they're the radical ones on this issue, not you. They're the radical ones, but every voter has to go with your heart and do what's right. But we also have to remember that politicians, to do many other things, have to get elected."
-          },
-          "context": {
-            "previous": "If the radical Democrat extremists get their way, they will have a federal law for abortion in the seventh, eighth, ninth month, and even executing a baby after birth. If you look at, and you know exactly what I'm talking about, if you look at the former governor of Virginia, he said, yes, we'll have the patient, the woman brought in, the ninth month, and if the baby is born, we will sit down and we will talk to the woman, and we'll decide whether or not she wants to dispose of the baby.",
-            "next": "And I want to thank the six Supreme Court justices, Clarence Thomas, Samuel Alito, John Roberts, Brett Kavanaugh, Neil Gorsuch, and Amy Coney Barrett, for the wisdom and courage they showed on this long-term, very contentious issue. They did what's been wanted for many, many years. (:37) Getting it back to the states, puts the question where it belongs with the vote of the people, and over time it will all work out."
-          }
+    "I had no inflation, virtually no inflation, they had the highest inflation, perhaps in the history of our country because I've never seen a worse period of time. ": [
+      {
+        "match_score": 0.73867756,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "475",
+          "title": "Donald Trump Speaks During UAW Strike Transcript",
+          "date": "20230928",
+          "topics": "Economy, Government Policy"
         },
-        {
-          "match_score": 0.817331,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "044",
-            "title": "Trump Holds News Conference at Mar-a-Lago",
-            "date": "20240812",
-            "topics": "Economy, Immigration, Foreign Policy, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 61,
-            "text": "What I've done is I've done what every Democrat and every Republican wanted to have done, and we brought that issue back to the States, and now the States are voting on it, and frankly, some of the votes are a lot different than people would've thought, but it's the vote of the people that's taking care of it. () And when you think about the radical, the Democrats are really the radical ones on this because they're allowed to do abortion on the eighth and ninth month and even after birth."
-          },
-          "context": {
-            "previous": "And then you have Texas and you have other places where it may be different. () But the issue has been brought back to the States now, and like Ronald Reagan, I believe in the exceptions for rape, incest, and life of the mother, I believe strongly. I think that that's a very important thing. I think when you don't... You have to follow your heart, but when you don't believe, and the exceptions, I think it's much tougher, it's a much tougher issue.",
-            "next": "If you look at your new governor from Minnesota, he's talking about... He's like the governor previous, the former governor. I don't want to get him mixed up because Glenn is doing a good job and he's leading our whole campaign in Virginia, Glenn Youngkin, but previous to Glenn, the governor, he said, \"The baby will be born, we will put the baby aside and we will decide the mother what we're going to do,\" in other words, whether or not we're going to kill the baby."
-          }
+        "matched_segment": {
+          "segment_id": 70,
+          "text": "The inflation that you have now, we didn't have inflation. We had the greatest economy in the history of our country. You know that because you went four years like you've never had in your history, in the history of Michigan. () To the striking workers, I support you in your goal of fair wages and greater stability, and I truly hope you get a fair deal for yourselves and your families."
         },
-        {
-          "match_score": 0.8168789,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "088",
-            "title": "Trump Addresses National Association of Black Journalists",
-            "date": "20240805",
-            "topics": "Economy, Social Justice, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 34,
-            "text": "If you don't like me, I'm not going to win. J.D. Vance? But at least was said in a friendly manner. I don't think... Look, I think that the Democrat party is really the one that has the problem. I think they're radical on abortion because they're allowing abortion in the ninth month. They're allowing the death- They're the death of a baby after the baby is born based on governor of Virginia. Based on the Governor of Virginia, they're allowing the death of the baby- ... after it's born."
-          },
-          "context": {
-            "previous": "Maybe Lyndon Johnson mattered for different reasons than what we're talking about. Not for vote reasons, but for political reasons, other political reasons. But historically, the choice of a vice president makes no difference. You're voting for the president and you can have a vice president who's outstanding in every way, and I think J.D. Is, I think that all of them would've been, but you're not voting that way. You're voting for the president. You're voting for me. If you like me, I'm going to win.",
-            "next": "They're allowing abortions in the eighth and ninth month. I think they're right, and I think the Republican Party is actually much lesser. I think I've made them much less radical, perhaps, but the Republican Party, what we're doing is bringing it back to the states where everybody wanted it. Democrats, Republicans, liberals, conservatives, everybody wanted abortion brought back. They didn't want Roe, v. Wade in the federal government. They wanted it, everybody wanted it back- Excuse me."
-          }
-        },
-        {
-          "match_score": 0.8002014,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "221",
-            "title": "Trump Campaigns at Faith & Freedom Conference",
-            "date": "20240625",
-            "topics": "Gun Control, Immigration, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 47,
-            "text": "The people are now deciding, and some states are a little bit more conservative and some states are much more liberal. () If the radical democratic streams get their way, they will have a federal law for abortion to rip the baby out of the womb in the seventh, eighth and ninth month and even execute the baby after birth. They have that the governor- The governor, think of it, the governor of Virginia, previous governor, we have a great governor of Virginia right now, but..."
-          },
-          "context": {
-            "previous": "It's now up to the will of the people in each state. Some states will be more conservative, other states will be more liberal. It's happening now. You see the votes are all taking place, and it's the way every legal scholar and just about all the Democrats and all the Republicans and conservatives and liberals, they all wanted it that way and we did something that was amazing. () The big problem was it was caught up in the federal government, but the people will decide and that's the way it should be.",
-            "next": "Glenn Youngkin is doing a great job, but the previous governor of Virginia, you want to make that very clear because he's doing great, the previous was not so good, but he actually made that statement, \"We'll put the baby down after the baby's... We'll put that... And you'll decide what to do.\" () And there are states that allow that. They're the radical ones on this issue. Far and away, the radical ones, not us."
-          }
-        },
-        {
-          "match_score": 0.7855505,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "286",
-            "title": "Donald Trump Speaks at NRA Convention",
-            "date": "20240520",
-            "topics": "Gun Control, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 126,
-            "text": "If the radical Democrat extremists get their way, they will have a federal law for abortion in the seventh, eighth, ninth month, and even executing a baby after birth. If you look at, and you know exactly what I'm talking about, if you look at the former governor of Virginia, he said, yes, we'll have the patient, the woman brought in, the ninth month, and if the baby is born, we will sit down and we will talk to the woman, and we'll decide whether or not she wants to dispose of the baby."
-          },
-          "context": {
-            "previous": "Both great states, came out much more liberal in terms of this issue than some people would've thought. But the vote is the vote, and it's the will of the people. Some states will be more conservative and others will be more liberal, but the people will decide, and that's the way it should be. And that's the way people have wanted it to be for many, many decades.",
-            "next": "This is a Democrat, radical Democrat. They want abortion and they fully allow, and in some cases they have a mandate. They allow abortions in the seventh, eighth, ninth month, and even after birth. And you can't have that. So, the fact is they're the radical ones on this issue, not you. They're the radical ones, but every voter has to go with your heart and do what's right. But we also have to remember that politicians, to do many other things, have to get elected."
-          }
+        "context": {
+          "previous": "It's not going to work for you. It can't work. And I learned a lot today with this great family. I tell you, they said it just won't work. They don't need anything that you have right here in Michigan, and they have beautiful product. () There's no such thing as a fair transition to the end of your way of life. You're going to lose your beautiful way of life. For auto workers, Biden's forced transition is a transition to hell. It's a transition to hell. It's a transition to unemployment and to inflation without end.",
+          "next": "But if your union leaders will not demand that crooked Joe repeal his electric vehicle mandate immediately, then it doesn't matter what hourly word you get, it just doesn't make a damn bit of difference because in two to three years, you will not have one job in this state. And you've seen it happen before. () You've seen what happened where massive percentages of your industry went to other countries like Mexico, like China, like South Korea, like Japan."
         }
-      ],
-      "Harris": [],
-      "Trump_avg_score": 0.8092,
-      "Combined_avg_score": 0.8092
-    }
+      },
+      {
+        "match_score": 0.7301154,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "406",
+          "title": "Trump Town Hall in North Carolina",
+          "date": "20241007",
+          "topics": "Veterans Affairs, Government Policy"
+        },
+        "matched_segment": {
+          "segment_id": 10,
+          "text": "And these clowns took over, and what they've done to our country, between that and so many other things, what they've done to our country. But inflation was the worst we've ever had, I think. They say, \"Oh, it was only 48 years.\" Somebody, one of the fake news back there, they corrected me one time. They said, \"No, 48 years.\" \"Oh, okay.\" But it wasn't. I believe it was the worst that we've ever had. Speaker 9 And that's been one of the big problems."
+        },
+        "context": {
+          "previous": "My favorite piece of paper, my favorite chart, but we had a chart. Do you have something up here that you could show? I love that chart. Oh, I love that chart. If I didn't look to the right, I wouldn't be going to Butler tomorrow. We're going to Butler tomorrow. If I didn't look over... () So no, but if you look at the chart, at the arrow on the bottom, that shows the lowest number in the history of our country. That was the day I left office.",
+          "next": "But to me, and I know that you talk about the bad economy, you talk about all the costs and the costs are so bad, to me, the worst is the border, because it's like what they're doing is they're destroying our country. And it's not easy. We're going to get them out. We're going to have the largest deportation in history. I'm not proud to say that either, but it's a tough thing to do. () And Ana, we're going to get the criminals out. We're going to start with the worst of them, and we're going to get them out."
+        }
+      },
+      {
+        "match_score": 0.72949713,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "009",
+          "title": "Donald Trump Rally in Schnecksville, Pennsylvania",
+          "date": "20240416",
+          "topics": "Economy, Foreign Policy, Immigration, Technology"
+        },
+        "matched_segment": {
+          "segment_id": 28,
+          "text": "I want to say they respected me. But the fact is, none of this stuff would be happening. None of it would be happening right now. We'd have a country that would be peaceful, prosperous. We would've had no inflation. Inflation was caused by energy. This stupid person, what he did with energy was that it went up 40, 50, 60%. That affects everything. Everything. If you make donuts, everything is more expensive. It's so bad."
+        },
+        "context": {
+          "previous": "Everybody's fighting. Russia, Ukraine, Israel. The Middle East is blowing up. Everything's blowing up. China's going to be next with Taiwan, because of weakness. China's going to be next. What's going on?\" () He said, \"Bring Donald Trump back as president, and it'll all stop. It'll all stop.\" He said it. And he said something else, and I wouldn't say it, because I wouldn't really like the word. \"China was afraid of Donald Trump. Russia was afraid of Donald Trump. Everybody was afraid.\" I don't want to say that.",
+          "next": "When you look at food prices now, where it's gone up by double and triple and quadruple, and you can never get that back. But we're going to get it way down, I promise you. () And we're going to bring your energy so low that other things will follow. And that's what happened. It's very simple. Instead of trying to have corrupt prosecutors fight his battles, he's incompetent, and what he's doing, and I don't believe it's even him. I think it's the people that want to keep their jobs around him. They're Communists."
+        }
+      }
+    ]
   }
 }

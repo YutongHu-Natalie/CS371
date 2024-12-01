@@ -40,21 +40,11 @@ class SpeechSearcher:
         except Exception:
             return None
 
-    def search(self, query: str, speaker: Optional[str] = None, topics: Optional[List[str]] = None, top_k: int = 3) -> Tuple[
+    def search(self, query: str, speaker: Optional[str] = None, topics: Optional[List[str]] = None, top_k: int = 3) -> \
+    Tuple[
         List[Dict[str, Any]], List[float]]:
         """
         Perform similarity search and return results with immediate context.
-
-        Args:
-            query: Search query text
-            speaker: Optional speaker name to filter results ("Trump" or "Harris")
-            topics: Optional list of topics to filter results
-            top_k: Number of top results to return
-
-        Returns:
-            Tuple containing:
-            - List of search results with context
-            - List of all similarity scores (for debugging)
         """
         try:
             # Generate embedding for the query
@@ -68,7 +58,6 @@ class SpeechSearcher:
             if topics:
                 filters.append(FieldCondition(key="topics", match=MatchValue(value=topic)) for topic in topics)
 
-
             search_filter = Filter(must=filters) if filters else None
 
             # First, get all results without threshold to analyze scores
@@ -77,14 +66,14 @@ class SpeechSearcher:
                 query_vector=query_embedding,
                 limit=top_k,
                 with_payload=True,
-                score_threshold=0.0,  # No threshold initially
+                score_threshold=0.0,
                 query_filter=search_filter
             )
 
             all_scores = [result.score for result in all_results]
 
-            # Filter results with high similarity (0.65 threshold)
-            high_similarity_results = [result for result in all_results if result.score >= 0.65]
+            # Filter results with high similarity and respect top_k limit
+            high_similarity_results = [result for result in all_results if result.score >= 0.5][:top_k]
 
             # Process results and add context
             detailed_results = []
@@ -178,7 +167,7 @@ def main():
         if not results:
             print("\nNo high-similarity matches found.")
             if all_scores:
-                print(f"Best match score was: {max(all_scores):.3f} (threshold is 0.65)")
+                print(f"Best match score was: {max(all_scores):.3f} (threshold is 0.5)")
                 print("Try:")
                 print("1. Using different key phrases")
                 print("2. Searching for shorter, specific phrases")

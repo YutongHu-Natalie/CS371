@@ -1,15 +1,33 @@
 {
-  "query_id": "000",
-  "query_text": "I absolutely support reinstating the protections of Roe v. Wade. And as you rightly mentioned, nowhere in America is a woman carrying a pregnancy to term and, and, and asking for an abortion. That is not happening. It's insulting to the women of America. ",
+  "query_id": "014",
+  "query_text": "Donald Trump hand-selected three members of the United States Supreme Court with the intention that they would undo the protections of Roe v. Wade. And they did exactly as he intended. ",
   "query_topics": [
-    "Healthcare",
-    "Social Justice"
+    "Social Justice",
+    "Government Policy"
   ],
   "speaker": "Harris",
   "results": {
-    "I absolutely support reinstating the protections of Roe v. Wade. And as you rightly mentioned, nowhere in America is a woman carrying a pregnancy to term and, and, and asking for an abortion. That is not happening. It's insulting to the women of America. ": [
+    "Donald Trump hand-selected three members of the United States Supreme Court with the intention that they would undo the protections of Roe v. Wade. And they did exactly as he intended. ": [
       {
-        "match_score": 0.63522136,
+        "match_score": 0.67130077,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "112",
+          "title": "Harris Rally in Wisconsin",
+          "date": "20240923",
+          "topics": "Economy, Social Justice, Veterans Affairs"
+        },
+        "matched_segment": {
+          "segment_id": 28,
+          "text": "So before at least there was some threat of consequence, and now the court has made this decision. Think about that. Just imagine Donald Trump with no guardrails. He who has vowed to be a dictator on day one, he who has called for \"the termination of the Constitution of the United States of America.\" And let us be very clear, someone who suggests we should terminate the Constitution of the United States should never again stand behind the seal of the President of the United States. Never again. Never again."
+        },
+        "context": {
+          "previous": "And we remember that generations of Americans before us led the fight for freedom. And now the baton is in our hands. Now it's in our hands. It's in our hands. And so much is on the line in this election. And this is not 2016 or 2020. The stakes are even higher, because remember two months ago, the United States Supreme Court basically told the former President that he will effectively be immune no matter what he does in the White House. But think about that. Think about what that means.",
+          "next": "Never again. () So Wisconsin, it all comes down to this. We are here together because we love our country. We love our country. And we understand the awesome responsibility that comes with the greatest privilege on earth, the privilege and pride of being an American, the privilege and pride of being an American. And I do believe that it is one of the highest forms of patriotism to fight for the ideals of our country and to fight to realize the promise of America. So Madison, election day, yes, in 46 days."
+        }
+      },
+      {
+        "match_score": 0.59167814,
         "metadata": {
           "speaker": "Harris",
           "speech_id": "020",
@@ -27,7 +45,7 @@
         }
       },
       {
-        "match_score": 0.604082,
+        "match_score": 0.578127,
         "metadata": {
           "speaker": "Harris",
           "speech_id": "020",
@@ -42,24 +60,6 @@
         "context": {
           "previous": "As governor, Tim has continued to fight for working families. He secured paid leave for workers in Minnesota and he refused as governor to allow any student in their public schools to go hungry, so he made school breakfast and lunch free for every child. And Tim Walz and I, we agree about many things including when our middle class is strong, America is strong. And strengthening in the middle class will be my defining goal as I am President of the United States.",
           "next": "Think about that. (:55) Well, Tim and I have a message for Trump and others who want to turn back the clock on our fundamental freedoms: we're not going back. We're not going back. We're not going back. We're not going back. We're not going back. We're not going back. And so let me say, about Tim Walz, he has shown up to stand against these attacks long before he stood on the stage with me."
-        }
-      },
-      {
-        "match_score": 0.58625954,
-        "metadata": {
-          "speaker": "Harris",
-          "speech_id": "112",
-          "title": "Harris Rally in Wisconsin",
-          "date": "20240923",
-          "topics": "Economy, Social Justice, Veterans Affairs"
-        },
-        "matched_segment": {
-          "segment_id": 26,
-          "text": "And when Congress passes the bill to restore reproductive freedom, as President of the United States, I will proudly sign it into law. Proudly. And across our nation, we are witnessing a full-on assault on other hard-fought, hard-won fundamental rights and freedoms like the freedom to vote, the freedom to be safe from gun violence, the freedom to join a union, the freedom to love who you love openly and with pride. () So we know what we are up against. We are clear-eyed about what we are up against."
-        },
-        "context": {
-          "previous": "And she was so proud that she had worked so hard and she was finally gaining independence, that she found an apartment in a safe community. It had a little pool where her son could play. This is one example of what is happening around our country right now. And this is a healthcare crisis. And Donald Trump is the architect. So I will say to you, because of why we are here, we're going to get Tammy re-elected to the United States Senate.",
-          "next": "And we remember that generations of Americans before us led the fight for freedom. And now the baton is in our hands. Now it's in our hands. It's in our hands. And so much is on the line in this election. And this is not 2016 or 2020. The stakes are even higher, because remember two months ago, the United States Supreme Court basically told the former President that he will effectively be immune no matter what he does in the White House. But think about that. Think about what that means."
         }
       }
     ]

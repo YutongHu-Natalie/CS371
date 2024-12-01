@@ -1,0 +1,67 @@
+{
+  "query_id": "013",
+  "query_text": "My opponent (Trump), on the other hand, his plan is to do what he has done before, which is to provide a tax cut for billionaires and big corporations, which will result in $5 trillion to America's deficit. ",
+  "query_topics": [
+    "Economy",
+    "Government Policy"
+  ],
+  "speaker": "Harris",
+  "results": {
+    "My opponent (Trump), on the other hand, his plan is to do what he has done before, which is to provide a tax cut for billionaires and big corporations, which will result in $5 trillion to America's deficit. ": [
+      {
+        "match_score": 0.77675235,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "102",
+          "title": "Kamala Harris Campaign Event Speech Transcript Houston, TX October 30",
+          "date": "20201030",
+          "topics": "Economy, Social Justice, Government Policy"
+        },
+        "matched_segment": {
+          "segment_id": 18,
+          "text": "To the point that one of his first and in his mind signature initiatives was to create a tax cut for the top 1% and the biggest corporations in America, which is going to cause us to have to deal with the $2 trillion deficit. Well, I'm going to tell you something. If we win this election, Joe Biden and I are about to get rid of that tax cut and invest that money in working families. We're about to put that money into an investment in infrastructure so we can build back up our roads and bridges."
+        },
+        "context": {
+          "previous": "Joe Biden says if you are a student that wants to go to college coming from a family that makes less than $125,000 a year, you will go to a four year public college for free including an HBCU and a private HBCU. On the other hand, you have Donald Trump who when asked about the economy asks, well, how are rich people doing? How is the stock market doing?",
+          "next": "We're about to say that no family, working families should pay more than 7% of your income and childcare. We are about to say and put in place a commitment to support working families knowing that if you want to talk about growing back up America's economy invest in workers, invest in families and all of us will benefit. We are in the midst of many crises. We are in the midst of a long overdue reckoning on racial injustice in America."
+        }
+      },
+      {
+        "match_score": 0.67295,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "115",
+          "title": "Harris Speech in Pittsburgh",
+          "date": "20240926",
+          "topics": "Economy, Healthcare, Government Policy, Veterans Affairs"
+        },
+        "matched_segment": {
+          "segment_id": 15,
+          "text": "() Because at the same time that Donald Trump was giving a tax cut to big corporations and billionaires, he tried to slash programs for small businesses and raise borrowing costs for them. Instead of making it easier, he actually made it more difficult for them to access capital. And that's not surprising because Donald Trump just does not prioritize small businesses. He does not seem to value, frankly, the essential role they play."
+        },
+        "context": {
+          "previous": "() By contrast, Donald Trump, when he was president, has been described by one of the nation's leading experts on small businesses in a piece he published in a major paper as not being good for small businesses. In fact, the title... The title... Wait, because I'm bearing the lead right now. One of the leading experts on small businesses published a piece in one of the major newspapers, and the title, I'm going to quote, Does Donald Trump Hate Small Businesses? And their answer was yes. Their answer was yes.",
+          "next": "But, look, when I look at small business owners, I see some of the heroes of our economy. Not only entrepreneurs, but as I said, civic leaders, community leaders, part of the glue that holds communities together. The third pillar of our opportunity economy is leading the world in the industries of the future and making sure America, not China, wins the competition for the 21st century."
+        }
+      },
+      {
+        "match_score": 0.66941327,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "103",
+          "title": "Kamala Harris Campaign Speech Transcript McAllen, Texas October 30",
+          "date": "20201030",
+          "topics": "Economy, Healthcare, Social Justice, Climate"
+        },
+        "matched_segment": {
+          "segment_id": 18,
+          "text": "Well one of the best ways to grow the economy and any family's economic well-being is home ownership. So we'll have a tax credit, a $15,000 for every new home buyer for down payments and closing costs.\" That's how Joe Biden thinks about the economy. On the other hand you have Donald Trump, who when asked about the economy, asks about the stock market. Asks about how rich people are doing. As one of his first orders of business, passed a tax bill benefiting the top 1%, and the biggest corporations of America."
+        },
+        "context": {
+          "previous": "Tell me how working families are doing.\" Joe Biden says, \"You want to measure the economy, then let's measure the greatness of the economy based on getting folks paid sick leave, paid family leave. Let's deal with the economy by making sure no working family pays more than 7% of their income in childcare. Let's deal with the economy and not raise taxes for anyone who makes less than $400,000, and bring down taxes for middle class families.\" He says, \"You want to talk about the economy?",
+          "next": "Well Rio Grande, I promise you this, as a first order of business, Joe Biden and I area about to work to get rid of that tax cut. And invest that money in working families. Invest that money on building back up our infrastructure, which means the creation of millions of jobs, building back up our infrastructure around roads, and bridges, and renewable energy."
+        }
+      }
+    ]
+  }
+}

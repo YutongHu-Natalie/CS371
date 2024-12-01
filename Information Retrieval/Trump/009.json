@@ -1,106 +1,67 @@
 {
   "query_id": "009",
-  "query_text": "It(the number of undocumented immigrants in my largest domestic deportation plan) is much higher, because of them(Biden and Harris\u2019 government). They allowed criminals. Many, many, millions of criminals. They allowed terrorists. They allowed common street criminals. They allowed people to come in, drug dealers, to come into our country, and they're now in the United States. It(the number of undocumented immigrants in my largest domestic deportation plan) is much higher, because of them(Biden and Harris\u2019 government). They allowed criminals. Many, many, millions of criminals. They allowed terrorists. They allowed common street criminals. They allowed people to come in, drug dealers, to come into our country, and they're now in the United States. ",
+  "query_text": "Fracking? She(Harris)'s been against it for 12 years. Uh, defund the police. She's been against [sic] that forever.\u2026She gave up at least 12 and probably 14 or 15 different policies. Like, she was big on defund the police.",
   "query_topics": [
-    "Immigration"
+    "Climate",
+    "Social Justice"
   ],
+  "speaker": "Trump",
   "results": {
-    "It(the number of undocumented immigrants in my largest domestic deportation plan) is much higher, because of them(Biden and Harris\u2019 government). They allowed criminals. Many, many, millions of criminals. They allowed terrorists. They allowed common street criminals. They allowed people to come in, drug dealers, to come into our country, and they're now in the United States. It(the number of undocumented immigrants in my largest domestic deportation plan) is much higher, because of them(Biden and Harris\u2019 government). They allowed criminals. Many, many, millions of criminals. They allowed terrorists. They allowed common street criminals. They allowed people to come in, drug dealers, to come into our country, and they're now in the United States. ": {
-      "Trump": [
-        {
-          "match_score": 0.74759364,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "381",
-            "title": "Donald Trump Speaks at Campaign Event in Derry, New Hampshire Transcript",
-            "date": "20231024",
-            "topics": "Veterans Affairs"
-          },
-          "matched_segment": {
-            "segment_id": 76,
-            "text": "We will put all of us together, but I will be the leader on this. Put America first. We're going to put America first. Very simple. Under Biden, 270,000 illegal aliens were detected charging across our border. It was like an invasion. In September alone, it's a record, nobody's ever seen that. 270,000. It's larger than most cities. Millions have infiltrated since he took office. I believe the real number is 15 million people. You hear 3, 4, 5, sometimes. I believe the number is 15 million. Many are terrorists."
-          },
-          "context": {
-            "previous": "We're the only ones doing well. But she flip-flopped. Last week you saw that disaster after proposing to flood America with refugees from Gaza. Oh, that sounds like a wonderful idea, doesn't it? So, DeSanctus and bird brain are too weak and too timid and politically ... We need people that are going to defend our country. Our country is in trouble. We need people that are going to defend our country. And I'm the only candidate who says it with relish. I say it with pride.",
-            "next": "Hannibal Lecter was from an insane asylum.\" They said, \"Sir, that's very tough.\" \"Of course, it's true, right?\" \"Yes, it's true, but it's a very tough...\" I said, \"Then I'll say it if it's true.\" They're emptying out their mental institutions, insane asylums, their prisons and their jails, and you have many, many thousands of terrorists pouring into our country. And I'll tell you, does anybody want to hear the snake? Speaker 8 Because we have it and people, they always want to hear the snake. But I love it."
-          }
+    "Fracking? She(Harris)'s been against it for 12 years. Uh, defund the police. She's been against [sic] that forever.\u2026She gave up at least 12 and probably 14 or 15 different policies. Like, she was big on defund the police.": [
+      {
+        "match_score": 0.8131825,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "434",
+          "title": "Trump Rally in Las Vegas",
+          "date": "20240916",
+          "topics": "Immigration, Gun Control, Government Policy"
         },
-        {
-          "match_score": 0.7414465,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "201",
-            "title": "Trump Speaks at Phoenix Rally",
-            "date": "20240610",
-            "topics": "Government Policy, Immigration"
-          },
-          "matched_segment": {
-            "segment_id": 24,
-            "text": "Biden's action this week establishes a annual minimum of approximately two million illegal alien border crosses. In other words, he thinks he's getting tough. He's only going to allow two to three million people into our country. Where do they come from? Not including the millions that will continue to pour through as got-aways. You know a got-away? Those are unreported people. They got away. It's called they got away. It's a good name. They walk into our country, nobody knows they're here."
-          },
-          "context": {
-            "previous": "It's pretty bad when you do such a good job that you can't talk about it. But they said, \"Don't talk about it.\" And they were right. Nobody cared about it because I fixed it. The problem is this border is, I say, 100 times worse than it was in 2016. 2016 was beautiful by comparison. But we'll fix it again. And we'll make it right because we're not going to have a country. () Without borders, you don't have a country.",
-            "next": "That's not even including that Joe Biden is the worst president in the history of the United States by far. He is destroying our country. The only good thing, Jimmy Carter's a nice man. Do we agree? Jimmy Carter is a brilliant president. Jimmy Carter is a brilliant president by comparison. His administration by comparison is brilliant. So, as an older man, not feeling great. And he's a nice person. I know him a little bit. Nice person."
-          }
+        "matched_segment": {
+          "segment_id": 74,
+          "text": "() Harris and Biden waged war on American energy, opened up the Russian pipeline, Nord Stream 2 that I had closed, but shut down the Keystone XL Pipeline that I had opened. She reentered the horribly unfair to the United States US-Paris Climate Accord. I want it to be the Nevada Climate Accord, not the Paris. It's the most unfair document you've ever seen. And she has always said, \"I will ban fracking.\" And she has always said, \"I will defund the police.\" She was the head of the Defund the Police movement."
         },
-        {
-          "match_score": 0.73638487,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "230",
-            "title": "Donald Trump Speech Transcript at North Carolina GOP Convention Dinner June 5",
-            "date": "20210605",
-            "topics": "Immigration, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 52,
-            "text": "I think around 92% had criminal records. Now, they're all being set free and released back into your communities. They don't want to bring them back. If they are back, they actually have a new policy that, if we took them out, they're going to let them come back in. It's the most incredible thing I've ever heard. But the border is just the beginning of the Biden disasters. As you know, we handed the new administration the greatest economy in the history of the world. We passed massive tax cuts. The largest ever."
-          },
-          "context": {
-            "previous": "And these are some of the finest people you'll ever meet. I got to know so many of them and they're among the finest people you'll ever, ever meet. It's true. They love our country. Despite the worst border crisis in history, we've had the smallest number of illegal alien removals ever. ... had the smallest number of illegal alien removals ever recorded. 92% of illegal aliens we removed in 2020 had criminal records. You believe that? Over 90 and very substantially probably higher than that.",
-            "next": "Larger than our great friend, Ronald Reagan. Record regulation cuts, historic pro-American trade deals, and achieved American energy independence. How's your gasoline price doing? Actually, I guess, you were hit worse than any state from what I understand on the cyber attack. It's incredible. It's a lack of respect. After the pandemic began, we launched the fastest economic recovery on record. We produced three vaccines and numerous therapeutics to defeat the virus."
-          }
-        },
-        {
-          "match_score": 0.7320063,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "411",
-            "title": "Donald Trump Des Moines, Iowa Rally Speech Transcript October 9",
-            "date": "20211009",
-            "topics": "Economy, Immigration, Foreign Policy, Education"
-          },
-          "matched_segment": {
-            "segment_id": 70,
-            "text": "We tracked down the gang members, the drug smugglers and the dangerous criminal aliens. And we threw them in jail, or we threw them the hell out of our country. Ideally, we wanted to get them out. But some were so dangerous, we put them in jail. Yet Biden has systematically reversed every border security policy that we had in place. Oh, they were so good."
-          },
-          "context": {
-            "previous": "Now, in all fairness, he did it for a reason. I said, \"If you don't do it, we're going to put a 25% tariff on all the cars that you make and sell it back into the ... \" And they said, \"Yes, we'd love to do it. It would be our honor.\" Whatever it is, it worked. And we have a great relationship with him and with Mexico, and it worked out great. And then these people came, and they tore down everything. Remain in Mexico, gone. All of it's gone. And people are destroying our country.",
-            "next": "I say, and I mean it, if Biden, would've just gone to the beach, just take it easy, enjoy the surf, you'd have a great border today, because it was getting better and better and better. And you hear all the border patrol people, even people that worked for him, they're saying we should have left it. They didn't have to do anything. It was so good. Best we've ever had. And people could come in, but they have to come in legally."
-          }
-        },
-        {
-          "match_score": 0.7277125,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "059",
-            "title": "Donald Trump Speech Transcript August 20: In Joe Biden\u2019s Hometown",
-            "date": "20200820",
-            "topics": "Economy, Immigration, Foreign Policy, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 75,
-            "text": "We stopped asylum fraud and we deported 20,000 gang members and 423,000 criminal aliens. We got them the hell out of our country. But if Biden is elected, all of this security will quickly vanish. Control of the border will be seceded to violent cartels and the left wing crazies who empower them. And you used to see these massive amounts of illegals coming up from Honduras, from Guatemala, El Salvador. They'd come up and it'd be just thousands of them. You don't see that anymore. Mexico is putting ..."
-          },
-          "context": {
-            "previous": "You have ID for almost everything. You have your picture, everything nice, but not on a vote. Most important thing you can do is to vote. And voter ID, but they don't want it. There's only one reason they don't want voter ID. And you know what that is, right? That's really better. You guys all in favor, by the way, of voter ID? Everybody? If they weren't, they wouldn't be congressmen in good standing for very long. I'll tell you that.",
-            "next": "They have right now. They have for months, 27,000 of their soldiers on our Southern border. You got to do it. You got to do it. Mexico has been really working with us very well. I have to tell you the new president of Mexico, now he's not so new. He's been there a little while. But the president of Mexico has done a great job as far as I'm concerned, from the standpoint of our relationship and our relationship with Mexico."
-          }
+        "context": {
+          "previous": "The people that pour into our country illegally. () Now Kamala is pushing the largest individual and small business tax increase in American history. And she said that a 70 to 80% tax rate is something that's very, very doable. \" It's a bold idea,\" she said, \"and it must be discussed.\" Now she changed that a little bit, but with a politician, they always go back to their original thought.",
+          "next": "Anybody that was with that scam for even a week is not fit to serve as the President of the United States. As California Attorney General, she redefined child sex trafficking, assault with a deadly weapon and rape of an unconscious person. These are categories, all categories, horrible categories, but she redefined them as, in all cases, nonviolent crimes. () Kamala supports states being able to take minor children and perform sex change operations on them without their parents' consent. Did you know that?"
         }
-      ],
-      "Harris": [],
-      "Trump_avg_score": 0.737,
-      "Combined_avg_score": 0.737
-    }
+      },
+      {
+        "match_score": 0.75560904,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "444",
+          "title": "Donald Trump Rally on 9/18/24 in Uniondale",
+          "date": "20240919",
+          "topics": "Economy, Immigration, Veterans Affairs, Infrastructure, Government Policy"
+        },
+        "matched_segment": {
+          "segment_id": 24,
+          "text": "She boasted about being the leader of the movement of cashless bail, just like she led the effort to defund the police. She was the leader of the effort to defund the police, and now she's running for president. () But a little while ago, a little while ago, like everything else, no fracking, no this, she changed her mind. Now she says she likes the police. She can't say love, but she says like."
+        },
+        "context": {
+          "previous": "And the accomplice driving the car had been arrested 14 times, but he was actually much worse, he was more vicious. 14 times, but he was actually far more vicious. () This is the kind of story we hear every single day under radical Democrat policies like cashless bail, cashless bail. You kill somebody and you're out on the streets in two hours. Cashless bail has been a disaster for our country. Kamala Harris wanted it no matter where she went.",
+          "next": "She's made a lot of progress, but you know the first thing that would happen is she will go to defunding the police if that's even possible to think about. () But when I get back into the Oval Office, the madness ends and the law and order is going to return to our country. A fully reformed Federal Department of Justice will deliver massive public safety funding for New York and other Democrat-run cities that are under siege. But in exchange, they will give our police back their protection and their respect."
+        }
+      },
+      {
+        "match_score": 0.74783695,
+        "metadata": {
+          "speaker": "Trump",
+          "speech_id": "465",
+          "title": "Trump Rally in Georgia",
+          "date": "20240925",
+          "topics": "Economy, Foreign Policy"
+        },
+        "matched_segment": {
+          "segment_id": 112,
+          "text": "I've been involved on the other side for a long time with helping people out. But I've watched for a long time and I've seen people change one or two policies, but I've never seen people change 15 policies. (:54) She wants to confiscate your gun. Now, she said, \"Oh, I won't do that.\" She wants to have no fracking. She's 100 times no fracking. There will be no fracking in Pennsylvania, right? No fracking. Now she's saying, \"Oh, I'd love to have fracking.\" But they always go back to where they were."
+        },
+        "context": {
+          "previous": "(:03) So, number one, we're going to make America safe because we have to have a safe country or nobody's going to want to come here. And with her, she doesn't know what the word safe is. She was the head of defund the police. Anybody that heads up defund the police is not qualified to be a president of the United States. And anybody that lies like she lies... She lies about everything. She changed 15 policies. Now, I've watched politics for a long time.",
+          "next": "They always go back because that's it, she's a Marxist philosophy. Her father is a Marxist philosopher and he taught her well and that's what you got and you can't have that. Our country is not ready for this and hopefully never will be. (:29) Remember one other thing, and I think it's terrible, she lied about McDonald's."
+        }
+      }
+    ]
   }
 }

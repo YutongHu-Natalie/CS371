@@ -1,145 +1,66 @@
 {
   "query_id": "007",
-  "query_text": "Since I've been Vice President we have capped the cost of prescription medication for seniors at $2,000 a year. ",
+  "query_text": "Tim Walz and I are both gun owners. We're not taking anybody's guns away. ",
   "query_topics": [
-    "Healthcare",
-    "Government Policy"
+    "Gun Control"
   ],
+  "speaker": "Harris",
   "results": {
-    "Since I've been Vice President we have capped the cost of prescription medication for seniors at $2,000 a year. ": {
-      "Trump": [
-        {
-          "match_score": 0.7816886,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "353",
-            "title": "Donald Trump Speech Transcript \u2018Protecting America\u2019s Seniors\u2019 October 16",
-            "date": "20201016",
-            "topics": "Healthcare, Government Policy, Veterans Affairs"
-          },
-          "matched_segment": {
-            "segment_id": 60,
-            "text": "Another critical issue for senior citizens is the price of prescription drugs. This is something I'm very proud of, because we've lowered Part D prescription drug premiums by 12%, saving senior citizens $1.9 billion. But the biggest yet to come, I stood up to big pharma, and that's not easy. They got big money. They're the biggest lobbyist in this country by far. And I signed an executive order, implemented a most favorite nations policy for the United States."
-          },
-          "context": {
-            "previous": "How's that worked out, right? It's worked out very nicely. Talk, we'll talk, keep talking. But it worked out very well. But the other thing they said, \"He will destroy your social security.\" Really? Did I? I said, \"No.\" No, they're going to destroy it, because they'll destroy our country. They'll destroy your social security and they'll destroy your country. And Joe won't have any idea what happened, because he's gone. Let's face it. He's gone.",
-            "next": "For years you've heard, \"We pay more for drugs than any other country.\" Well, that's not even close. We pay much more. And in other countries that we know very well take advantage of us and they pay a fraction. I mean, you wouldn't even believe how much less, but a fraction. 10 cents for a pill, as opposed to $2 for a pill. Same pill from the same lab plant, right? And I instituted a favorite nations clause. I said, if Germany or some other country is getting our stuff low, I want a favored nations."
-          }
+    "Tim Walz and I are both gun owners. We're not taking anybody's guns away. ": [
+      {
+        "match_score": 0.69044155,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "020",
+          "title": "Harris and Walz Hold First Rally",
+          "date": "20240807",
+          "topics": "Economy, Healthcare, Education, Social Justice, Gun Control, Veterans Affairs"
         },
-        {
-          "match_score": 0.7302731,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "325",
-            "title": "Donald Trump White House Press Conference on Lowering Drug Prices Transcript",
-            "date": "20201120",
-            "topics": "Healthcare, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 20,
-            "text": "We kept insulin costs for many seniors at just $35 a month. As I said, saving them an average of nearly $500 to a thousand dollars a year, just on insulin, saving a thousand dollars a year on insulin. Since I took office, we've reduced Medicare part D premiums by 12%, putting nearly $2 billion back into seniors pockets. Now, 12% is great by any standard, but 12% is peanuts compared to what we've done with Favorite Nations. I think it's probably the biggest story that we've ever had relative to drug prices."
-          },
-          "context": {
-            "previous": "They're going to buy a lot from Canada initially. And I think ultimately, they'll be comparing prices. You'll get the lowest price anywhere in the world. So you won't need to buy from Canada. In a few weeks, my administration will also finalize rules requiring federally funded health centers to pass drug company discounts and insulin and EpiPens directly to patients. And the EpiPen prices come way down. We remember those horrible stories about EpiPen. Well, the price has now come way, way, way down.",
-            "next": "There's never been anything like this. This is something that has been talked about for many years. But nobody had the courage to do it because of the power of big pharma. We ended the Gag clauses that prevented pharmacists from telling patients how to buy less expensive drugs. As you know, pharmacists could not talk to patients about how to buy drugs. How about that one? Think that's right? And now they can and should. We approved a record number of affordable generic drugs for three years in a row."
-          }
+        "matched_segment": {
+          "segment_id": 21,
+          "text": "As Governor, he signed the most significant expansion of voting rights in Minnesota in over 50 years. And with Governor Walz's help when I am President, we are going to finally pass the John Lewis Voting Rights Act and the Freedom to Vote Act. We're going to get it done. So Tim is a hunter and a gun owner who believes, as the majority of gun owners do that, we need reasonable gun safety laws in America. So as governor, he expanded background checks and increased penalties for illegal firearm sales."
         },
-        {
-          "match_score": 0.7206218,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "325",
-            "title": "Donald Trump White House Press Conference on Lowering Drug Prices Transcript",
-            "date": "20201120",
-            "topics": "Healthcare, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 0,
-            "text": "Thank you very much. This is a very big announcement. The biggest ever concerning drugs and drug pricing. So today, I have to tell you it's a great honor for me to announce that my administration is issuing two groundbreaking rules to very dramatically lower the price of prescription drugs for the American people. Especially for our cherish seniors."
-          },
-          "context": {
-            "previous": null,
-            "next": "We're pleased to be joined on this occasion by Secretary of Health and Human Services, Alex Azar, an administrator of Center for Medicare, Medicaid Services, Seema Verma. Thank you both. Thank you both. And thank you all for being here. Appreciate it. The unprecedented reforms we're completing today are the direct result of the historic drug pricing executive orders I signed in July. Statutorily, we had to go through a very long process, and we got it done. I was very proud to have gotten this done."
-          }
-        },
-        {
-          "match_score": 0.6930815,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "364",
-            "title": "Donald Trump Rally Transcript Tucson, Arizona October 19",
-            "date": "20201019",
-            "topics": "Economy, Immigration, Gun Control, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 45,
-            "text": "33 million seniors, 33, think of this, $35, but 33 million seniors on Medicare will soon be receiving $200 to help with their drug costs on top of everything else. Nobody's done, by the way, in all fairness... ... With their drug costs on top of everything else. Nobody's done ..."
-          },
-          "context": {
-            "previous": "But until it kicks in, Canada pays half of what we pay. So I'm letting your governor and other governors go to Canada, buy your drugs through Canada, save 50%. We get rid of the middleman. The other thing we did, very big, much less than what we're talking about, but very big. We capped insulin costs for medicine and Medicare. For Medicare plans at less than $35 a month. People were dying because they couldn't afford insulin.",
-            "next": "By the way, in all fairness, nobody has done anything like this, but your big thing, your big thing is going to be when you see what happens with the favored nations, because you've been hearing about it for years, where other countries are paying a tiny fraction of what we, we bear all of the costs because our politicians sold us out. They sold us out, but I'm not a politician, so it's one of the ... I couldn't stand watching it."
-          }
-        },
-        {
-          "match_score": 0.6915666,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "325",
-            "title": "Donald Trump White House Press Conference on Lowering Drug Prices Transcript",
-            "date": "20201120",
-            "topics": "Healthcare, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 2,
-            "text": "We were pushing it very hard, as we did with the vaccines and other things. The first action will save American seniors billions of dollars by preventing middlemen, famous middleman they call them, from ripping off Medicare patients with high prescription prices. Currently, drug companies provide large discounts on the price of prescription medicines, including nearly $40 billion in rebates to Medicare part D plans last year alone."
-          },
-          "context": {
-            "previous": "We're pleased to be joined on this occasion by Secretary of Health and Human Services, Alex Azar, an administrator of Center for Medicare, Medicaid Services, Seema Verma. Thank you both. Thank you both. And thank you all for being here. Appreciate it. The unprecedented reforms we're completing today are the direct result of the historic drug pricing executive orders I signed in July. Statutorily, we had to go through a very long process, and we got it done. I was very proud to have gotten this done.",
-            "next": "Yet often, middlemen stop those discounts from going to the patients, which is what we're interested in and not the middlemen, who need it the most. So the patients are going to be now getting the benefit, instead of these very wealthy individuals. Patients pay very high prices. And they have for many years, although we brought it down. Now, first time in 51 years with the cost adding up to hundreds or even thousands of dollars per year per patient."
-          }
+        "context": {
+          "previous": "After Roe was overturned, he was the first governor in the country to sign a new law that enshrined reproductive freedom as a fundamental right. And with Tim Walz by my side, when I am President of the United States and we win majorities in the United States Congress, we will pass a bill to restore reproductive freedom, and I will properly sign it into law. (:28) Tim Walz has also defended the sacred freedom to vote.",
+          "next": "And together, when we win in November, we are finally going to pass universal background checks, red flag laws and an assault weapons ban. (:05) Through his work, Tim, the way I think about it, he really does shine a light on a brighter future that we can build together. In his state, he has been a model chief executive. And with his experience, I'm telling you, Tim Walz will be ready on day one."
         }
-      ],
-      "Harris": [
-        {
-          "match_score": 0.6645926,
-          "metadata": {
-            "speaker": "Harris",
-            "speech_id": "115",
-            "title": "Harris Speech in Pittsburgh",
-            "date": "20240926",
-            "topics": "Economy, Healthcare, Government Policy, Veterans Affairs"
-          },
-          "matched_segment": {
-            "segment_id": 12,
-            "text": "I had the experience of dealing with that when I was Attorney General. We will take on big pharma, and cap the cost of prescription drugs for all Americans just like we did for our seniors. Now, by contrast, Donald Trump has no intention of lowering costs for the middle class. In fact, his economic agenda would actually raise prices. And listen, that's not just my opinion."
-          },
-          "context": {
-            "previous": "We will also help first-time home buyers just get their foot in the door with the $25,000 down payment assistance. Because the goal is clear, let's help more Americans afford to buy a home, which we know is a critical step in their ability to grow their wealth and intergenerational wealth. () And we will work to reduce other big costs for middle class families. We will take on bad actors who exploit emergencies and drive up grocery prices by enacting the first ever federal ban on corporate price gouging.",
-            "next": "A survey of top economists by the Financial Times and the University of Chicago found that by an overwhelming 70 to 3% margin, my plan would be better for keeping inflation low. Objective economists have been very clear. And they create nearly 50% of private sector jobs and they strengthen our middle class. And if we can harness the entrepreneurialism of the American people and unlock the full potential of aspiring founders and small business owners, I am optimistic that no one will be able to outpace us."
-          }
+      },
+      {
+        "match_score": 0.6891217,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "020",
+          "title": "Harris and Walz Hold First Rally",
+          "date": "20240807",
+          "topics": "Economy, Healthcare, Education, Social Justice, Gun Control, Veterans Affairs"
         },
-        {
-          "match_score": 0.60052603,
-          "metadata": {
-            "speaker": "Harris",
-            "speech_id": "102",
-            "title": "Kamala Harris Campaign Event Speech Transcript Houston, TX October 30",
-            "date": "20201030",
-            "topics": "Economy, Social Justice, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 13,
-            "text": "We need to expand the protections for folks with pre-existing conditions. We need to bring down the cost of prescription drugs. We will lower the cost of premiums. We will bring down the age of Medicare eligibility to 60. We understand that when you're talking about healthcare, let's be clear. The body doesn't just start from the neck down. It also includes the neck up and we need to deal with mental health care in America. Joe understands these issues. There's a clear choice in this election."
-          },
-          "context": {
-            "previous": "Raise your hand if your relative has lupus. Raise your hand if you know somebody who has breast cancer and is surviving. Raise your hand if you know somebody who got COVID. And the man's in court trying to get rid of the protection for people with pre-existing conditions here in Texas, 10 million people have preexisting conditions. So, there is a real choice in this election, on this point. Because you see, on the other hand, you have Joe Biden, who is saying we need to expand Obamacare.",
-            "next": "We are dealing with an economic crisis, of a proportion that parallels the Great Depression. Over 30 million people in the last several months had to file for unemployment. One in five mothers is describing her children under the age of 12 as being hungry in America. We are in the midst of a hunger crisis. People aren't talking enough about that. Here in Texas, 1 in 10 households is describing members of their family as having been hungry. One in six households is describing an inability to pay the rent."
-          }
+        "matched_segment": {
+          "segment_id": 19,
+          "text": "Think about that. (:55) Well, Tim and I have a message for Trump and others who want to turn back the clock on our fundamental freedoms: we're not going back. We're not going back. We're not going back. We're not going back. We're not going back. We're not going back. And so let me say, about Tim Walz, he has shown up to stand against these attacks long before he stood on the stage with me."
+        },
+        "context": {
+          "previous": "(:47) So Pennsylvania, ours is a fight for the future of the middle class, and it is a fight for freedom. In this moment, we are witnessing a full-on attack against hard fought, hard won freedoms and rights. Take reproductive freedom. Now think about this, Donald Trump said he wants to punish women. And as a result of his actions today in America, one out of three women live in a state with a Trump abortion ban, one out of three. Some of these bans go back to the 1800s, even before women had a right to vote.",
+          "next": "After Roe was overturned, he was the first governor in the country to sign a new law that enshrined reproductive freedom as a fundamental right. And with Tim Walz by my side, when I am President of the United States and we win majorities in the United States Congress, we will pass a bill to restore reproductive freedom, and I will properly sign it into law. (:28) Tim Walz has also defended the sacred freedom to vote."
         }
-      ],
-      "Trump_avg_score": 0.7234,
-      "Harris_avg_score": 0.6326,
-      "Combined_avg_score": 0.6975
-    }
+      },
+      {
+        "match_score": 0.6743834,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "020",
+          "title": "Harris and Walz Hold First Rally",
+          "date": "20240807",
+          "topics": "Economy, Healthcare, Education, Social Justice, Gun Control, Veterans Affairs"
+        },
+        "matched_segment": {
+          "segment_id": 22,
+          "text": "And together, when we win in November, we are finally going to pass universal background checks, red flag laws and an assault weapons ban. (:05) Through his work, Tim, the way I think about it, he really does shine a light on a brighter future that we can build together. In his state, he has been a model chief executive. And with his experience, I'm telling you, Tim Walz will be ready on day one."
+        },
+        "context": {
+          "previous": "As Governor, he signed the most significant expansion of voting rights in Minnesota in over 50 years. And with Governor Walz's help when I am President, we are going to finally pass the John Lewis Voting Rights Act and the Freedom to Vote Act. We're going to get it done. So Tim is a hunter and a gun owner who believes, as the majority of gun owners do that, we need reasonable gun safety laws in America. So as governor, he expanded background checks and increased penalties for illegal firearm sales.",
+          "next": "In fact, when you compare his resume, shall we, to Trump's running mate, well, some might say it's like it's a matchup between the varsity team and the JV squad. So Pennsylvania, ultimately in this election, we each face a question, what kind of country do we want to live in? A country of freedom, compassion and rule of law? Or a country of chaos, fear and hate? And here's the beauty of our democracy, we each have the power to answer that question. We each have the power to answer that question."
+        }
+      }
+    ]
   }
 }

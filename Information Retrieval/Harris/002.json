@@ -1,199 +1,68 @@
 {
   "query_id": "002",
-  "query_text": "My opponent (Trump), on the other hand, his plan is to do what he has done before, which is to provide a tax cut for billionaires and big corporations, which will result in $5 trillion to America's deficit. ",
+  "query_text": "My position is that we have got to invest in diverse sources of energy so we reduce our reliance on foreign oil. ",
   "query_topics": [
     "Economy",
-    "Government Polic"
+    "Climate",
+    "Government Policy"
   ],
+  "speaker": "Harris",
   "results": {
-    "My opponent (Trump), on the other hand, his plan is to do what he has done before, which is to provide a tax cut for billionaires and big corporations, which will result in $5 trillion to America's deficit. ": {
-      "Trump": [
-        {
-          "match_score": 0.7337096,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "074",
-            "title": "Donald Trump 2020 RNC Night 4 Speech Transcript",
-            "date": "20200827",
-            "topics": "Economy, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 46,
-            "text": "He has pledged a $4 trillion tax hike on almost all American families, which would totally collapse our rapidly improving economy, and once again record stock markets that we have right now, will also collapse. That means your 401(k)s, that means all of the stocks that you have. On the other hand, just as I did in my first term, I will cut taxes even further for hardworking moms and dads. I will not raise taxes, I will cut them, and very substantially."
-          },
-          "context": {
-            "previous": "We will have a safe and effective vaccine this year, and together we will crush the virus. At the Democrat convention, you barely heard a word about their agenda. But that is not because they don't have one. It is because their agenda is the most extreme set of proposals ever put forward by a major party nominee. Joe Biden may claim he is an ally of the light. But when it comes to his agenda, Biden wants to keep us completely in the dark. He doesn't have a clue.",
-            "next": "And we will also provide tax credits to bring jobs out of China, back to America. And we will impose tariffs on any company that leaves America to produce jobs overseas. We will make sure our companies and jobs stay in our country, as I've already been doing for quite some time if you've noticed. Joe Biden's agenda is made in China. My agenda is made in the USA."
-          }
+    "My position is that we have got to invest in diverse sources of energy so we reduce our reliance on foreign oil. ": [
+      {
+        "match_score": 0.59169364,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "017",
+          "title": "Kamala Harris Singapore Speech on Afghanistan, China Transcript August 24",
+          "date": "20210824",
+          "topics": "Foreign Policy, Technology, Veterans Affairs"
         },
-        {
-          "match_score": 0.7243724,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "213",
-            "title": "Donald Trump Campaign Rally in Racine, Wisconsin",
-            "date": "20240620",
-            "topics": "Economy, Immigration, Foreign Policy, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 63,
-            "text": "That's how we got all the jobs. And I cut your taxes, the biggest tax cut in the history of our country. And we will make the Trump tax cuts permanent, and reduce taxes even more for working families and small businesses. They want to let the Trump tax cuts expire. If you do that, you'll pay four times the amount of tax that you're paying right now. All my life, I've watched politicians, and they always said, \"I'm going to reduce your taxes.\" This is the only group I've ever seen."
-          },
-          "context": {
-            "previous": "And as I said, as our wonderful warriors, they're wounded in many cases they are literally wounded. They're wounded from what's taken place from the trauma, but they're wounded. And they're laying in the streets of San Francisco and Los Angeles and New York and Chicago and Oakland and all over the place. And you have other people living in luxury hotels. You tell me, is this country screwed up or what? () We will cut every unnecessary Biden regulation, and I cut regulations more than any president in history.",
-            "next": "\"We're going to raise your taxes by four times.\" Oh, let's vote for them. There's something crazy going on. There's something crazy in the water. But I produce the cleanest water in the cleanest air. That's what I want. I want clean water, clean crystal, clean air. () Unlike me, Joe Biden isn't fighting for the working people. He is fighting for all of the corrupt interests that get rich off the suffering of the middle class. And he's fighting for China, and he's fighting for lots of other countries."
-          }
+        "matched_segment": {
+          "segment_id": 14,
+          "text": "Our vision includes investing in a clean energy future and building resilient communities, and the relationship between the United States and Singapore and its climate partnership that we announced yesterday will focus on sustainable finance, as just one example of the work we are committed to doing together. The nations of Southeast Asia know the impact of the climate crisis all too well. The rising sea levels, the typhoons, the floods; these disasters have cost human life and livelihoods."
         },
-        {
-          "match_score": 0.72360474,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "295",
-            "title": "Donald Trump Speaks at Libertarian Event",
-            "date": "20240526",
-            "topics": "Economy, Healthcare, Education, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 14,
-            "text": "He is going to give you the largest tax increase in the history of our country. And I will end that and I will make the Trump tax cuts the biggest in the history of our country. We will make them permanent tax cuts. We will also stop the massive Biden inflation tax, A stealth tax by which Crooked Joe Biden is printing trillions and trillions of dollars and plundering it for the cronies and political friends that he's got all over Washington. And we will cancel the Green New Deal, which is the Green New Scam."
-          },
-          "context": {
-            "previous": "I'm proud that I have put forward a detailed plan to smash the censorship and industrial complex and restore free speech. On day one, I will sign an executive order banning federal agencies from colluding to censor the lawful speech of American citizens. And we will remove the rogue bureaucrats who conspire to take away your First Amendment freedoms. We will do that quickly. I will once again slash a record number of liberty-destroying regulations. I will stop Joe Biden's plan for the largest tax.",
-            "next": "It's a big scam. We will terminate Crooked Joe's insane electric vehicle mandate. And we're going to bring your energy costs down by 60 and 70% because we will drill, baby, drill. We're going to drill, baby, drill. We will eliminate illegal government discrimination, return to a society based on individual rights and individual merit. Thank you. And I will also stop Joe Biden's crusade to crush crypto. We are going to stop it."
-          }
-        },
-        {
-          "match_score": 0.7201472,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "389",
-            "title": "Donald Trump Rally Speech Transcript Omaha, NE October 27",
-            "date": "20201027",
-            "topics": "Economy, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 19,
-            "text": "Speaker 8: () Kennedy credits the Trump tax cuts and deregulation for her company's growth. Speaker 9: () It's the first time in 10 years that it's booming again. Speaker 10: () The tax cuts that were imposed did wonders for the middle class. I will cut taxes even further for hard working moms and dads. I will not raise taxes. I will cut them. Speaker 11: () First thing I do is going to repeal this Trump tax cut. Thank you. Thank you very much. Well, that's pretty effective."
-          },
-          "context": {
-            "previous": "Our historic regulatory relief is providing the average American household an extra $3,100 every single year. Speaker 2: () I've had the luxury of enjoying the benefit of the tax cuts. The tax cuts allowed me to grow my businesses. Speaker 5: () I believe that if you take into account the Trump tax cut, you take into account the drop in unemployment and particularly unemployment for African-Americans, the lowest it's ever been in history. Speaker 6: () How's the economy right now? Speaker 7: () We're loving it.",
-            "next": "You know what that costs to bring to you tonight? Thank you. Thank you. Thank you very much. Thank you very much. Pretty effective, right? You see it. It saves me a lot of words. I can sit here, watch. I say, \"See?\" No, he's not the right guy. He's not the right guy. He's not right for this country. He's not the guy for this country. This election is a choice between the American dream, which is what we want and a socialist nightmare, which is where you would head if you ever did that, which I don't believe you'll do."
-          }
-        },
-        {
-          "match_score": 0.71695364,
-          "metadata": {
-            "speaker": "Trump",
-            "speech_id": "210",
-            "title": "Donald Trump Speaks in Detroit at Turning Point Event",
-            "date": "20240617",
-            "topics": "Immigration, Economy, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 68,
-            "text": "() We will make the Trump tax cuts permanent and cut taxes even more for working families and small businesses. You know, it's interesting. We cut taxes, the biggest tax cuts in history, bigger than Reagan, because Reagan had big tax cuts, we had bigger, bigger than Reagan. The rates were cut way down for business, down to 21%, including state and city and everything. Many companies are paying much more than 50. They were cut way down. 21%."
-          },
-          "context": {
-            "previous": "We could have had a deal, if that election wasn't rigged and stolen, we would've had a deal with Iran the first week after the election. Instead, they have a very hostile country that wants nuclear weapons. Can't let that happen. We just gave $6 billion to Iran for five hostages. You saw that. Six billion. Six billion. And once you do that, then all of a sudden, lots of other people are going to go listening because it's crazy. Think of it, $6 billion for five people. It's unbelievable.",
-            "next": "() In fact, I'd like to bring them down further for the middle class, bring them down even more. They're going to let them expire and they're going to give you the biggest tax increase you've ever had ever by four times. But the amazing thing is we cut the rates way down and we took in more money than we ever took out before. With a lower rate, the incentive was so great. People were doing things, businesses were thriving. With a much lower rate, we took in more revenue than we ever took in before."
-          }
+        "context": {
+          "previous": "In fact, today I am proud to announce that the United States is offering to host APEC in 2023. Through APEC, or the Asian Pacific Economic Cooperation Forum, the United States has long worked with our partners in Asia and Latin America to build an interconnected region that advances our collective economic prosperity. A vital part of our agenda is also related to addressing the climate crisis.",
+          "next": "And as we know, the crisis of course is getting much more urgent. I'm sure many of you read and saw the report recently from the United Nations. And in our interconnected world, this issue affects us all, and it requires a collective vision, and it requires collective action. And then of course, there's another issue that truly knows no borders, the pandemic."
         }
-      ],
-      "Harris": [
-        {
-          "match_score": 0.77675235,
-          "metadata": {
-            "speaker": "Harris",
-            "speech_id": "102",
-            "title": "Kamala Harris Campaign Event Speech Transcript Houston, TX October 30",
-            "date": "20201030",
-            "topics": "Economy, Social Justice, Government Policy"
-          },
-          "matched_segment": {
-            "segment_id": 18,
-            "text": "To the point that one of his first and in his mind signature initiatives was to create a tax cut for the top 1% and the biggest corporations in America, which is going to cause us to have to deal with the $2 trillion deficit. Well, I'm going to tell you something. If we win this election, Joe Biden and I are about to get rid of that tax cut and invest that money in working families. We're about to put that money into an investment in infrastructure so we can build back up our roads and bridges."
-          },
-          "context": {
-            "previous": "Joe Biden says if you are a student that wants to go to college coming from a family that makes less than $125,000 a year, you will go to a four year public college for free including an HBCU and a private HBCU. On the other hand, you have Donald Trump who when asked about the economy asks, well, how are rich people doing? How is the stock market doing?",
-            "next": "We're about to say that no family, working families should pay more than 7% of your income and childcare. We are about to say and put in place a commitment to support working families knowing that if you want to talk about growing back up America's economy invest in workers, invest in families and all of us will benefit. We are in the midst of many crises. We are in the midst of a long overdue reckoning on racial injustice in America."
-          }
+      },
+      {
+        "match_score": 0.5912777,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "045",
+          "title": "Vice President Harris Attends the 28th ESSENCE Festival of Culture Transcript",
+          "date": "20220703",
+          "topics": "Healthcare, Social Justice, Government Policy"
         },
-        {
-          "match_score": 0.67295,
-          "metadata": {
-            "speaker": "Harris",
-            "speech_id": "115",
-            "title": "Harris Speech in Pittsburgh",
-            "date": "20240926",
-            "topics": "Economy, Healthcare, Government Policy, Veterans Affairs"
-          },
-          "matched_segment": {
-            "segment_id": 15,
-            "text": "() Because at the same time that Donald Trump was giving a tax cut to big corporations and billionaires, he tried to slash programs for small businesses and raise borrowing costs for them. Instead of making it easier, he actually made it more difficult for them to access capital. And that's not surprising because Donald Trump just does not prioritize small businesses. He does not seem to value, frankly, the essential role they play."
-          },
-          "context": {
-            "previous": "() By contrast, Donald Trump, when he was president, has been described by one of the nation's leading experts on small businesses in a piece he published in a major paper as not being good for small businesses. In fact, the title... The title... Wait, because I'm bearing the lead right now. One of the leading experts on small businesses published a piece in one of the major newspapers, and the title, I'm going to quote, Does Donald Trump Hate Small Businesses? And their answer was yes. Their answer was yes.",
-            "next": "But, look, when I look at small business owners, I see some of the heroes of our economy. Not only entrepreneurs, but as I said, civic leaders, community leaders, part of the glue that holds communities together. The third pillar of our opportunity economy is leading the world in the industries of the future and making sure America, not China, wins the competition for the 21st century."
-          }
+        "matched_segment": {
+          "segment_id": 25,
+          "text": "I just recently convened the Caribbean prime ministers and presidents around what we should do as the United States, seeing them as our neighbors in the Western hemisphere and giving appropriate support there. So we have to multitask. Looking at what we need to do domestically, what we need to do to bring down the cost of gas. Don't do that. Don't do that. Please, don't do that. Well, first and foremost, and I don't need to say to you Kiki, because you really do use your voice in such an extraordinary way."
         },
-        {
-          "match_score": 0.66941327,
-          "metadata": {
-            "speaker": "Harris",
-            "speech_id": "103",
-            "title": "Kamala Harris Campaign Speech Transcript McAllen, Texas October 30",
-            "date": "20201030",
-            "topics": "Economy, Healthcare, Social Justice, Climate"
-          },
-          "matched_segment": {
-            "segment_id": 18,
-            "text": "Well one of the best ways to grow the economy and any family's economic well-being is home ownership. So we'll have a tax credit, a $15,000 for every new home buyer for down payments and closing costs.\" That's how Joe Biden thinks about the economy. On the other hand you have Donald Trump, who when asked about the economy, asks about the stock market. Asks about how rich people are doing. As one of his first orders of business, passed a tax bill benefiting the top 1%, and the biggest corporations of America."
-          },
-          "context": {
-            "previous": "Tell me how working families are doing.\" Joe Biden says, \"You want to measure the economy, then let's measure the greatness of the economy based on getting folks paid sick leave, paid family leave. Let's deal with the economy by making sure no working family pays more than 7% of their income in childcare. Let's deal with the economy and not raise taxes for anyone who makes less than $400,000, and bring down taxes for middle class families.\" He says, \"You want to talk about the economy?",
-            "next": "Well Rio Grande, I promise you this, as a first order of business, Joe Biden and I area about to work to get rid of that tax cut. And invest that money in working families. Invest that money on building back up our infrastructure, which means the creation of millions of jobs, building back up our infrastructure around roads, and bridges, and renewable energy."
-          }
-        },
-        {
-          "match_score": 0.6666181,
-          "metadata": {
-            "speaker": "Harris",
-            "speech_id": "103",
-            "title": "Kamala Harris Campaign Speech Transcript McAllen, Texas October 30",
-            "date": "20201030",
-            "topics": "Economy, Healthcare, Social Justice, Climate"
-          },
-          "matched_segment": {
-            "segment_id": 19,
-            "text": "Well Rio Grande, I promise you this, as a first order of business, Joe Biden and I area about to work to get rid of that tax cut. And invest that money in working families. Invest that money on building back up our infrastructure, which means the creation of millions of jobs, building back up our infrastructure around roads, and bridges, and renewable energy."
-          },
-          "context": {
-            "previous": "Well one of the best ways to grow the economy and any family's economic well-being is home ownership. So we'll have a tax credit, a $15,000 for every new home buyer for down payments and closing costs.\" That's how Joe Biden thinks about the economy. On the other hand you have Donald Trump, who when asked about the economy, asks about the stock market. Asks about how rich people are doing. As one of his first orders of business, passed a tax bill benefiting the top 1%, and the biggest corporations of America.",
-            "next": "Investing in working people, and small businesses, with a focus on 150 billion dollars in low interest loans and access to capital for minority owned businesses. That's how we will deal with this. That's how we will invest our resources. There are clear contrasts, and a clear choice in this race. Let's deal with the long overdue reckoning on racial injustice in America. So, on the one hand, you have Joe Biden, who is a student of American history, and has the courage to say black lives matter."
-          }
-        },
-        {
-          "match_score": 0.6393354,
-          "metadata": {
-            "speaker": "Harris",
-            "speech_id": "115",
-            "title": "Harris Speech in Pittsburgh",
-            "date": "20240926",
-            "topics": "Economy, Healthcare, Government Policy, Veterans Affairs"
-          },
-          "matched_segment": {
-            "segment_id": 6,
-            "text": "So I made that our top priority for obvious reasons, because if we want the middle class to be the growth engine of our economy, we need to restore basic economic security for middle-class families. To that end, the most practical thing we can do right now, is to cut taxes for middle-class families and individuals. And that's what we'll do."
-          },
-          "context": {
-            "previous": "I believe an active partnership between government and the private sector is one of the most effective ways to fully unlock economic opportunity. And that is what I'll do when I'm president. I will target the major barriers to opportunity and remove them. We will identify common sense solutions to help Americans buy a home, start a business, and build wealth, and we will adopt them. () So let's start then with the first pillar of an opportunity economy, which is lowering costs.",
-            "next": "Under my plan, more than 100 million Americans will get a middle-class tax break that includes $6,000 for new parents during the first year of their child's life to help families cover everything from car seats to cribs. We'll also cut the cost of child care and elder care. And finally give all working people access to paid leave, which will help everyone caring for children, caring for aging parents, and that sandwich generation, which is caring for both. () So I have a personal experience with caregiving."
-          }
+        "context": {
+          "previous": "We have extended the child tax credit. And in that, in, so doing in the first year reduced black child poverty by almost 40%, cannot get a Republican to help us extend it beyond. But these are some of the things that we have been doing, understanding the generational impact. Not to mention the work that we need to do that is about foreign policy. I have met with, I don't know, probably at least two dozen foreign leaders, prime ministers, presidents.",
+          "next": "No, you really do. You really do. You have the courage to speak out and you're not concerned about putting your finger in the air to see if it's popular, you speak truth, and I really appreciate, and respect and admire that. But I will say let's not discount what young leaders are doing right now, because there's a lot of extraordinary leadership happening from our young leaders. When I think about civil rights movement and my parents and what they were doing, they were in their 20s. Don't forget, Dr."
         }
-      ],
-      "Trump_avg_score": 0.7238,
-      "Harris_avg_score": 0.685,
-      "Combined_avg_score": 0.7044
-    }
+      },
+      {
+        "match_score": 0.56958324,
+        "metadata": {
+          "speaker": "Harris",
+          "speech_id": "103",
+          "title": "Kamala Harris Campaign Speech Transcript McAllen, Texas October 30",
+          "date": "20201030",
+          "topics": "Economy, Healthcare, Social Justice, Climate"
+        },
+        "matched_segment": {
+          "segment_id": 29,
+          "text": "Joe knows this is not only about what we need to do for our environment, the opportunity in the moment is we can also create jobs. We can invest in infrastructure, in renewable energies, in solar and wind, and that will be millions of jobs. Joe also knows this is an environmental justice issue. When you're looking at the fact that in all of the areas in the country that have poor air quality, 70% of the people who live in those places are people of color."
+        },
+        "context": {
+          "previous": "They name a storm because it's that bad; five. The most recent one being Zeta. We're looking at what's been happening in the Midwest; farmers losing a whole season of crops because of the floods. Joe Biden says, we need to embrace science. We need to speak truth. We need to deal with this with timelines and a sense of urgency because we need to be able to breathe clean air and drink clean water, and see the connection between human behaviors and the crisis we are facing.",
+          "next": "Joe knows that and he understands how we can build back better in a way that we deal with the science. We build up an infrastructure where we'll create millions of jobs and we do it in a way that is about equitable outcomes and we build back better. On the other hand, you have Donald Trump. Okay. So here's the thing."
+        }
+      }
+    ]
   }
 }
