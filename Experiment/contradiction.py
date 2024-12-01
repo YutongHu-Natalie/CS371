@@ -160,7 +160,8 @@ def Contradiction_detection(statements, seg1, seg2, seg3, seg4, seg5, gpt_client
             messages=[
                 {"role": "system", "content": "You are an expert in political science analyzing contradictions."},
                 {"role": "user", "content": input_prompt}
-            ]
+            ],
+            temperature=0.1
         )
 
         # Extract the response content
