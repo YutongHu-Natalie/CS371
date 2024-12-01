@@ -188,11 +188,8 @@ harris_path = os.path.join(root_dir, "CS371\Information Retrieval\Harris")
 speaker = "Harris"
 gpt_client = load_client()
 statements, seg1, seg2, seg3, seg4, seg5 = load_processed(harris_path, speaker)
-print(statements[0])
-print("\n----------------------------------------------------------------------------------")
-print(seg1[0])
 
-
+"""
 # Example data
 statements = ["I have always supported universal healthcare."]
 seg1 = ["I opposed universal healthcare in 2019."]
@@ -200,9 +197,18 @@ seg2 = [""]
 seg3 = [""]
 seg4 = [""]
 seg5 = [""]
-
+"""
+# for testing purposes
 results = Contradiction_detection(statements, seg1, seg2, seg3, seg4, seg5, gpt_client)
+
+print(statements[0])
+print("\n", seg1[0])
+print("\n", seg2[0])
+print("\n", seg3[0])
+print("\n", seg4[0])
+print("\n", seg5[0])
 
 # Print results
 for result in results:
     print(result)
+    print("\n--------------------------------------------------------------------")
