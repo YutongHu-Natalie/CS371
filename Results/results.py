@@ -22,7 +22,7 @@ trump_haiku = pd.array([2,0,2,0,0,2,4,2,2,2,2,2,4,4,2],dtype = "Int64")
 trump_sonnet = pd.array([2,0,2,0,0,2,4,4,0,4,0,0,4,4,2],dtype = "Int64")
 trump_4o = pd.array([0,0,0,0,0,2,4,0,0,1,0,0,4,4,2],dtype = "Int64")
 trump_mini = pd.array([1,0,1,0,0,1,4,3,3,1,1,0,4,4,2],dtype = "Int64")
-trump_1 = pd.array([0,0,0,0,0,2,0,0,0,0,0,0,4,4,2],dtype = "Int64")
+trump_1 = pd.array([0,0,0,0,0,2,4,0,0,4,0,0,4,4,2],dtype = "Int64")
 
 trump = pd.DataFrame({
     "Haiku": trump_haiku,
